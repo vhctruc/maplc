@@ -1,4 +1,4 @@
-﻿MARKER_IC,SHOP_NAME,SHOP_ADRESS,LATITUDE,LONGITUDE,NEARBY
+﻿MARKER_ID,SHOP_NAME,SHOP_ADRESS,LATITUDE,LONGITUDE,NEARBY
 FLC,80006-LC HCM 72 Tân Mỹ,"72 Tân Mỹ, P. Tân Phú, Q. 7, TP. Hồ Chí Minh",10.73633,106.71799,Bệnh viện; Chợ; Đối thủ; Trường học
 FLC,80007-LC HCM 422-424 CMT8,"422-424 Cách Mạng Tháng Tám, P. 11, Q. 3, TP. Hồ Chí Minh",10.78376,106.67088,Chợ; Đối thủ; Trường học
 FLC,80008-LC HCM 94-96 Nguyễn Văn Nghi,"94-96 Nguyễn Văn Nghi, P. 5, Q. Gò Vấp, TP. Hồ Chí Minh",10.823,106.68817,Trường học
@@ -2115,3 +2115,4 @@ FLC,82297-LC STG 164 Trần Hưng Đạo,"164 Trần Hưng Đạo, TT. Huỳnh H
 FLC,"82302-LC NAN Xóm 4, Diễn Trường","Xóm 4, X. Diễn Trường, H. Diễn Châu, Tỉnh Nghệ An",19.10193,105.60795,Chợ; Phòng khám / TYT; Trường học
 FLC,"82332-LC LAN Đường Tỉnh 817, Bình Phong Thạnh","Thửa 24, Bản Đồ 27, ĐT 817, TT. Bình Phong Thạnh, H. Mộc Hóa, Tỉnh Long An",10.72903,106.05706,Bệnh viện; Chợ; Đối thủ
 FLC,82334-LC HCM 720A Điện Biên Phủ,"P4.SH04, Tòa Park, Vinhomes Central Park, 720A Điện Biên Phủ, P. 22, Q. Bình Thạnh, TP. Hồ Chí Minh",10.79279,106.72286,Bệnh viện; Đối thủ; Trường học
+
