@@ -2260,7 +2260,7 @@ FLC,"82305-LC HNI Tòa S1.05, Vinhomes Smart City, P. Tây Mỗ","Cửa hàng 1S
 FLC,"82306-LC HPG TDP Tây Giữa, P. Thủy Nguyên","TDP Tây Giữa, P. Dương Quan, TP. Thủy Nguyên, TP. Hải Phòng",20.898934,106.684624,Chợ; Trường học
 FLC,"82307-LC NBH Ngã 4 Thôn Quán Chiền, X. Nam Minh","Ngã 4, Thôn Quán Chiền, X. Nam Dương, H. Nam Trực, Tỉnh Nam Định",20.326726,106.17482,Ðối thủ; Phòng khám / TYT
 FLC,"82308-LC HPG 108 TDP6, P. Thiên Hương","108 TDP 6, P. Lê Hồng Phong, TP. Thủy Nguyên, TP. Hải Phòng",20.93858,106.630889,Ðối thủ; Trường học
-FLC,"82309-LC HNI Khu Đấu Giá QSDĐ Ngô Thì Nhậm, P. Thanh Xuân","Dãy D Nhà số 1, Khu đấu giá QSDĐ Ngô Thì Nhậm, P. Hà Cầu, Q. Hà Đông, TP. Hà Nội",0.0,0.0,
+FLC,"82309-LC HNI Khu Đấu Giá QSDĐ Ngô Thì Nhậm, P. Thanh Xuân","Dãy D Nhà số 1, Khu đấu giá QSDĐ Ngô Thì Nhậm, P. Hà Cầu, Q. Hà Đông, TP. Hà Nội",20.967325,105.766232,Chợ; Ðối thủ; Trường học
 FLC,"82310-LC HNI Thôn Minh Khai, X. Thanh Trì","Thôn Minh Khai, X. La Phù, H. Hoài Đức, TP. Hà Nội",0.0,0.0,
 FLC,"82311-LC HNI Đường Cái, P. Hà Đông","Đường Cái, Thôn Tự Khoát, X. Ngũ Hiệp, H. Thanh Trì, TP. Hà Nội",20.923135,105.856339,Bệnh viện; Chợ; Trường học
 FLC,"82312-LC HNI 56 Nguyễn Trãi, P. Thanh Xuân","Tầng 1, Tòa Nhà 56 Nguyễn Trãi, P. Thượng Đình, Q. Thanh Xuân, TP. Hà Nội",21.0015149,105.8176139,Ðối thủ; Trường học
@@ -2272,8 +2272,8 @@ FLC,"82317-LC LCU 37 Hoàng Văn Thái, P. Tân Phong","37 Hoàng Văn Thái, P.
 FLC,"82318-LC THA 77 Trần Hưng Đạo, P. Sầm Sơn","77 Trần Hưng Đạo, P. Quảng Tiến, TP. Sầm Sơn, Tỉnh Thanh Hóa",0.0,0.0,
 FLC,"82319-LC HPG 310A Phủ Thượng Đoạn, P. Đông Hải","310A Phủ Thượng Đoạn, P. Đông Hải 1, Q. Hải An, TP. Hải Phòng",0.0,0.0,
 FLC,"82320-LC QNH 44B Hùng Vương, P. Móng Cái 1","44B đường Hùng Vương, phường Hòa Lạc, thành phố Móng Cái, tỉnh Quảng Ninh",0.0,0.0,
-FLC,"82321-LC QNH Tổ 1 Bạch Đằng 1, P. Yên Tử","Tổ 1 Bạch Đằng 1, P. Phương Nam, TP. Uông Bí, Tỉnh Quảng Ninh",0.0,0.0,
-FLC,"82322-LC QNH 226 Nguyễn Văn Cừ, P. Vàng Danh","226 Nguyễn Văn Cừ, P. Vàng Danh, TP. Uông Bí, Tỉnh Quảng Ninh",0.0,0.0,
+FLC,"82321-LC QNH Tổ 1 Bạch Đằng 1, P. Yên Tử","Tổ 1 Bạch Đằng 1, P. Phương Nam, TP. Uông Bí, Tỉnh Quảng Ninh",21.018956,106.700301,Chợ; Trường học
+FLC,"82322-LC QNH 226 Nguyễn Văn Cừ, P. Vàng Danh","226 Nguyễn Văn Cừ, P. Vàng Danh, TP. Uông Bí, Tỉnh Quảng Ninh",21.099172,106.797747,Chợ
 FLC,"82323-LC PTO TDP Công Bình, X. Xuân Lãng","TDP Công Bình, TT. Thanh Lãng, H. Bình Xuyên, Tỉnh Vĩnh Phúc",0.0,0.0,
 FLC,"82324-LC PTO 94 Trần Hưng Đạo, P. Phúc Yên","94 Trần Hưng Đạo, P. Hai Bà Trưng, TP. Phúc Yên, Tỉnh Vĩnh Phúc",0.0,0.0,
 FLC,"82325-LC HNI 32 Tựu Liệt, P. Hoàng Liệt","32 Tựu Liệt, TT. Văn Điển, H. Thanh Trì, TP. Hà Nội",0.0,0.0,
