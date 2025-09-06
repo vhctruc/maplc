@@ -1611,7 +1611,7 @@ FLC,"81651-LC DNI 145 Đường ĐT741, X. Đắk Ơ","145 Đường ĐT741, X. 
 FLC,"81652-LC HCM 93 Đường Số 15, P. Tân Hưng","93 Đường số 15, P. Tân Quy, Q. 7, TP. Hồ Chí Minh",10.745445,106.707438,Chợ; Cụm Chung Cư / Đô Thị Mới; Ðối thủ; Trường học
 FLC,"81653-LC HCM 533 Lạc Long Quân, P. Bảy Hiền","533 Lạc Long Quân, P. 10, Q. Tân Bình, TP. Hồ Chí Minh",10.775893,106.648722,Ðối thủ; Trường học
 FLC,"81654-LC HCM 207 Nguyễn Hồng Đào, P. Tân Bình","207 Nguyễn Hồng Đào, P. 14, Q. Tân Bình, TP. Hồ Chí Minh",10.791433,106.641585,Bệnh viện; Cụm Chung Cư / Đô Thị Mới; Ðối thủ; Trường học
-FLC,"81655-LC HCM 168-170-172-174 Tân Hương, P. Tân Sơn Nhì","168-170-172-174 Tân Hương, P. Tân Quý, Q. Tân Phú, TP. Hồ Chí Minh",10.789844,106.624117,Bệnh viện; Ðối thủ; Trường học
+FLC,"81655-LC HCM 168-170-172-174 Tân Hương, P. Phú Thọ Hòa","168-170-172-174 Tân Hương, P. Tân Quý, Q. Tân Phú, TP. Hồ Chí Minh",10.789844,106.624117,Bệnh viện; Ðối thủ; Trường học
 FLC,"81656-LC HCM 214 Đỗ Xuân Hợp, P. Phước Long","214 Đỗ Xuân Hợp, P. Phước Long A, TP. Thủ Đức, TP. Hồ Chí Minh",10.827671,106.768619,Ðối thủ; Trường học
 FLC,"81657-LC HCM 338-340 Dương Quảng Hàm, P. An Nhơn","338-340 Dương Quảng Hàm, P. 5, Q. Gò Vấp, TP. Hồ Chí Minh",10.831781,106.686829,Cụm Chung Cư / Đô Thị Mới; Ðối thủ; Trường học
 FLC,"81658-LC HCM 38 Liêu Bình Hương, X. Củ Chi","38 Liêu Bình Hương, X. Tân Thông Hội, H. Củ Chi, TP. Hồ Chí Minh",10.963031,106.503441,Chợ; Ðối thủ; Trường học
@@ -2199,7 +2199,7 @@ FLC,"82244-LC LCU 45 Đường 30/04, P. Tân Phong","45 Đường 30/04, P. Đ�
 FLC,"82245-LC HCM 39B Cao Thắng, P. Bàn Cờ","39B Cao Thắng, P. 2, Q. 3, TP. Hồ Chí Minh",10.769816,106.682243,Bệnh viện; Chợ; Ðối thủ; Trường học
 FLC,"82246-LC HCM 129 Nguyễn Thị Tần, P. Chánh Hưng","129 Nguyễn Thị Tần, P. Rạch Ông, Q. 8, TP. Hồ Chí Minh",10.746094,106.686335,Bệnh viện; Chợ; Ðối thủ; Trường học
 FLC,"82247-LC HCM 57-59 Huỳnh Tấn Phát, P. Tân Thuận","57-59 Huỳnh Tấn Phát, P. Tân Thuận Đông, Q. 7, TP.Hồ Chí Minh",10.755717,106.722637,Chợ; Ðối thủ
-FLC,"82248-LC HCM 226 Tân Hương, P. Tân Sơn Nhì","226 Tân Hương, P. Tân Quý, Q. Tân Phú, TP. Hồ Chí Minh",10.7901861,106.6217463,Ðối thủ; Trường học
+FLC,"82248-LC HCM 226 Tân Hương, P. Phú Thọ Hòa","226 Tân Hương, P. Tân Quý, Q. Tân Phú, TP. Hồ Chí Minh",10.7901861,106.6217463,Ðối thủ; Trường học
 FLC,"82249-LC HCM 8/8 Nguyễn Thị Sóc, X. Xuân Thới Sơn","8/8 Nguyễn Thị Sóc, X. Xuân Thới Đông, H. Hóc Môn, TP. Hồ Chí Minh",10.860076,106.602564,Chợ; Ðối thủ; Trường học
 FLC,"82250-LC VLG Quốc Lộ 54, X. Tân Lược","Quốc lộ 54, X. Tân Lược, H. Bình Tân, Tỉnh Vĩnh Long",10.140635,105.717123,Trường học
 FLC,"82251-LC TNH Đường DT785, X. Tân Đông","Đường DT785, X. Tân Hà, H. Tân Châu, Tỉnh Tây Ninh",11.716687,106.183206,Ðối thủ; Phòng khám / TYT; Trường học
@@ -2260,8 +2260,8 @@ FLC,"82305-LC HNI Tòa S1.05, Vinhomes Smart City, P. Tây Mỗ","Cửa hàng 1S
 FLC,"82306-LC HPG TDP Tây Giữa, P. Thủy Nguyên","TDP Tây Giữa, P. Dương Quan, TP. Thủy Nguyên, TP. Hải Phòng",20.898934,106.684624,Chợ; Trường học
 FLC,"82307-LC NBH Ngã 4 Thôn Quán Chiền, X. Nam Minh","Ngã 4, Thôn Quán Chiền, X. Nam Dương, H. Nam Trực, Tỉnh Nam Định",20.326726,106.17482,Ðối thủ; Phòng khám / TYT
 FLC,"82308-LC HPG 108 TDP6, P. Thiên Hương","108 TDP 6, P. Lê Hồng Phong, TP. Thủy Nguyên, TP. Hải Phòng",20.93858,106.630889,Ðối thủ; Trường học
-FLC,"82309-LC HNI Khu Đấu Giá QSDĐ Ngô Thì Nhậm, P. Thanh Xuân","Dãy D Nhà số 1, Khu đấu giá QSDĐ Ngô Thì Nhậm, P. Hà Cầu, Q. Hà Đông, TP. Hà Nội",20.967325,105.766232,Chợ; Ðối thủ; Trường học
-FLC,"82310-LC HNI Thôn Minh Khai, X. Thanh Trì","Thôn Minh Khai, X. La Phù, H. Hoài Đức, TP. Hà Nội",0.0,0.0,
+FLC,"82309-LC HNI Khu Đấu Giá QSDĐ Ngô Thì Nhậm, P. Hà Đông","Dãy D Nhà số 1, Khu đấu giá QSDĐ Ngô Thì Nhậm, P. Hà Cầu, Q. Hà Đông, TP. Hà Nội",20.967325,105.766232,Chợ; Ðối thủ; Trường học
+FLC,"82310-LC HNI Thôn Minh Khai, X. An Khánh","Thôn Minh Khai, X. La Phù, H. Hoài Đức, TP. Hà Nội",20.981263,105.731324,Chợ; Trường học
 FLC,"82311-LC HNI Đường Cái, P. Hà Đông","Đường Cái, Thôn Tự Khoát, X. Ngũ Hiệp, H. Thanh Trì, TP. Hà Nội",20.923135,105.856339,Bệnh viện; Chợ; Trường học
 FLC,"82312-LC HNI 56 Nguyễn Trãi, P. Thanh Xuân","Tầng 1, Tòa Nhà 56 Nguyễn Trãi, P. Thượng Đình, Q. Thanh Xuân, TP. Hà Nội",21.0015149,105.8176139,Ðối thủ; Trường học
 FLC,"82313-LC NBH 103 Vũ Hữu Lợi, P. Nam Định","103 Tổ 3 Đường Vũ Hữu Lợi, P. Cửa Nam, TP. Nam Định, Tỉnh Nam Định",20.417955,106.181749,Chợ; Phòng khám / TYT
@@ -2304,8 +2304,8 @@ FLC,"82349-LC TNH 68C Đường Tỉnh 824, X. Mỹ Hạnh","68C Đường Tỉn
 FLC,"82350-LC HCM 061/B-062/B Đường DT747, P. Tân Uyên","061/B-062/B Đường DT747, P. Uyên Hưng, TP. Tân Uyên, Tỉnh Bình Dương",0.0,0.0,
 FLC,"82351-LC DLK Thôn Triều Sơn, X. Xuân Thọ","Thôn Triều Sơn, Xã Xuân Lâm, Thị Xã Sông Cầu, Tỉnh Phú Yên",0.0,0.0,
 FLC,"82352-LC TNH 216 Quốc Lộ 22B, P. Trảng Bàng","216 Quốc Lộ 22B, P. Trảng Bàng, TX. Trảng Bàng, Tỉnh Tây Ninh",0.0,0.0,
-FLC,"82353-LC AGG 4 Tôn Đức Thắng, X. Phú Tân","Số 4 đường Tôn Đức Thắng, thị trấn Phú Mỹ, huyện Phú Tân, tỉnh An Giang",0.0,0.0,
-FLC,"82354-LC AGG 58-60 Nguyễn Tri Phương, P. Tân Châu","58–60 Nguyễn Tri Phương, Phường Long Thạnh, Thị xã Tân Châu, Tỉnh An Giang",0.0,0.0,
+FLC,"82353-LC AGG 58-60 Nguyễn Tri Phương, P. Tân Châu","58-60 Nguyễn Tri Phương, Phường Long Thạnh, Thị Xã Tân Châu, Tỉnh An Giang",0.0,0.0,
+FLC,"82354-LC AGG 4 Tôn Đức Thắng, X. Phú Tân","Số 4, Đường Tôn Đức Thắng, Thị Trấn Phú Mỹ, Huyện Phú Tân, Tỉnh An Giang",0.0,0.0,
 FLC,"82357-LC HNI 170-171 Tiểu Khu Phú Mỹ, X. Phú Xuyên","170-171 Tiểu Khu Phú Mỹ, TT. Phú Xuyên, H. Phú Xuyên, TP. Hà Nội",0.0,0.0,
 FLC,"82358-LC HPG TDP 6 Do Nha, P. An Dương","Tổ dân phố 6 Đồ Nha, Thị trấn An Dương, Quận An Dương, Tỉnh Hải Phòng",0.0,0.0,
 FLC,"82359-LC NBH Đội 6 Thôn Nhì Giáp, X. Liên Minh","Đội 6, Thôn Nhì Giáp, X. Liên Minh, H. Vụ Bản, Tỉnh Nam Định",0.0,0.0,
