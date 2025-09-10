@@ -1991,7 +1991,7 @@ FLC,"82046-LC AGG Thửa Đất 120-323, Bản Đồ 6, X. Vĩnh Trạch","Thử
 FLC,"82047-LC HCM 995 Hoàng Sa, P. Nhiêu Lộc","995 Hoàng Sa, P. 11, Q. 3, TP. Hồ Chí Minh",10.787168,106.672187,Chợ; Ðối thủ; Trường học
 FLC,"82048-LC DTP 64 ĐT844, X. Phú Thọ","64 Đường ĐT844, X. Phú Thành A, H. Tam Nông, Tỉnh Đồng Tháp",10.689837,105.436446,Chợ; Cụm Chung Cư / Đô Thị Mới
 FLC,"82049-LC KHA 40 Đường 2/8, X. Khánh Vĩnh","40 Đường 2/8, TT. Khánh Vĩnh, H. Khánh Vĩnh, Tỉnh Khánh Hoà",12.279816,108.908358,Chợ; Cụm Chung Cư / Đô Thị Mới; Ðối thủ; Trường học
-FLC,"82050-LC TTH 401 Phạm Văn Đồng, P. Mỹ Thượng","401 Phạm Văn Đồng, P. Phú Thượng, Q. Thuận Hóa, TP. Huế, Tỉnh Thừa Thiên Huế",16.491891,107.602229,Cụm Chung Cư / Đô Thị Mới
+FLC,"82050-LC TTH 401 Phạm Văn Đồng, P. Mỹ Thượng","401 Phạm Văn Đồng, P. Phú Thượng, Q. Thuận Hóa, TP. Huế",16.491891,107.602229,Cụm Chung Cư / Đô Thị Mới
 FLC,"82051-LC HNI Thôn Thanh Trí, X. Kim Anh","Thôn Thanh Trí, X. Minh Phú, H. Sóc Sơn, TP. Hà Nội",21.271701,105.762539,Chợ
 FLC,"82052-LC DBN 15 Nguyễn Chí Thanh, P. Điện Biên Phủ","15 Nguyễn Chí Thanh, P. Mường Thanh, TP. Điện Biên Phủ, Tỉnh Điện Biên",21.386905,103.014416,Chợ; Ðối thủ; Phòng khám / TYT; Trường học
 FLC,"82053-LC DBN 23 Võ Nguyên Giáp, P. Mường Thanh","23 Võ Nguyên Giáp, P. Nam Thành, TP. Điện Biên Phủ, Tỉnh Điện Biên",21.371788,103.012338,Chợ; Ðối thủ; Phòng khám / TYT; Trường học
@@ -2189,7 +2189,7 @@ FLC,"82234-LC HNI 37 Bất Bạt, X. Bất Bạt","37 Bất Bạt, X. Sơn Đà,
 FLC,"82235-LC BNH Thôn Nguyệt Cầu, X. Tam Giang","Thôn Nguyệt Cầu, X. Tam Giang, H. Yên Phong, Tỉnh Bắc Ninh",21.227275,105.945325,Chợ; Phòng khám / TYT; Trường học
 FLC,"82236-LC TNN 236 Vó Ngựa, P. Tích Lương","236 Vó Ngựa, P. Tân Thành, TP. Thái Nguyên, Tỉnh Thái Nguyên",21.52986,105.883555,Chợ; Ðối thủ; Phòng khám / TYT; Trường học
 FLC,"82237-LC THA Thửa 625-626, Bản Đồ 8, P. Sầm Sơn","Thửa 625-626, Bản đồ 8, P. Trường Sơn, TP. Sầm Sơn, Tỉnh Thanh Hoá",19.735456,105.89278,Chợ; Ðối thủ; Trường học
-FLC,"82238-LC THA 84 Nguyễn Du, P. Sầm Sơn","84 Nguyễn Du, P. Bắc Sơn, TP. Sầm Sơn, Tỉnh Thanh Hóa",19.744515,105.901124,Bệnh viện; Chợ; Ðối thủ; Trường học
+FLC,"82238-LC THA 84 Nguyễn Du, P. Sầm Sơn","84 Nguyễn Du, P. Bắc Sơn, TP. Sầm Sơn, Tỉnh Thanh Hóa",19.744525,105.901125,Bệnh viện; Chợ; Ðối thủ; Trường học
 FLC,"82239-LC TQG Thôn Vinh Quang, X. Tân Quang","Thôn Vinh Quang,  X. Tân Quang, H. Bắc Quang, Tỉnh Hà Giang",22.494679,104.874799,Ðối thủ; Trường học
 FLC,"82240-LC TQG 532 Lý Thường Kiệt, P. Hà Giang 2","532 Lý Thường Kiệt, P. Ngọc Hà, TP. Hà Giang, Tỉnh Hà Giang",22.83773,105.011587,Chợ; Ðối thủ; Phòng khám / TYT; Trường học
 FLC,"82241-LC TNN 315B-317 Tổ 1, P. Tích Lương","315B-317 Tổ 1, P. Trung Thành, TP. Thái Nguyên, Tỉnh Thái Nguyên",21.539283,105.861136,Ðối thủ
@@ -2262,7 +2262,7 @@ FLC,"82307-LC NBH Ngã 4 Thôn Quán Chiền, X. Nam Minh","Ngã 4, Thôn Quán 
 FLC,"82308-LC HPG 108 TDP6, P. Thiên Hương","108 TDP 6, P. Lê Hồng Phong, TP. Thủy Nguyên, TP. Hải Phòng",20.93858,106.630889,Ðối thủ; Trường học
 FLC,"82309-LC HNI Khu Đấu Giá QSDĐ Ngô Thì Nhậm, P. Hà Đông","Dãy D Nhà số 1, Khu đấu giá QSDĐ Ngô Thì Nhậm, P. Hà Cầu, Q. Hà Đông, TP. Hà Nội",20.967325,105.766232,Chợ; Ðối thủ; Trường học
 FLC,"82310-LC HNI Thôn Minh Khai, X. An Khánh","Thôn Minh Khai, X. La Phù, H. Hoài Đức, TP. Hà Nội",20.981263,105.731324,Chợ; Trường học
-FLC,"82311-LC HNI Đường Cái, P. Hà Đông","Đường Cái, Thôn Tự Khoát, X. Ngũ Hiệp, H. Thanh Trì, TP. Hà Nội",20.923135,105.856339,Bệnh viện; Chợ; Trường học
+FLC,"82311-LC HNI Đường Cái, P. Thanh Trì","Đường Cái, Thôn Tự Khoát, X. Ngũ Hiệp, H. Thanh Trì, TP. Hà Nội",20.923135,105.856339,Bệnh viện; Chợ; Trường học
 FLC,"82312-LC HNI 56 Nguyễn Trãi, P. Thanh Xuân","Tầng 1, Tòa Nhà 56 Nguyễn Trãi, P. Thượng Đình, Q. Thanh Xuân, TP. Hà Nội",21.0015149,105.8176139,Bệnh viện; Ðối thủ; Trường học
 FLC,"82313-LC NBH 103 Vũ Hữu Lợi, P. Nam Định","103 Tổ 3 Đường Vũ Hữu Lợi, P. Cửa Nam, TP. Nam Định, Tỉnh Nam Định",20.417955,106.181749,Chợ; Phòng khám / TYT
 FLC,"82314-LC NAN Khối 1, X. Yên Thành","Khối 1, TT. Hoa Thành, H. Yên Thành, Tỉnh Nghệ An",0.0,0.0,
@@ -2294,8 +2294,8 @@ FLC,"82339-LC AGG 277 Quốc Lộ 63, X. Đông Thái","227 Quốc Lộ 63, X. �
 FLC,"82340-LC DNI 17 Nguyễn Văn Tỏ, P. Long Hưng","17 Nguyễn Văn Tỏ, KP. Thái Hòa, P. Long Bình Tân, TP. Biên Hòa, Tỉnh Đồng Nai",10.889875,106.851363,Ðối thủ; Trường học
 FLC,"82341-LC DNI F26 Phùng Hưng, P. Long Hưng","F26 Phùng Hưng, KP. 2, P. Long Bình Tân, TP. Biên hòa, Tỉnh Đồng Nai",10.896543,106.86716,Bệnh viện; Chợ; Trường học
 FLC,"82342-LC VLG Đường Tỉnh 881, X. Tân Xuân","Thửa Đất 229, Bản Đồ 46, Đường Tỉnh 881, X. Tân Xuân, H. Ba Tri, Tỉnh Bến Tre",10.119833,106.626778,
-FLC,"82343-LC VLG 262-264 Quốc Lộ 53, X. Bình Phú","262-264 Quốc lộ 53, Xã Bình Phú, Huyện Càng Long,Tỉnh Trà Vinh",0.0,0.0,
-FLC,"82344-LC VLG 68 Đường ĐT 911, X. Tân An","68 Đường ĐT 911, Xã Tân An, Huyện Càng Long, Tỉnh Trà Vinh",0.0,0.0,
+FLC,"82343-LC VLG 262-264 Quốc Lộ 53, X. Bình Phú","262-264 Quốc lộ 53, Xã Bình Phú, Huyện Càng Long,Tỉnh Trà Vinh",9.940778,106.27775,Chợ; Trường học
+FLC,"82344-LC VLG 68 Đường ĐT 911, X. Tân An","68 Đường ĐT 911, Xã Tân An, Huyện Càng Long, Tỉnh Trà Vinh",9.925056,106.229889,Chợ; Trường học
 FLC,"82345-LC TNH 527 Cách Mạng Tháng Tám, P. Tân Ninh","527 Cách Mạng Tháng Tám, Phường 2, Thành phố Tây Ninh, Tỉnh Tây Ninh",11.310241,106.1045,Bệnh viện; Chợ; Ðối thủ; Phòng khám / TYT; Trường học
 FLC,"82346-LC VLG 64 Đường ĐH 18, X. Nhuận Phú Tân","64 Đường ĐH18, X. Nhuận Phú Tân, Huyện Mỏ Cày Bắc, Tỉnh Bến Tre",10.1240676,106.2436633,
 FLC,"82347-LC CTO 37 Phạm Ngũ Lão, P. Ninh Kiều","37 Phạm Ngũ Lão, Phường Tân An, Quận Ninh Kiều, TP. Cần Thơ",0.0,0.0,
@@ -2327,6 +2327,9 @@ FLC,"82372-LC HNI 2 Điểm X1, TDP 2, X. Quang Minh","Điểm X1, Tổ Dân Ph�
 FLC,"82373-LC HPG 415 Trần Hưng Đạo, P. Kinh Môn","415 Trần Hưng Đạo, P. Hiệp An, TX. Kinh Môn, Tỉnh Hải Dương",0.0,0.0,
 FLC,"82374-LC PTO 655 Hùng Vương, P. Âu Cơ","655 Hùng Vương, X.Thanh Minh, TX. Phú Thọ, Tỉnh Phú Thọ",0.0,0.0,
 FLC,"82375-LC PTO 105 Bà Triệu, P. Vĩnh Phúc","105 Bà Triệu, Phường Ngô Quyền, Thành Phố Vĩnh Yên, Tỉnh Vĩnh Phúc",0.0,0.0,
+FLC,"82376-LC THA TDP Liên Hải, P. Nghi Sơn","Tổ Dân phố Liên Hải, Phường Hải Thượng, Thị xã Nghi Sơn, Tỉnh Thanh Hóa",0.0,0.0,
+FLC,"82382-LC TNH 14 Hùng Vương, P. Kiến Tường","14 Hùng Vương, Phường 1, Thị xã Kiến Tường, Tỉnh Long An",0.0,0.0,
+FLC,"82383-LC TNH Thửa Đất 24, Bản Đồ 27, ĐT 817","Thửa 24, Bản Đồ 27, Đường Tỉnh 817, Thị Trấn Bình Phong Thạnh, Huyện Mộc Hóa, Tỉnh Long An",0.0,0.0,
 FLC,"82392-LC NAN Khối Thanh Đồng 2, X. Đại Đồng","Khối Thanh Đồng 2, X. Đại Đồng, H. Thanh Chương, Tỉnh Nghệ An",0.0,0.0,
 FLC,"82393-LC GLI 301 Trần Phú, P. Bình Định","301 Trần Phú, Phường Bình Định, Thị Xã An Nhơn, Tỉnh Bình Định",0.0,0.0,
 FLC,"82394-LC DAG Thôn Hà Mỹ, X. Nam Phước","Thôn Hà Mỹ, Xã Duy Vinh, Huyện Duy Xuyên, Tỉnh Quảng Nam",0.0,0.0,
