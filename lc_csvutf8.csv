@@ -2277,7 +2277,7 @@ FLC,"82322-LC QNH 226 Nguyễn Văn Cừ, P. Vàng Danh","226 Nguyễn Văn Cừ
 FLC,"82323-LC PTO TDP Công Bình, X. Xuân Lãng","TDP Công Bình, TT. Thanh Lãng, H. Bình Xuyên, Tỉnh Vĩnh Phúc",0.0,0.0,
 FLC,"82324-LC PTO 94 Trần Hưng Đạo, P. Phúc Yên","94 Trần Hưng Đạo, P. Hai Bà Trưng, TP. Phúc Yên, Tỉnh Vĩnh Phúc",0.0,0.0,
 FLC,"82325-LC HNI 32 Tựu Liệt, P. Hoàng Liệt","32 Tựu Liệt, TT. Văn Điển, H. Thanh Trì, TP. Hà Nội",20.95506,105.842073,Bệnh viện; Ðối thủ
-FLC,"82326-LC HNI 2A Ngách 61 Ngõ 88 Giáp Nhị, P. Hoàng Mai","2A Ngách 61 Ngõ 88 Giáp Nhị, P. Thịnh Liệt, Q. Hoàng Mai, TP. Hà Nội",0.0,0.0,
+FLC,"82326-LC HNI 2A Ngách 61 Ngõ 88 Giáp Nhị, P. Hoàng Mai","2A Ngách 61 Ngõ 88 Giáp Nhị, P. Thịnh Liệt, Q. Hoàng Mai, TP. Hà Nội",20.975814,105.84579,Ðối thủ; Trường học
 FLC,"82327-LC LSN 668 Bà Triệu, P. Đông Kinh","668 Bà Triệu, Phường Đông Kinh, Thành Phố Lạng Sơn, Tỉnh Lạng Sơn",0.0,0.0,
 FLC,"82328-LC LSN 30 Nguyễn Du, P. Đông Kinh","30 Nguyễn Du, Phường Đông Kinh, Thành Phố Lạng Sơn, Tỉnh Lạng Sơn",0.0,0.0,
 FLC,"82329-LC HNI 145-147-179 Lê Lợi, X. Vân Đình","145‑147‑149 Lê Lợi, Thị trấn Vân Đình, Huyện Ứng Hòa, Hà Nội",0.0,0.0,
@@ -2329,8 +2329,8 @@ FLC,"82374-LC PTO 655 Hùng Vương, P. Âu Cơ","655 Hùng Vương, X.Thanh Min
 FLC,"82375-LC PTO 105 Bà Triệu, P. Vĩnh Phúc","105 Bà Triệu, Phường Ngô Quyền, Thành Phố Vĩnh Yên, Tỉnh Vĩnh Phúc",0.0,0.0,
 FLC,"82376-LC THA TDP Liên Hải, P. Nghi Sơn","Tổ Dân phố Liên Hải, Phường Hải Thượng, Thị xã Nghi Sơn, Tỉnh Thanh Hóa",0.0,0.0,
 FLC,"82377-LC THA Thôn Thị Tứ, X. Triệu Sơn","Thôn Thị Tứ, X. Dân Lực, H. Triệu Sơn, Tỉnh Thanh Hóa",0.0,0.0,
-FLC,"82382-LC TNH 14 Hùng Vương, P. Kiến Tường","14 Hùng Vương, Phường 1, Thị xã Kiến Tường, Tỉnh Long An",0.0,0.0,
-FLC,"82383-LC TNH Thửa Đất 24, Bản Đồ 27, ĐT 817","Thửa 24, Bản Đồ 27, Đường Tỉnh 817, Thị Trấn Bình Phong Thạnh, Huyện Mộc Hóa, Tỉnh Long An",0.0,0.0,
+FLC,"82382-LC TNH 14 Hùng Vương, P. Kiến Tường","14 Hùng Vương, Phường 1, Thị xã Kiến Tường, Tỉnh Long An",10.778814,105.936216,Chợ; Ðối thủ; Phòng khám / TYT
+FLC,"82383-LC TNH Thửa Đất 24, Bản Đồ 27, ĐT 817","Thửa 24, Bản Đồ 27, Đường Tỉnh 817, Thị Trấn Bình Phong Thạnh, Huyện Mộc Hóa, Tỉnh Long An",10.728647,106.057859,Bệnh viện; Chợ; Ðối thủ; Trường học
 FLC,"82384-LC HCM 355-355A Nguyễn Xí, P. Bình Lợi Trung","355–355A Nguyễn Xí, Phường 13, Quận Bình Thạnh, TP. Hồ Chí Minh",0.0,0.0,
 FLC,"82385-LC HCM 900 Trần Hưng Đạo, P. An Đông","900 Trần Hưng Đạo, Phường 9, Quận 5, TP. Hồ Chí Minh",0.0,0.0,
 FLC,"82392-LC NAN Khối Thanh Đồng 2, X. Đại Đồng","Khối Thanh Đồng 2, X. Đại Đồng, H. Thanh Chương, Tỉnh Nghệ An",0.0,0.0,
