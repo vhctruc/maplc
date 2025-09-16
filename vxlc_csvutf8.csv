@@ -1,5 +1,5 @@
 MARKER_ID,SHOP_NAME,SHOP_ADDRESS,LATITUDE,LONGITUDE,LIST_ATT
-VXLC,"58001-VX HCM 580 Nguyễn Duy Trinh, P. Bình Trưng","580-582 Nguyễn Duy Trinh, P. Bình Trưng Đông, TP. Thủ Đức, TP. Hồ Chí Minh",10.7880137,106.7756893,Chợ; Trường học
+VXLC,"58001-VX HCM 580 Nguyễn Duy Trinh, P. Bình Trưng","580-582 Nguyễn Duy Trinh, P. Bình Trưng Đông, TP. Thủ Đức, TP. Hồ Chí Minh",10.787964,106.77649,Chợ; Trường học
 VXLC,"58002-VX HCM 224A Lê Văn Lương, P. Tân Hưng","224A Lê Văn Lương, P. Tân Hưng, Q. 7, TP. Hồ Chí Minh",10.7445116,106.704121,Chợ; Ðối thủ; Phòng khám / TYT; Trường học
 VXLC,"58003-VX HNI 244 Minh Khai, P. Tương Mai","244 phố Minh Khai, P. Minh Khai, Q. Hai Bà Trưng, TP. Hà Nội",20.9950001,105.8562501,Chợ; Phòng khám / TYT; Trường học
 VXLC,"58004-VX HNI 137 Lạc Long Quân, P. Tây Hồ","137 Lạc Long Quân, P. Nghĩa Đô, Q. Cầu Giấy, TP. Hà Nội",21.051682,105.808411,Chợ; Ðối thủ; Phòng khám / TYT; Trường học
@@ -132,7 +132,7 @@ VXLC,"58134-VX DAG 279 Phan Châu Trinh, P. Tam Kỳ","279 Phan Châu Trinh, P. 
 VXLC,"58135-VX TNN 84 Trường Chinh, P. Đức Xuân","84 Trường Chinh, P. Đức Xuân, TP. Bắc Kạn, Tỉnh Bắc Kạn",22.143246,105.833815,Chợ; Ðối thủ; Phòng khám / TYT; Trường học
 VXLC,"58136-VX THA 232 Trần Phú, P. Hạc Thành","232 Trần Phú, P. Lam Sơn, TP. Thanh Hóa, Tỉnh Thanh Hóa",19.805327,105.776348,Bệnh viện; Chợ; Ðối thủ; Phòng khám / TYT; Trường học
 VXLC,"58137-VX HNI 7-9-11 Bắc Sơn, P. Chương Mỹ","7-9-11 Bắc Sơn, TT. Chúc Sơn, H. Chương Mỹ, TP. Hà Nội",20.924066,105.704969,Ðối thủ; Phòng khám / TYT; Trường học
-VXLC,"58138-VX DNI 71 Hùng Vương, P. Long Khánh","71 Hùng Vương, P. Xuân An, TP. Long Khánh, Tỉnh Đồng Nai",10.934274,107.242876,Chợ; Ðối thủ; Phòng khám / TYT; Trường học
+VXLC,"58138-VX DNI 71 Hùng Vương, P. Long Khánh","71 Hùng Vương, P. Xuân An, TP. Long Khánh, Tỉnh Đồng Nai",19.8053271,105.7762456,Bệnh viện; Chợ; Ðối thủ; Phòng khám / TYT; Trường học
 VXLC,"58139-VX HNI 39 Tây Cao Tốc, X. Thiên Lộc","39 Tây Cao Tốc, X. Kim Chung, H. Đông Anh, TP. Hà Nội",21.129061,105.779507,Chợ; Phòng khám / TYT; Trường học
 VXLC,"58140-VX HCM 741 Kinh Dương Vương, P. An Lạc","741 Kinh Dương Vương, P. An Lạc, Q. Bình Tân, TP. Hồ Chí Minh",10.727846,106.607574,Chợ; Ðối thủ; Phòng khám / TYT; Trường học
 VXLC,"58141-VX CTO Trần Hưng Đạo, P. Vị Thanh","Thửa 119, Tờ bản đồ 14, Trần Hưng Đạo, P. 1, TP. Vị Thanh, Tỉnh Hậu Giang",9.783263,105.466947,Chợ; Ðối thủ; Phòng khám / TYT; Trường học
