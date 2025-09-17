@@ -1,5 +1,5 @@
 MARKER_ID,SHOP_NAME,SHOP_ADDRESS,LATITUDE,LONGITUDE,LIST_ATT
-VXLC,"58001-VX HCM 580 Nguyễn Duy Trinh, P. Bình Trưng","580-582 Nguyễn Duy Trinh, P. Bình Trưng Đông, TP. Thủ Đức, TP. Hồ Chí Minh",10.787964,106.77649,Chợ; Trường học
+VXLC,"58001-VX HCM 580 Nguyễn Duy Trinh, P. Bình Trưng","580-582 Nguyễn Duy Trinh, P. Bình Trưng Đông, TP. Thủ Đức, TP. Hồ Chí Minh",10.7880137,106.7756893,Chợ; Trường học
 VXLC,"58002-VX HCM 224A Lê Văn Lương, P. Tân Hưng","224A Lê Văn Lương, P. Tân Hưng, Q. 7, TP. Hồ Chí Minh",10.7445116,106.704121,Chợ; Ðối thủ; Phòng khám / TYT; Trường học
 VXLC,"58003-VX HNI 244 Minh Khai, P. Tương Mai","244 phố Minh Khai, P. Minh Khai, Q. Hai Bà Trưng, TP. Hà Nội",20.9950001,105.8562501,Chợ; Phòng khám / TYT; Trường học
 VXLC,"58004-VX HNI 137 Lạc Long Quân, P. Tây Hồ","137 Lạc Long Quân, P. Nghĩa Đô, Q. Cầu Giấy, TP. Hà Nội",21.051682,105.808411,Chợ; Ðối thủ; Phòng khám / TYT; Trường học
@@ -17,7 +17,7 @@ VXLC,"58015-VX HNI BT11-VT10, Khu Nhà Ở Xa La, P. Hà Đông","BT11-VT10, Khu
 VXLC,"58016-VX GLI 02 Lý Thường Kiệt, P. Quy Nhơn","02 Lý thường Kiệt, P. Lê Hồng Phong, TP. Quy Nhơn, Tỉnh Bình Định",13.7768003,109.2254941,Bệnh viện; Chợ; Phòng khám / TYT; Trường học
 VXLC,"58017-VX GLI 160A Trần Phú, P. Bình Định","160A Trần Phú, P. Bình Định, TX. An Nhơn, Tỉnh Bình Định",13.888883,109.112969,Chợ; Ðối thủ; Phòng khám / TYT; Trường học
 VXLC,"58018-VX TNH 527 Cách Mạng Tháng Tám, P. Tân Ninh","527 Cách Mạng Tháng Tám, Phường 3, TP. Tây Ninh, Tỉnh Tây Ninh",11.310266,106.104464,Bệnh viện; Chợ; Ðối thủ; Phòng khám / TYT; Trường học
-VXLC,"58019-VX BNH 300 Lê Lợi, P. Bắc Giang","300 Lê Lợi, P. Hoàng Văn Thụ, TP. Bắc Giang, Tỉnh Bắc Giang",21.2738651,106.1990352,Bệnh viện; Ðối thủ; Phòng khám / TYT; Trường học
+VXLC,"58019-VX BNH 300 Lê Lợi, P. Bắc Giang","300 Lê Lợi, P. Hoàng Văn Thụ, TP. Bắc Giang, Tỉnh Bắc Giang",21.3822861,106.1203951,Chợ
 VXLC,"58020-VX HPG 313 Hai Bà Trưng, P. An Biên","313 Hai Bà Trưng, P. Cát Dài, Q. Lê Chân, TP. Hải Phòng",20.8513255,106.6721597,Bệnh viện; Chợ; Ðối thủ; Phòng khám / TYT; Trường học
 VXLC,"58021-VX BNH 246-248 Trần Hưng Đạo, P. Kinh Bắc","246-248 Trần Hưng Đạo, P. Tiền An, TP. Bắc Ninh, Tỉnh Bắc Ninh",21.1786471,106.0685513,Chợ; Ðối thủ; Phòng khám / TYT; Trường học
 VXLC,"58022-VX DTP 248A Trần Hưng Đạo, P. Đạo Thạnh","248A Trần Hưng Đạo, P. 4, TP. Mỹ Tho, Tỉnh Tiền Giang",10.3564098,106.3569882,Chợ; Ðối thủ; Trường học
@@ -120,7 +120,7 @@ VXLC,"58122-VX DAG 441 Ngô Quyền, P. An Hải","441 Ngô Quyền, P. An Hải
 VXLC,"58123-VX DNI 126 Quốc Lộ 1A, X. Trảng Bom","126 Quốc Lộ 1A, TT Trảng Bom, H. Trảng Bom, Tỉnh Đồng Nai",10.951422,106.993223,Chợ; Ðối thủ; Phòng khám / TYT; Trường học
 VXLC,"58124-VX HCM 485 Đỗ Xuân Hợp, P. Phước Long","485 Đỗ Xuân Hợp, P. Phước Long B, TP. Thủ Đức, TP. Hồ Chí Minh",10.816902,106.774253,Bệnh viện; Chợ; Ðối thủ; Phòng khám / TYT; Trường học
 VXLC,"58125-VX CTO 02 Trần Hưng Đạo, P. Phú Lợi","02 Trần Hưng Đạo, P. 2, TP. Sóc Trăng, Tỉnh Sóc Trăng",9.601985,105.973287,Bệnh viện; Chợ; Ðối thủ; Phòng khám / TYT; Trường học
-VXLC,"58126-VX DNI 626 Lê Duẩn, X. Long Thành","626 Lê Duẩn, TT. Long Thành, H. Long Thành, Tỉnh Đồng Nai",10.7763893,106.9545068,Chợ; Ðối thủ; Phòng khám / TYT; Trường học
+VXLC,"58126-VX DNI 626 Lê Duẩn, X. Long Thành","626 Lê Duẩn, TT. Long Thành, H. Long Thành, Tỉnh Đồng Nai",10.776484,106.954555,Chợ; Ðối thủ; Phòng khám / TYT; Trường học
 VXLC,"58127-VX HYN 355 Lý Bôn, P. Trần Hưng Đạo","355 Lý Bôn, P. Đề Thám, TP. Thái Bình, Tỉnh Thái Bình",20.444386,106.338387,Bệnh viện; Ðối thủ; Phòng khám / TYT; Trường học
 VXLC,"58128-VX KHA 2051 Hùng Vương, P. Cam Linh","2051 Hùng Vương, P. Cam Thuận, TP. Cam Ranh, Tỉnh Khánh Hòa",11.918133,109.151367,Ðối thủ; Phòng khám / TYT; Trường học
 VXLC,"58129-VX THA 116-118 Nguyễn Huệ, P. Quang Trung","116-118 Nguyễn Huệ, P. Ngọc Trạo, TX. Bỉm Sơn, Tỉnh Thanh Hoá",20.082946,105.856691,Chợ; Ðối thủ; Phòng khám / TYT; Trường học
@@ -136,7 +136,7 @@ VXLC,"58138-VX DNI 71 Hùng Vương, P. Long Khánh","71 Hùng Vương, P. Xuân
 VXLC,"58139-VX HNI 39 Tây Cao Tốc, X. Thiên Lộc","39 Tây Cao Tốc, X. Kim Chung, H. Đông Anh, TP. Hà Nội",21.129061,105.779507,Chợ; Phòng khám / TYT; Trường học
 VXLC,"58140-VX HCM 741 Kinh Dương Vương, P. An Lạc","741 Kinh Dương Vương, P. An Lạc, Q. Bình Tân, TP. Hồ Chí Minh",10.727846,106.607574,Chợ; Ðối thủ; Phòng khám / TYT; Trường học
 VXLC,"58141-VX CTO Trần Hưng Đạo, P. Vị Thanh","Thửa 119, Tờ bản đồ 14, Trần Hưng Đạo, P. 1, TP. Vị Thanh, Tỉnh Hậu Giang",9.783263,105.466947,Chợ; Ðối thủ; Phòng khám / TYT; Trường học
-VXLC,"58142-VX SLA 6-8 Nguyễn Lương Bằng, P. Tô Hiệu","6-8 Nguyễn Lương Bằng, P. Quyết Thắng, TP. Sơn La, Tỉnh Sơn La",21.327039,103.914926,Chợ; Ðối thủ; Trường học
+VXLC,"58142-VX SLA 6-8 Nguyễn Lương Bằng, P. Tô Hiệu","6-8 Nguyễn Lương Bằng, P. Quyết Thắng, TP. Sơn La, Tỉnh Sơn La",21.326675,103.913856,Chợ; Ðối thủ; Trường học
 VXLC,"58143-VX HNI 305-307 Bình Đà, X. Bình Minh","305-307 Bình Đà, X. Bình Minh, H. Thanh Oai, TP. Hà Nội",20.891475,105.763071,Chợ; Ðối thủ; Trường học
 VXLC,"58144-VX HCM 44 Đường Số 7, X. Long Hải","44 Đường Số 7, TT. Long Hải, H. Long Đất, Tỉnh Bà Rịa - Vũng Tàu",10.415205,107.219866,Chợ; Ðối thủ; Trường học
 VXLC,"58145-VX HCM 1086 Lê Văn Lương, X. Nhà Bè","1086 Lê Văn Lương, X. Phước Kiển, H. Nhà Bè, TP. Hồ Chí Minh",10.707484,106.702979,Bệnh viện; Trường học
@@ -168,7 +168,7 @@ VXLC,"58170-VX TNN 61B-61C Tổ 4, P. Tích Lương","61B-61C, Tổ 4, P. Trung 
 VXLC,"58171-VX TNN 1 Tôn Đức Thắng, P. Phổ Yên","1 Tôn Đức Thắng, P. Ba Hàng, TP. Phổ Yên, Tỉnh Thái Nguyên",21.418704,105.870777,Ðối thủ; Phòng khám / TYT; Trường học
 VXLC,"58172-VX AGG 113 Phạm Văn Kỷ, P. Hà Tiên","113 Phạm Văn Kỷ, P. Pháo Đài, TP. Hà Tiên, Tỉnh Kiên Giang",10.379948,104.482578,Chợ; Ðối thủ; Phòng khám / TYT; Trường học
 VXLC,"58173-VX NAN Khối 2, X. Đô Lương","Khối 2, TT. Đô Lương, H. Đô Lương, Tỉnh Nghệ An",18.9036424,105.3109717,Chợ; Ðối thủ
-VXLC,"58174-VX DNI 2552-2554 Hùng Vương, X. Xuân Lộc","2552-2554 Hùng Vương, X. Xuân Hiệp, H. Xuân Lộc, Tỉnh Đồng Nai",10.925102,107.402028,Chợ; Ðối thủ; Trường học
+VXLC,"58174-VX DNI 2552-2554 Hùng Vương, X. Xuân Lộc","2552-2554 Hùng Vương, X. Xuân Hiệp, H. Xuân Lộc, Tỉnh Đồng Nai",10.9133554,107.3980353,Chợ; Ðối thủ; Phòng khám / TYT; Trường học
 VXLC,"58175-VX HCM 3 Bùi Bằng Đoàn, P. Tân Hưng","3 Bùi Bằng Đoàn, P. Tân Phong, Q. 7, TP. Hồ Chí Minh",10.730646,106.7087,Ðối thủ; Phòng khám / TYT; Trường học
 VXLC,"58176-VX QNH 699-701 Trần Phú, P. Quang Hanh","699-701 Trần Phú, P. Cẩm Thủy, TP. Cẩm Phả, Tỉnh Quảng Ninh",21.009661,107.265867,Chợ; Trường học
 VXLC,"58177-VX PTO 142 Đội Cấn, X. Vĩnh Tường","142 Đội Cấn, TT. Vĩnh Tường, H. Vĩnh Tường, Tỉnh Vĩnh Phúc",21.217891,105.515582,Bệnh viện; Chợ; Ðối thủ; Phòng khám / TYT; Trường học
@@ -177,9 +177,9 @@ VXLC,"58179-VX THA Thửa 625-626, Bản Đồ 8, P. Sầm Sơn","Thửa 625-626
 VXLC,"58180-VX NBH 24 Trần Hưng Đạo, X. Giao Thủy","24 Trần Hưng Đạo, TDP Sơn Hòa, TT. Ngô Đồng, H. Giao Thủy, Tỉnh Nam Định",20.28038,106.444072,Chợ; Ðối thủ; Trường học
 VXLC,"58181-VX NAN Khối 4, X. Diễn Châu","Khối 4, TT. Diễn Thành, H. Diễn Châu, Tỉnh Nghệ An",18.9751962,105.6019823,Phòng khám / TYT; Trường học
 VXLC,"58182-VX PTO 68 Bạch Đằng, P. Âu Cơ","68 Bạch Đằng, P. Âu Cơ, TX. Phú Thọ, Tỉnh Phú Thọ",21.398815,105.222573,Chợ; Ðối thủ; Phòng khám / TYT; Trường học
-VXLC,"58183-VX HCM 216 Võ Văn Ngân, P. Thủ Đức","L1-19 Tầng 1, TTTM Vincom, 216 Võ Văn Ngân, P. Bình Thọ, TP. Thủ Đức, TP. Hồ Chí Minh",10.850522,106.759773,Chợ; Trường học
+VXLC,"58183-VX HCM 216 Võ Văn Ngân, P. Thủ Đức","L1-19 Tầng 1, TTTM Vincom, 216 Võ Văn Ngân, P. Bình Thọ, TP. Thủ Đức, TP. Hồ Chí Minh",10.8503417,106.7653761,Chợ; Ðối thủ; Trường học
 VXLC,"58184-VX HPG TDP Mánh, P. Thủy Nguyên","TDP Mánh, P. Thủy Đường, TP. Thủy Nguyên, TP. Hải Phòng",20.922154,106.683078,Ðối thủ; Phòng khám / TYT; Trường học
-VXLC,"58185-VX HCM NI 189 Cống Quỳnh, P. Cầu Ông Lãnh","NI 189 (Phòng 11) Cống Quỳnh, P. Nguyễn Cư Trinh, Q. 1, TP. Hồ Chí Minh",23.6560635,117.8733262,
+VXLC,"58185-VX HCM NI 189 Cống Quỳnh, P. Cầu Ông Lãnh","NI 189 (Phòng 11) Cống Quỳnh, P. Nguyễn Cư Trinh, Q. 1, TP. Hồ Chí Minh",18.0155612,114.1131834,
 VXLC,"58186-VX LĐG 541 đường QL20, Liên Nghĩa, X. Đức Trọng","541 đường QL20, TT. Liên Nghĩa, H. Đức Trọng, Tỉnh Lâm Đồng",11.739007,108.374495,Bệnh viện; Trường học
 VXLC,"58187-VX LCU 45 Đường 30/4, P. Tân Phong","45 Đường 30/04, P. Đông Phong, TP. Lai Châu, Tỉnh Lai Châu",22.382348,103.480029,Bệnh viện; Ðối thủ; Phòng khám / TYT
 VXLC,"58188-VX PTO TDP Lũng Thượng, X. Tam Hồng","Tổ Dân Phố Lũng Thượng, TT. Tam Hồng, H. Yên Lạc, Tỉnh Vĩnh Phúc",21.228108,105.572393,Bệnh viện; Ðối thủ; Phòng khám / TYT
