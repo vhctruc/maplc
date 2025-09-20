@@ -2299,7 +2299,7 @@ FLC,"82346-LC VLG 64 Đường ĐH 18, X. Nhuận Phú Tân","64 Đường ĐH18
 FLC,"82347-LC CTO 37 Phạm Ngũ Lão, P. Ninh Kiều","37 Phạm Ngũ Lão, Phường Tân An, Quận Ninh Kiều, TP. Cần Thơ",10.046626,105.776834,Bệnh viện; Ðối thủ; Phòng khám / TYT; Trường học
 FLC,"82348-LC HCM 362 Lê Văn lương, P. Tân Hưng","362 Lê Văn Lương, P. Tân Hưng, Q.7, TP. Hồ Chí Minh",0.0,0.0,
 FLC,"82349-LC TNH 68C Đường Tỉnh 824, X. Mỹ Hạnh","68C Đường Tỉnh 824, X. Mỹ Hạnh Nam, Huyện Đức Hòa, Tỉnh Long An",10.863958,106.492134,
-FLC,"82350-LC HCM 061/B-062/B Đường DT747, P. Tân Uyên","061/B-062/B Đường DT747, P. Uyên Hưng, TP. Tân Uyên, Tỉnh Bình Dương",0.0,0.0,
+FLC,"82350-LC HCM 061/B-062/B Đường DT747, P. Tân Uyên","061/B-062/B Đường DT747, P. Uyên Hưng, TP. Tân Uyên, Tỉnh Bình Dương",11.057814,106.793887,Chợ; Trường học
 FLC,"82351-LC DLK Thôn Triều Sơn, X. Xuân Thọ","Thôn Triều Sơn, Xã Xuân Lâm, Thị Xã Sông Cầu, Tỉnh Phú Yên",0.0,0.0,
 FLC,"82352-LC TNH 216 Quốc Lộ 22B, P. Trảng Bàng","216 Quốc Lộ 22B, P. Trảng Bàng, TX. Trảng Bàng, Tỉnh Tây Ninh",11.033621,106.353925,Bệnh viện; Chợ; Phòng khám / TYT; Trường học
 FLC,"82353-LC AGG 58-60 Nguyễn Tri Phương, P. Tân Châu","58-60 Nguyễn Tri Phương, Phường Long Thạnh, Thị Xã Tân Châu, Tỉnh An Giang",0.0,0.0,
@@ -2338,9 +2338,9 @@ FLC,"82389-LC LAN 19A Đường Tỉnh 838, X. Mỹ Quý","19A Đường Tỉnh 
 FLC,"82390-LC VLG 148 Đường Tỉnh 882, X. Phước Mỹ Trung","148 đường Tỉnh lộ 882, Thị trấn Phước Mỹ Trung, Huyện Mỏ Cày Bắc, Tỉnh Bến Tre",0.0,0.0,
 FLC,"82391-LC CMU 100 Quốc Lộ 1A, X. Vĩnh Lợi","100 Quốc Lộ 1A, TT. Châu Hưng, H. Vĩnh Lợi, Tỉnh Bạc Liêu",0.0,0.0,
 FLC,"82392-LC NAN Khối Thanh Đồng 2, X. Đại Đồng","Khối Thanh Đồng 2, X. Đại Đồng, H. Thanh Chương, Tỉnh Nghệ An",0.0,0.0,
-FLC,"82393-LC GLI 301 Trần Phú, P. Bình Định","301 Trần Phú, Phường Bình Định, Thị Xã An Nhơn, Tỉnh Bình Định",0.0,0.0,
+FLC,"82393-LC GLI 301 Trần Phú, P. Bình Định","301 Trần Phú, Phường Bình Định, Thị Xã An Nhơn, Tỉnh Bình Định",13.885503,109.114364,Ðối thủ; Phòng khám / TYT; Trường học
 FLC,"82394-LC DAG Thôn Hà Mỹ, X. Nam Phước","Thôn Hà Mỹ, Xã Duy Vinh, Huyện Duy Xuyên, Tỉnh Quảng Nam",0.0,0.0,
-FLC,"82395-LC QTI 179 Trần Hưng Đạo, P. Đông Hà","179 Trần Hưng Đạo, Phường 1, Thành phố Đông Hà, Tỉnh Quảng Trị",0.0,0.0,
+FLC,"82395-LC QTI 179 Trần Hưng Đạo, P. Đông Hà","179 Trần Hưng Đạo, Phường 1, Thành phố Đông Hà, Tỉnh Quảng Trị",16.817964,107.086788,Chợ; Ðối thủ; Trường học
 FLC,"82396-LC GLI 393 Lạc Long Quân, P. Quy Nhơn Bắc","393 Lạc Long Quân, Phường Trần Quang Diệu, Thành Phố Quy Nhơn, Tỉnh Bình Định",0.0,0.0,
 FLC,"82397-LC HTH 532 Nguyễn Công Trứ, P. Hoành Sơn","532 Nguyễn Công Trứ, P. Kỳ Phương, TX. Kỳ Anh, Tỉnh Hà Tĩnh",0.0,0.0,
 FLC,"82398-LC NAN 2 Hải Thượng Lãn Ông, P. Tây Hiếu","2 Hải Thượng Lãn Ông, X. Tây Hiếu, TX. Thái Hòa, Tỉnh Nghệ An",0.0,0.0,
