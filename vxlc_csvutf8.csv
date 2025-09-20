@@ -7,9 +7,8 @@ VXLC,"58005-VX HCM 203-205-205A Đường 3/2, P. Vườn Lài","203-205-205A Đ
 VXLC,"58006-VX DNI 15/18A Phạm Văn Thuận, P. Tam Hiệp","15/18A Phạm Văn Thuận, P. Tam Hiệp, TP. Biên Hoà, Tỉnh Đồng Nai",10.946249,106.856888,Bệnh viện; Chợ; Ðối thủ; Phòng khám / TYT; Trường học
 VXLC,"58007-VX TNH 68 Quốc Lộ 22B, X. Tân Biên","68 Quốc Lộ 22B, TT. Tân Biên, H. Tân Biên, Tỉnh Tây  Ninh",11.545071,106.004013,Chợ; Phòng khám / TYT
 VXLC,"58008-VX DNI 264 Nguyễn Huệ, P. An Lộc","264 Nguyễn Huệ, P. Phú Thịnh, TX. Bình Long, Tỉnh Bình Phước",11.6542567,106.6092187,Chợ; Ðối thủ; Phòng khám / TYT; Trường học
-VXLC,"58009-VX TNH 218 Quốc Lộ 22B, P. Gò Dầu","218 Quốc Lộ 22B, TT. Gò Dầu, H. Gò Dầu, Tỉnh Tây Ninh",11.0794313,106.2382252,
+VXLC,"58009-VX TNH 218 Quốc Lộ 22B, P. Gò Dầu","218 Quốc Lộ 22B, TT. Gò Dầu, H. Gò Dầu, Tỉnh Tây Ninh",11.0933523,106.2635803,Phòng khám / TYT; Trường học
 VXLC,"58010-VX TNH 376-378 Lê Duẩn, X. Tân Châu","376-378 Lê Duẩn, TT. Tân Châu, H. Tân Châu, Tỉnh Tây Ninh",11.5533667,106.1637676,Chợ; Phòng khám / TYT
-VXLC,"58011-VX TNH 349 Đường 30/4, P. Tân Ninh","349 Đường 30/4, P. 1, TP. Tây Ninh, Tỉnh Tây Ninh",11.317671,106.0985488,Trường học
 VXLC,"58012-VX HCM 422-424 Cách Mạng Tháng Tám, P. Nhiêu Lộc","422-424 Cách Mạng Tháng Tám, P. 11, Q. 3, TP. Hồ Chí Minh",10.783765,106.670881,Bệnh viện; Chợ; Ðối thủ; Trường học
 VXLC,"58013-VX HCM 379-381 Hai Bà Trưng, P. Xuân Hòa","379-381 Hai Bà Trưng, P. Võ Thị Sáu, Q. 3, TP. Hồ Chí Minh",10.7901691,106.6888024,Bệnh viện; Chợ; Ðối thủ; Trường học
 VXLC,"58014-VX HNI 33 Tây Mỗ, P. Tây Mỗ","33 Tây Mỗ, P. Tây Mỗ, Q. Nam Từ Liêm, TP. Hà Nội",21.001629,105.750762,Chợ; Trường học
@@ -17,11 +16,10 @@ VXLC,"58015-VX HNI BT11-VT10, Khu Nhà Ở Xa La, P. Hà Đông","BT11-VT10, Khu
 VXLC,"58016-VX GLI 02 Lý Thường Kiệt, P. Quy Nhơn","02 Lý thường Kiệt, P. Lê Hồng Phong, TP. Quy Nhơn, Tỉnh Bình Định",13.7768003,109.2254941,Bệnh viện; Chợ; Phòng khám / TYT; Trường học
 VXLC,"58017-VX GLI 160A Trần Phú, P. Bình Định","160A Trần Phú, P. Bình Định, TX. An Nhơn, Tỉnh Bình Định",13.888883,109.112969,Chợ; Ðối thủ; Phòng khám / TYT; Trường học
 VXLC,"58018-VX TNH 527 Cách Mạng Tháng Tám, P. Tân Ninh","527 Cách Mạng Tháng Tám, Phường 3, TP. Tây Ninh, Tỉnh Tây Ninh",11.310266,106.104464,Bệnh viện; Chợ; Ðối thủ; Phòng khám / TYT; Trường học
-VXLC,"58019-VX BNH 300 Lê Lợi, P. Bắc Giang","300 Lê Lợi, P. Hoàng Văn Thụ, TP. Bắc Giang, Tỉnh Bắc Giang",21.3822861,106.1203951,Chợ
+VXLC,"58019-VX BNH 300 Lê Lợi, P. Bắc Giang","300 Lê Lợi, P. Hoàng Văn Thụ, TP. Bắc Giang, Tỉnh Bắc Giang",21.2738651,106.1990352,Bệnh viện; Ðối thủ; Phòng khám / TYT; Trường học
 VXLC,"58020-VX HPG 313 Hai Bà Trưng, P. An Biên","313 Hai Bà Trưng, P. Cát Dài, Q. Lê Chân, TP. Hải Phòng",20.8513255,106.6721597,Bệnh viện; Chợ; Ðối thủ; Phòng khám / TYT; Trường học
 VXLC,"58021-VX BNH 246-248 Trần Hưng Đạo, P. Kinh Bắc","246-248 Trần Hưng Đạo, P. Tiền An, TP. Bắc Ninh, Tỉnh Bắc Ninh",21.1786471,106.0685513,Chợ; Ðối thủ; Phòng khám / TYT; Trường học
 VXLC,"58022-VX DTP 248A Trần Hưng Đạo, P. Đạo Thạnh","248A Trần Hưng Đạo, P. 4, TP. Mỹ Tho, Tỉnh Tiền Giang",10.3564098,106.3569882,Chợ; Ðối thủ; Trường học
-VXLC,"58023-VX DTP 95/4-95/5 Đinh Bộ Lĩnh, P. Mỹ Tho","95/4-95/5 Đinh Bộ Lĩnh, P. 2, TP. Mỹ Tho, Tỉnh Tiền Giang",10.3540146,106.3739791,Chợ; Ðối thủ; Trường học
 VXLC,"58024-VX HPG 48 Trần Thành Ngọ, P. Kiến An","48 Trần Thành Ngọ, P. Trần Thành Ngọ, Q. Kiến An, TP. Hải Phòng",20.8041179,106.6257488,Bệnh viện; Chợ; Ðối thủ; Phòng khám / TYT; Trường học
 VXLC,"58025-VX NAN 159 Nguyễn Phong Sắc, P. Trường Vinh","159 Nguyễn Phong Sắc, P. Hưng Dũng, TP. Vinh, Tỉnh Nghệ An",18.6843176,105.6988511,Bệnh viện; Chợ; Ðối thủ; Phòng khám / TYT; Trường học
 VXLC,"58026-VX NAN 357 Nguyễn Văn Cừ, P. Thành Vinh","357 Nguyễn Văn Cừ, P. Hưng Bình, TP. Vinh, Tỉnh Nghệ An",18.6851835,105.681338,Bệnh viện; Chợ; Ðối thủ; Phòng khám / TYT; Trường học
@@ -125,7 +123,7 @@ VXLC,"58127-VX HYN 355 Lý Bôn, P. Trần Hưng Đạo","355 Lý Bôn, P. Đề
 VXLC,"58128-VX KHA 2051 Hùng Vương, P. Cam Linh","2051 Hùng Vương, P. Cam Thuận, TP. Cam Ranh, Tỉnh Khánh Hòa",11.918133,109.151367,Ðối thủ; Phòng khám / TYT; Trường học
 VXLC,"58129-VX THA 116-118 Nguyễn Huệ, P. Quang Trung","116-118 Nguyễn Huệ, P. Ngọc Trạo, TX. Bỉm Sơn, Tỉnh Thanh Hoá",20.082946,105.856691,Chợ; Ðối thủ; Phòng khám / TYT; Trường học
 VXLC,"58130-VX CTO 01 Đường 3/2, P. Ninh Kiều","01 Đường 3/2, P. Xuân Khánh, Q. Ninh Kiều, TP. Cần Thơ",10.032437,105.774005,Bệnh viện; Ðối thủ; Phòng khám / TYT; Trường học
-VXLC,"58131-VX BNH 229-231 Minh Khai, P. Từ Sơn","229 - 231 Minh Khai, P. Đông Ngàn, TP. Từ Sơn, Tỉnh Bắc Ninh",21.228199,105.968859,Ðối thủ
+VXLC,"58131-VX BNH 229-231 Minh Khai, P. Từ Sơn","229 - 231 Minh Khai, P. Đông Ngàn, TP. Từ Sơn, Tỉnh Bắc Ninh",21.122685,105.968314,Chợ; Ðối thủ; Phòng khám / TYT; Trường học
 VXLC,"58132-VX QNH 95 Vĩnh Thông, P. Mạo Khê","95 Vĩnh Thông, P. Mạo Khê, TP. Đông Triều, Tỉnh Quảng Ninh",21.056761,106.598769,Chợ; Trường học
 VXLC,"58133-VX HNI 01 Hùng Nguyên, X. Thường Tín","1 Hùng Nguyên, TT. Thường Tín, H. Thường Tín, TP. Hà Nội",20.869335,105.864831,Bệnh viện; Chợ; Ðối thủ; Phòng khám / TYT; Trường học
 VXLC,"58134-VX DAG 279 Phan Châu Trinh, P. Tam Kỳ","279 Phan Châu Trinh, P. Phước Hòa, TP. Tam Kỳ, Tỉnh Quảng Nam",15.567886,108.490441,Chợ; Ðối thủ; Phòng khám / TYT; Trường học
