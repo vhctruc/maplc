@@ -1,6 +1,37 @@
 MARKER_ID,SHOP_NAME,SHOP_ADDRESS,LATITUDE,LONGITUDE
 TS,Trung Sơn 128,"Số 24 đường A2 Khu dân cư Hưng Phú, Phường Hưng Phú, Quận Cái Răng, Thành Phố Cần Thơ",10.0204082,105.7827724
-TS,Trung Sơn 61,"Số 307, Trần Hưng Đạo, KV1, phường 1, TP Vị Thanh, tỉnh Hậu Giang",9.7830991,105.4667689
+TS,Trung Sơn 103,"39 Nguyễn Công Trứ, khu vực 4, phường 1, TP Vị Thanh, tỉnh Hậu Giang",9.7780019,105.4657453
+TS,Trung Sơn 176,"Số 396 Trần Hưng Đạo, Khu vực 5, Phường 7, Thành phố Vị Thanh, Tỉnh Hậu Giang",9.752650995351164,105.41535109874677
+TS,Trung Sơn 67,"Số 14A, QL 161, ấp Nhất, xã Thạnh Hòa, huyện Phụng Hiệp, Hậu Giang",9.9105988,105.7493211
+TS,Trung Sơn 207,"Số 10, Ấp Hoà Phụng, Thị trấn Kinh Cùng, Huyện Phụng Hiệp, Tỉnh Hậu Giang",9.81288706527739,105.6474955066063
+TS,Trung Sơn 111,"Thửa đất số 2065 & 2066, Tờ bản đồ số 2A, Ấp Phú Xuân, Xã Phú Hữu, Huyện Châu Thành, Tỉnh Hậu Giang",9.9404868,105.8665269
+TS,Trung Sơn 127,"C50-C51, Thị Trấn Ngã Sáu, Huyện Châu Thành, Tỉnh Hậu Giang",9.9214634,105.8083217
+TS,Trung Sơn 149,"Số 268, Ấp 1, Thị Trấn Nàng Mau, Huyện Vị Thuỷ, Tỉnh Hậu Giang",9.753075932837262,105.53393439033665
+TS,Trung Sơn 59,"Số 14 Trần Phú, phường Vĩnh Thanh, TP Rạch Giá, tỉnh Kiên Giang",10.0162261,105.08076
+TS,Trung Sơn 64,"L5-05, đường Mai Thị Hồng Hạnh, p. Rạch Sỏi, TP Rạch Giá, tỉnh Kiên Giang",9.95514,105.1207872
+TS,Trung Sơn 73,"Số 93, Nguyễn Trung Trực, Phường Vĩnh Bảo, TP. Rạch Giá, Tỉnh Kiên Giang",10.0048279,105.0868923
+TS,Trung Sơn 84,"Số P5-C43, Đường Nam Kỳ Khởi Nghĩa, Phường An Hòa, Thành phố Rạch Giá, Tỉnh Kiên Giang",9.9720532,105.0971578
+TS,Trung Sơn 193,"Thửa 517, tờ bản đồ số 38, đường Phan Thị Ràng, Thành phố Rạch Giá, Tỉnh Kiên Giang",9.970200710104892,105.10602106770624
+TS,Trung Sơn 202,"31A, đường Trần Quang Khải, Khu Phố 3, phường An Hoà, thành phố Rạch Giá, tỉnh Kiên Giang",9.986180761810107,105.09755132937259
+TS,Trung Sơn 203,"56B, đường Huỳnh Thúc Kháng, khu phố Nam Cao, phường Vĩnh Quang, thành phố Rạch Giá, tỉnh Kiên Giang",10.021400749634985,105.07477154755976
+TS,Trung Sơn 211,"Số 180 Lâm Quang Ky, Phường Vĩnh Bảo, Thành Phố Rạch Giá, Tỉnh Kiên Giang",10.00314740151128,105.07946351544017
+TS,Trung Sơn 106,"59-L04, Khu Phố Đông An, Thị Trấn Tân Hiệp, Huyện Tân Hiệp, Tỉnh Kiên Giang",10.1175064,105.2886972
+TS,Trung Sơn 237,"Số 115/1A, Đường Ấp Kinh B, Thị Trấn Tân Hiệp, Huyện Tân Hiệp, Tỉnh Kiên Giang",10.13747971963019,105.30477718598249
+TS,Trung Sơn 154,"Số 554 Quốc lộ 80, Khu Phố Ngã Ba, Thị trấn Kiên Lương, Huyện Kiên Lương, Tỉnh Kiên Giang",10.287539464029987,104.64161123016359
+TS,Trung Sơn 155,"Số 702, Quốc lộ 61, Khu Phố Minh An, Thị trấn Minh Lương, Huyện Châu Thành, Tỉnh Kiên Giang",9.905040477155987,105.15781706616814
+TS,Trung Sơn 187,"Số 235, Tổ 10, Khu Phố 6, Đường Hùng Vương, Thị Trấn Giồng Riềng, Huyện Giồng Riềng, Tỉnh Kiên Giang",9.910573955154572,105.31270800705066
+TS,Trung Sơn 229,"Số 06, Đường Nguyễn Thông, Ấp Tri Tôn, Thị Trấn Hòn Đất, Huyện Hòn Đất, Tỉnh Kiên Giang",10.187927295140716,104.92471755924682
+TS,Trung Sơn 70,"Số 232 Bà Triệu, phường 3, TP. Bạc Liêu, tỉnh Bạc Liêu",9.2851129,105.7206704
+TS,Trung Sơn 123,"111 Cao Văn Lầu, khóm 3, Phường 5, Thành Phố Bạc Liêu, Tỉnh Bạc Liêu",9.2810029,105.7271645
+TS,Trung Sơn 197,"Số 133, đường Bà Triệu, phường 3, Thành phố Bạc Liêu, Tỉnh Bạc Liêu",9.290772687423086,105.72334935452632
+TS,Trung Sơn 212,"Số 247 Tôn Đức Thắng, Phường 1, Thành Phố Bạc Liêu, Tỉnh Bạc Liêu",9.300349573190086,105.7256982211487
+TS,Trung Sơn 234,"Số 273, Đường 23/8, Khóm 2, Phường 8, Thành Phố Bạc Liêu, Tỉnh Bạc Liêu",9.296410694716863,105.70310556162414
+TS,Trung Sơn 199,"309A Thị trấn Phước Long, Huyện Phước Long, Tỉnh Bạc Liêu",9.436688095152915,105.45946011321413
+TS,Trung Sơn 215,"ĐT978, ấp Tam Hưng, xã Vĩnh Hưng, Huyện Vĩnh Lợi, tỉnh Bạc Liêu",9.391061403592287,105.5969200073091
+TS,Trung Sơn 216,"Số B09 Block B. Đường Phan Ngọc Hiển. KDC Gành Hào, Ấp 2, Thị trấn Gành Hào, Huyện Đông Hải, Tỉnh Bạc Liêu",9.028343822649589,105.41506110637215
+TS,Trung Sơn 98,"57 Ấp Bắc, phường 4, thành phố Mỹ Tho, tỉnh Tiền Giang",10.3631463,106.3595656
+TS,Trung Sơn 194,"Số 2/7A, Đường Nguyễn Huỳnh Đức, khu phố 8, P. 8, Thành phố Mỹ Tho, Tiền Giang",10.35833955059156,106.37440682795369
+TS,Trung Sơn 195,"Số 82, Đ. Ngô Gia Tự, tổ 22, ấp Bình Tạo, Xã Trung An, Thành phố Mỹ Tho, Tỉnh Tiền Giang",10.349692139610532,106.33107048177041
 TS,Trung Sơn 168,"Số 151 Khu Vực 2,Phường Ba Láng, Quận Cái Răng, Thành Phố Cần Thơ",9.969360788409157,105.73799283860181
 TS,Trung Sơn 21,"Số 01, ĐT922, Khu Vực 5, quận Ô Môn, thành phố Cần Thơ",10.1090469,105.6177797
 TS,Trung Sơn 42,"Số 23 đường Trần Hưng Đạo, KV1, phường Châu Văn Liêm, quận Ô Môn, thành phố Cần Thơ",10.114945,105.6214636
@@ -38,39 +69,7 @@ TS,Trung Sơn 43,"189 Nguyễn Tất Thành, Khóm 8, Phường 8, TP. Cà Mau, 
 TS,Trung Sơn 76,"128 Phạm Hồng Thám, Khóm 1, Phường 4, TP. Cà Mau, tỉnh Cà Mau",9.184644,105.1501877
 TS,Trung Sơn 191,"Số 36 Hải Thượng Lãng Ông, Phường 6, Thành phố Cà Mau, Tỉnh Cà Mau",9.1753547222971,105.15375225514967
 TS,Trung Sơn 248,"Ấp Bà Điều, Xã Lý Văn Lâm, TP.Cà Mau, Tỉnh Cà Mau",9.158008458513814,105.1400519465576
-TS,Trung Sơn 103,"39 Nguyễn Công Trứ, khu vực 4, phường 1, TP Vị Thanh, tỉnh Hậu Giang",9.7780019,105.4657453
-TS,Trung Sơn 176,"Số 396 Trần Hưng Đạo, Khu vực 5, Phường 7, Thành phố Vị Thanh, Tỉnh Hậu Giang",9.752650995351164,105.41535109874677
-TS,Trung Sơn 67,"Số 14A, QL 161, ấp Nhất, xã Thạnh Hòa, huyện Phụng Hiệp, Hậu Giang",9.9105988,105.7493211
-TS,Trung Sơn 207,"Số 10, Ấp Hoà Phụng, Thị trấn Kinh Cùng, Huyện Phụng Hiệp, Tỉnh Hậu Giang",9.81288706527739,105.6474955066063
-TS,Trung Sơn 111,"Thửa đất số 2065 & 2066, Tờ bản đồ số 2A, Ấp Phú Xuân, Xã Phú Hữu, Huyện Châu Thành, Tỉnh Hậu Giang",9.9404868,105.8665269
-TS,Trung Sơn 127,"C50-C51, Thị Trấn Ngã Sáu, Huyện Châu Thành, Tỉnh Hậu Giang",9.9214634,105.8083217
-TS,Trung Sơn 149,"Số 268, Ấp 1, Thị Trấn Nàng Mau, Huyện Vị Thuỷ, Tỉnh Hậu Giang",9.753075932837262,105.53393439033665
-TS,Trung Sơn 59,"Số 14 Trần Phú, phường Vĩnh Thanh, TP Rạch Giá, tỉnh Kiên Giang",10.0162261,105.08076
-TS,Trung Sơn 64,"L5-05, đường Mai Thị Hồng Hạnh, p. Rạch Sỏi, TP Rạch Giá, tỉnh Kiên Giang",9.95514,105.1207872
-TS,Trung Sơn 73,"Số 93, Nguyễn Trung Trực, Phường Vĩnh Bảo, TP. Rạch Giá, Tỉnh Kiên Giang",10.0048279,105.0868923
-TS,Trung Sơn 84,"Số P5-C43, Đường Nam Kỳ Khởi Nghĩa, Phường An Hòa, Thành phố Rạch Giá, Tỉnh Kiên Giang",9.9720532,105.0971578
-TS,Trung Sơn 193,"Thửa 517, tờ bản đồ số 38, đường Phan Thị Ràng, Thành phố Rạch Giá, Tỉnh Kiên Giang",9.970200710104892,105.10602106770624
-TS,Trung Sơn 202,"31A, đường Trần Quang Khải, Khu Phố 3, phường An Hoà, thành phố Rạch Giá, tỉnh Kiên Giang",9.986180761810107,105.09755132937259
-TS,Trung Sơn 203,"56B, đường Huỳnh Thúc Kháng, khu phố Nam Cao, phường Vĩnh Quang, thành phố Rạch Giá, tỉnh Kiên Giang",10.021400749634985,105.07477154755976
-TS,Trung Sơn 211,"Số 180 Lâm Quang Ky, Phường Vĩnh Bảo, Thành Phố Rạch Giá, Tỉnh Kiên Giang",10.00314740151128,105.07946351544017
-TS,Trung Sơn 106,"59-L04, Khu Phố Đông An, Thị Trấn Tân Hiệp, Huyện Tân Hiệp, Tỉnh Kiên Giang",10.1175064,105.2886972
-TS,Trung Sơn 237,"Số 115/1A, Đường Ấp Kinh B, Thị Trấn Tân Hiệp, Huyện Tân Hiệp, Tỉnh Kiên Giang",10.13747971963019,105.30477718598249
-TS,Trung Sơn 154,"Số 554 Quốc lộ 80, Khu Phố Ngã Ba, Thị trấn Kiên Lương, Huyện Kiên Lương, Tỉnh Kiên Giang",10.287539464029987,104.64161123016359
-TS,Trung Sơn 155,"Số 702, Quốc lộ 61, Khu Phố Minh An, Thị trấn Minh Lương, Huyện Châu Thành, Tỉnh Kiên Giang",9.905040477155987,105.15781706616814
-TS,Trung Sơn 187,"Số 235, Tổ 10, Khu Phố 6, Đường Hùng Vương, Thị Trấn Giồng Riềng, Huyện Giồng Riềng, Tỉnh Kiên Giang",9.910573955154572,105.31270800705066
-TS,Trung Sơn 229,"Số 06, Đường Nguyễn Thông, Ấp Tri Tôn, Thị Trấn Hòn Đất, Huyện Hòn Đất, Tỉnh Kiên Giang",10.187927295140716,104.92471755924682
-TS,Trung Sơn 70,"Số 232 Bà Triệu, phường 3, TP. Bạc Liêu, tỉnh Bạc Liêu",9.2851129,105.7206704
-TS,Trung Sơn 123,"111 Cao Văn Lầu, khóm 3, Phường 5, Thành Phố Bạc Liêu, Tỉnh Bạc Liêu",9.2810029,105.7271645
-TS,Trung Sơn 197,"Số 133, đường Bà Triệu, phường 3, Thành phố Bạc Liêu, Tỉnh Bạc Liêu",9.290772687423086,105.72334935452632
-TS,Trung Sơn 212,"Số 247 Tôn Đức Thắng, Phường 1, Thành Phố Bạc Liêu, Tỉnh Bạc Liêu",9.300349573190086,105.7256982211487
-TS,Trung Sơn 234,"Số 273, Đường 23/8, Khóm 2, Phường 8, Thành Phố Bạc Liêu, Tỉnh Bạc Liêu",9.296410694716863,105.70310556162414
-TS,Trung Sơn 199,"309A Thị trấn Phước Long, Huyện Phước Long, Tỉnh Bạc Liêu",9.436688095152915,105.45946011321413
-TS,Trung Sơn 215,"ĐT978, ấp Tam Hưng, xã Vĩnh Hưng, Huyện Vĩnh Lợi, tỉnh Bạc Liêu",9.391061403592287,105.5969200073091
-TS,Trung Sơn 216,"Số B09 Block B. Đường Phan Ngọc Hiển. KDC Gành Hào, Ấp 2, Thị trấn Gành Hào, Huyện Đông Hải, Tỉnh Bạc Liêu",9.028343822649589,105.41506110637215
-TS,Trung Sơn 98,"57 Ấp Bắc, phường 4, thành phố Mỹ Tho, tỉnh Tiền Giang",10.3631463,106.3595656
-TS,Trung Sơn 194,"Số 2/7A, Đường Nguyễn Huỳnh Đức, khu phố 8, P. 8, Thành phố Mỹ Tho, Tiền Giang",10.35833955059156,106.37440682795369
 TS,Trung Sơn 251,"Số 40, Ấp Trung Nam, Xã Bình Trưng, Huyện Châu Thành, Tỉnh Tiền Giang",10.404699289657206,106.20986980527954
-TS,Trung Sơn 195,"Số 82, Đ. Ngô Gia Tự, tổ 22, ấp Bình Tạo, Xã Trung An, Thành phố Mỹ Tho, Tỉnh Tiền Giang",10.349692139610532,106.33107048177041
 TS,Trung Sơn 110,"Số 209D, Tổ 18, Khu 3, Thị Trấn Cái Bè, Huyện Cái Bè, Tỉnh Tiền Giang",10.338646,106.0332581
 TS,Trung Sơn 222,"Số 388, đường ĐT861, Tổ 14, Ấp Thái Hoà, Xã An Thới Đông, Huyện Cái Bè, Tỉnh Tiền Giang",10.337689259266147,105.9162653214264
 TS,Trung Sơn 174,"Số 37 Phan Chu Trinh, Khu Phố 1, Phường 1,  Thành phố Gò Công, Tỉnh Tiền Giang",10.36046216401894,106.67283291988261
@@ -101,6 +100,44 @@ TS,Trung Sơn 219,"Số 280-282, Đường Cách Mạng Tháng 08, Khu Phố 04,
 TS,Trung Sơn 231,"Chợ cũ Tân Trụ, Khu phố Tân Bình, Thị trấn Tân Trụ, Huyện Tân Trụ, Tỉnh Long An",10.520872258003283,106.5199882727905
 TS,Trung Sơn 242,"58, Khu Phố 2 ,Thị Trấn Tân Thạnh, Huyện Tân Thạnh, Tỉnh Long An",10.611723808148344,106.04513161003418
 TS,Trung Sơn 254,"Thửa Đất 78, Đường số 8, KDC Thị Trấn Thạnh Hoá, Huyện Thạnh Hoá, Tỉnh Long An",10.658406906400943,106.18072193596802
+TS,Trung Sơn 1,"90 Lý Tự Trọng, P.An Cư, Quận Ninh Kiều, Cần Thơ",10.034068511953382,105.77962872621391
+TS,Trung Sơn 2,"133 Nguyễn Văn Linh, P. Hưng Lợi, Quận Ninh Kiều, Cần Thơ",10.0285874,105.7541701
+TS,Trung Sơn 3,"61/2 Cách Mạng Tháng Tám, P. Cái Khế, Ninh Kiều, Cần Thơ",10.0494892,105.7758121
+TS,Trung Sơn 4,"222 đường 30/4, P.Xuân Khánh, quận Ninh Kiều, Cần Thơ",10.0270506,105.7772615
+TS,Trung Sơn 5,"122 Trần Văn Khéo, P. An Hội, quận Ninh Kiều, Cần Thơ",10.0440723,105.7835297
+TS,Trung Sơn 6,"304A Nguyễn Văn Cừ nối dài, P. An Khánh, quận Ninh Kiều, Cần Thơ",10.0264902,105.7478517
+TS,Trung Sơn 7,"379 Tổ 9, KV6, đường Nguyễn Văn Cừ nối dài, P. An Bình, Ninh Kiều, Cần Thơ",10.0173207,105.7379396
+TS,Trung Sơn 8,"161 đường 30 tháng 4, P. Xuân Khánh, Ninh Kiều, Cần Thơ",10.0270506,105.7772615
+TS,Trung Sơn 9,"97A Mậu Thân, P.An Hoà, Ninh Kiều, Cần Thơ",10.043241,105.765217
+TS,Trung Sơn 10,"36/50 Trần Việt Châu, P.An Hoà, Ninh Kiều, Cần Thơ",10.0492177,105.7738873
+TS,Trung Sơn 18,"171A/7 Nguyễn Văn Cừ nối dài, KV1, Ninh Kiều, Cần Thơ",10.0384099,105.7596037
+TS,Trung Sơn 20,"17B Đường Nguyễn Văn Linh, Hưng Lợi, Ninh Kiều, Cần Thơ",10.0230578,105.7622542
+TS,Trung Sơn 37,"399 đường Nguyễn Văn Cừ, KV3, Phường An Khánh, Quận Ninh Kiều, TP. Cần Thơ",10.0341413,105.7558363
+TS,Trung Sơn 25,"457 Đường 30/04 , Phường Hưng Lợi, Quận Ninh Kiều, TP. Cần Thơ",10.0143311,105.7626345
+TS,Trung Sơn 50,"47B đường 3/2, phường Xuân Khánh, Quận Ninh Kiều, TP Cần Thơ",10.0248552,105.7675058
+TS,Trung Sơn 52,"Số 194 đường Phan Đình Phùng, P. Tân An, Q. Ninh Kiều, TP. Cần Thơ",10.0272087,105.786011
+TS,Trung Sơn 54,"Số 69-71 Quang Trung, Phường Xuân Khánh, Quận Ninh Kiều, Thành Phố Cần Thơ",10.027894,105.7802728
+TS,Trung Sơn 56,"Số 324, Đường 30/04, Phường Xuân Khánh, Quận Ninh Kiều, Thành Phố Cần Thơ",10.0220011,105.770843
+TS,Trung Sơn 62,"Số 02 đường Nguyễn Hiền, KDC 91B, Q. Ninh Kiều, TP. Cần Thơ",10.023822,105.7570003
+TS,Trung Sơn 65,"Số 197A, Đường Nguyễn Văn Cừ, KV2, Phường An Bình, Quận Ninh Kiều Cần Thơ",10.0264902,105.7478517
+TS,Trung Sơn 75,"190 Nguyễn An Ninh, phường Tân An, quận Ninh Kiều, Tp Cần Thơ",10.0318062,105.7826006
+TS,Trung Sơn 79,"312B, Nguyễn Văn Linh, Phường An Khánh, Quận Ninh Kiều, Thành Phố Cần Thơ",10.0267946,105.7568181
+TS,Trung Sơn 83,"Số 412 Nguyễn Văn Cừ, phường An Hòa, quận Ninh Kiều, TP Cần Thơ",10.0479019,105.7692833
+TS,Trung Sơn 90,"Số 96, Đường 3/2, Phường Xuân Khánh, Quận Ninh Kiều, TP. Cần Thơ",10.0298724,105.7723585
+TS,Trung Sơn 93,"Số 109A, Xô Viết Nghệ Tĩnh, phường An Cư, quận Ninh Kiều, TP Cần Thơ",10.0404869,105.7818962
+TS,Trung Sơn 95,"30H - 30N đường Mậu Thân, phường An Nghiệp, quận Ninh Kiều, TP Cần Thơ",10.0355213,105.773023
+TS,Trung Sơn 100,"70 Hai Bà Trưng, phường Tân An, quận Ninh Kiều, TP Cần Thơ",10.0332911,105.7881111
+TS,Trung Sơn 104,"301F/4 Nguyễn Văn Linh, Phường An Khánh, Quận Ninh Kiều, Thành Phố Cần Thơ",10.0351339,105.7462346
+TS,Trung Sơn 113,"Số 12, Đường CMT8, Phường Cái Khế, Quận Ninh Kiều, Tp. Cần Thơ",10.0521839,105.7734508
+TS,Trung Sơn 121,"Số 28, Đường 30/4, Phường An Phú, Quận Ninh Kiều, Thành Phố Cần Thơ",10.0309109,105.7810678
+TS,Trung Sơn 140,"26 Phạm Ngũ Lão, Phường An Hòa, Q. Ninh Kiều, Thành Phố Cần Thơ",10.0462803,105.7765271
+TS,Trung Sơn 208,"Số 60 Đường Tô Hiến Thành Phường An Khánh, Quận Ninh Kiều, Thành phố Cần Thơ",10.037320041493974,105.74953587191467
+TS,Trung Sơn 11,"562 Nguyễn Trãi, KV Yên Hạ, P.Lê Bình, Cái Răng, Cần Thơ",10.0033994,105.7519031
+TS,Trung Sơn 24,"108 Đường 3/2 (nối dài), Phường An Bình, Quận Ninh Kiều, thành phố Cần Thơ",10.0195771,105.757616
+TS,Trung Sơn 35,"166/5A Phạm Hùng, phường Lê Bình, quận Cái Răng, TP. Cần Thơ",9.9976644,105.7497378
+TS,Trung Sơn 89,"Khu dân cư lô số 20, khu đô thị Nam Cần Thơ, Phường Phú Thứ, Q.Cái Răng, TP.Cần Thơ",10.005897,105.7986046
+TS,Trung Sơn 94,"G8-66 Bùi Quang Trinh, P.Phú Thứ, Q.Cái Răng, TP Cần Thơ",10.0046831,105.806924
+TS,Trung Sơn 129,"Số 21-23 Trần Văn Trà, khu Dân Cư Hưng Phú, Phường Hưng Phú, Quận Cái Răng, Thành Phố Cần Thơ",10.0162189,105.7838679
 TS,Trung Sơn 169,"Thửa đất số 202,tờ bản đồ số 11, khóm 10,Thị trấn Sông Đốc, Huyện Trần Văn Thời, Tỉnh Cà Mau",9.043583407582261,104.8320391232566
 TS,Trung Sơn 228,"Đường Nguyễn Trung Thành, TT. Trần Văn Thời, H. Trần Văn Thời, Cà Mau",9.07447412177942,104.9690145015747
 TS,Trung Sơn 170,"Thửa đất 176, số 34. Khóm 4,Thị Trấn Đầm Dơi, Huyện Đầm Dơi, Tỉnh Cà Mau",8.993462913354533,105.19730632578135
@@ -201,41 +238,4 @@ TS,Trung Sơn 136,"Số 07 Ấp Thị Tứ, Thị Trấn Rạch Gòi, H. Châu T
 TS,Trung Sơn 159,"Lô số A9-6 Khu thương mại Bảy Ngàn, Ấp Thị Tứ, Thị trấn Bảy Ngàn, Huyện Châu Thành A, Tỉnh Hậu Giang",9.8848198,105.5827363
 TS,Trung Sơn 60,"Số 1/399 Lê Lợi, phường Ngã Bảy, Tp Ngã Bảy, Hậu Giang",9.8123488,105.8187601
 TS,Trung Sơn 124,"Số 1057 Hùng Vương, Thành Phố Ngã Bảy, Tỉnh Hậu Giang",9.8152115,105.8168104
-TS,Trung Sơn 1,"90 Lý Tự Trọng, P.An Cư, Quận Ninh Kiều, Cần Thơ",10.034068511953382,105.77962872621391
-TS,Trung Sơn 2,"133 Nguyễn Văn Linh, P. Hưng Lợi, Quận Ninh Kiều, Cần Thơ",10.0285874,105.7541701
-TS,Trung Sơn 3,"61/2 Cách Mạng Tháng Tám, P. Cái Khế, Ninh Kiều, Cần Thơ",10.0494892,105.7758121
-TS,Trung Sơn 4,"222 đường 30/4, P.Xuân Khánh, quận Ninh Kiều, Cần Thơ",10.0270506,105.7772615
-TS,Trung Sơn 5,"122 Trần Văn Khéo, P. An Hội, quận Ninh Kiều, Cần Thơ",10.0440723,105.7835297
-TS,Trung Sơn 6,"304A Nguyễn Văn Cừ nối dài, P. An Khánh, quận Ninh Kiều, Cần Thơ",10.0264902,105.7478517
-TS,Trung Sơn 7,"379 Tổ 9, KV6, đường Nguyễn Văn Cừ nối dài, P. An Bình, Ninh Kiều, Cần Thơ",10.0173207,105.7379396
-TS,Trung Sơn 8,"161 đường 30 tháng 4, P. Xuân Khánh, Ninh Kiều, Cần Thơ",10.0270506,105.7772615
-TS,Trung Sơn 9,"97A Mậu Thân, P.An Hoà, Ninh Kiều, Cần Thơ",10.043241,105.765217
-TS,Trung Sơn 10,"36/50 Trần Việt Châu, P.An Hoà, Ninh Kiều, Cần Thơ",10.0492177,105.7738873
-TS,Trung Sơn 18,"171A/7 Nguyễn Văn Cừ nối dài, KV1, Ninh Kiều, Cần Thơ",10.0384099,105.7596037
-TS,Trung Sơn 20,"17B Đường Nguyễn Văn Linh, Hưng Lợi, Ninh Kiều, Cần Thơ",10.0230578,105.7622542
-TS,Trung Sơn 37,"399 đường Nguyễn Văn Cừ, KV3, Phường An Khánh, Quận Ninh Kiều, TP. Cần Thơ",10.0341413,105.7558363
-TS,Trung Sơn 25,"457 Đường 30/04 , Phường Hưng Lợi, Quận Ninh Kiều, TP. Cần Thơ",10.0143311,105.7626345
-TS,Trung Sơn 50,"47B đường 3/2, phường Xuân Khánh, Quận Ninh Kiều, TP Cần Thơ",10.0248552,105.7675058
-TS,Trung Sơn 52,"Số 194 đường Phan Đình Phùng, P. Tân An, Q. Ninh Kiều, TP. Cần Thơ",10.0272087,105.786011
-TS,Trung Sơn 54,"Số 69-71 Quang Trung, Phường Xuân Khánh, Quận Ninh Kiều, Thành Phố Cần Thơ",10.027894,105.7802728
-TS,Trung Sơn 56,"Số 324, Đường 30/04, Phường Xuân Khánh, Quận Ninh Kiều, Thành Phố Cần Thơ",10.0220011,105.770843
-TS,Trung Sơn 62,"Số 02 đường Nguyễn Hiền, KDC 91B, Q. Ninh Kiều, TP. Cần Thơ",10.023822,105.7570003
-TS,Trung Sơn 65,"Số 197A, Đường Nguyễn Văn Cừ, KV2, Phường An Bình, Quận Ninh Kiều Cần Thơ",10.0264902,105.7478517
-TS,Trung Sơn 75,"190 Nguyễn An Ninh, phường Tân An, quận Ninh Kiều, Tp Cần Thơ",10.0318062,105.7826006
-TS,Trung Sơn 79,"312B, Nguyễn Văn Linh, Phường An Khánh, Quận Ninh Kiều, Thành Phố Cần Thơ",10.0267946,105.7568181
-TS,Trung Sơn 83,"Số 412 Nguyễn Văn Cừ, phường An Hòa, quận Ninh Kiều, TP Cần Thơ",10.0479019,105.7692833
-TS,Trung Sơn 90,"Số 96, Đường 3/2, Phường Xuân Khánh, Quận Ninh Kiều, TP. Cần Thơ",10.0298724,105.7723585
-TS,Trung Sơn 93,"Số 109A, Xô Viết Nghệ Tĩnh, phường An Cư, quận Ninh Kiều, TP Cần Thơ",10.0404869,105.7818962
-TS,Trung Sơn 95,"30H - 30N đường Mậu Thân, phường An Nghiệp, quận Ninh Kiều, TP Cần Thơ",10.0355213,105.773023
-TS,Trung Sơn 100,"70 Hai Bà Trưng, phường Tân An, quận Ninh Kiều, TP Cần Thơ",10.0332911,105.7881111
-TS,Trung Sơn 104,"301F/4 Nguyễn Văn Linh, Phường An Khánh, Quận Ninh Kiều, Thành Phố Cần Thơ",10.0351339,105.7462346
-TS,Trung Sơn 113,"Số 12, Đường CMT8, Phường Cái Khế, Quận Ninh Kiều, Tp. Cần Thơ",10.0521839,105.7734508
-TS,Trung Sơn 121,"Số 28, Đường 30/4, Phường An Phú, Quận Ninh Kiều, Thành Phố Cần Thơ",10.0309109,105.7810678
-TS,Trung Sơn 140,"26 Phạm Ngũ Lão, Phường An Hòa, Q. Ninh Kiều, Thành Phố Cần Thơ",10.0462803,105.7765271
-TS,Trung Sơn 208,"Số 60 Đường Tô Hiến Thành Phường An Khánh, Quận Ninh Kiều, Thành phố Cần Thơ",10.037320041493974,105.74953587191467
-TS,Trung Sơn 11,"562 Nguyễn Trãi, KV Yên Hạ, P.Lê Bình, Cái Răng, Cần Thơ",10.0033994,105.7519031
-TS,Trung Sơn 24,"108 Đường 3/2 (nối dài), Phường An Bình, Quận Ninh Kiều, thành phố Cần Thơ",10.0195771,105.757616
-TS,Trung Sơn 35,"166/5A Phạm Hùng, phường Lê Bình, quận Cái Răng, TP. Cần Thơ",9.9976644,105.7497378
-TS,Trung Sơn 89,"Khu dân cư lô số 20, khu đô thị Nam Cần Thơ, Phường Phú Thứ, Q.Cái Răng, TP.Cần Thơ",10.005897,105.7986046
-TS,Trung Sơn 94,"G8-66 Bùi Quang Trinh, P.Phú Thứ, Q.Cái Răng, TP Cần Thơ",10.0046831,105.806924
-TS,Trung Sơn 129,"Số 21-23 Trần Văn Trà, khu Dân Cư Hưng Phú, Phường Hưng Phú, Quận Cái Răng, Thành Phố Cần Thơ",10.0162189,105.7838679
+TS,Trung Sơn 61,"Số 307, Trần Hưng Đạo, KV1, phường 1, TP Vị Thanh, tỉnh Hậu Giang",9.7830991,105.4667689
