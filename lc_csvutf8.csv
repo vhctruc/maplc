@@ -1029,7 +1029,7 @@ FLC,"81068-LC DTP 343 Quốc Lộ 30, X. Thanh Hưng","343 Quốc Lộ 30, X. T�
 FLC,"81069-LC DTP 195 Đường 869, X. Hội Cư","195 Đường 869, X. An Cư, H. Cái Bè, Tỉnh Tiền Giang",10.366572,106.017561,Chợ; Khu công nghiệp
 FLC,"81070-LC TNH Ô2/56 Quốc Lộ 22, P. Gò Dầu","Ô2/56 Quốc Lộ 22, X. Thanh Phước, H. Gò Dầu, Tỉnh Tây Ninh",11.071111,106.289924,Bệnh viện
 FLC,"81071-LC LĐG 143A Mê Pu - ĐaKai, X. Nam Thành","143A Mê Pu - Đakai, X. Mê Pu, H. Đức Linh, Tỉnh Bình Thuận",11.237935,107.615386,Chợ
-FLC,"81072-LC AGG Tỉnh Lộ 955, X. Ba Chúc","Tỉnh Lộ 955, TT. Ba Chúc, H. Tri Tôn, Tỉnh An Giang",10.494916,104.908788,Chợ; Ðối thủ; Phòng khám / TYT; UBND Phường/Xã
+FLC,"81072-LC AGG Thửa 202, Bản Đồ 16, Đường Tỉnh Lộ 955","Thửa Đất 202, Bản Đồ 16, Đường Tỉnh Lộ 955, TT. Ba Chúc, H. Tri Tôn, Tỉnh An Giang",10.494916,104.908788,Chợ; Ðối thủ; Phòng khám / TYT; UBND Phường/Xã
 FLC,"81073-LC HCM 223B Nguyễn Trọng Tuyển, P. Phú Nhuận","223B Nguyễn Trọng Tuyển, P. 8, Q. Phú Nhuận, TP. Hồ Chí Minh",10.797577,106.674638,Bệnh viện; Chợ; Ðối thủ; Trường học; UBND Phường/Xã
 FLC,"81074-LC HNI 269 Phố Mới, X. Liên Minh","269 Phố Mới, X. Thọ Xuân, H. Đan Phượng, TP. Hà Nội",21.120164,105.646819,Chợ; Cụm Chung Cư / Đô Thị Mới; Ðối thủ; Trường học
 FLC,"81075-LC HNI 105 Phố Huyện, X. Quốc Oai","105 Phố Huyện, TT. Quốc Oai, H. Quốc Oai, TP. Hà Nội",20.991615,105.642574,Bệnh viện; Cụm Chung Cư / Đô Thị Mới; Ðối thủ; Phòng khám / TYT; Trường học; UBND Phường/Xã
@@ -2348,6 +2348,7 @@ FLC,"82406-LC BNH Khu Phố Nghiêm Xá, X. Yên Phong","Khu Phố Nghiêm Xá, 
 FLC,"82407-LC HPG 305 Thành Phao, P. Chí Linh","305 Thành Phao, P. Phả Lại, TP. Chí Linh, Tỉnh Hải Dương",0.0,0.0,
 FLC,"82408-LC LCI 241H Ngô Quyền, P. Lào Cai","241H Ngô Quyền, Phường Kim Tân, Thành Phố Lào Cai, Tỉnh Lào Cai",0.0,0.0,
 FLC,"82409-LC PTO Thôn Tam Lộng, X. Bình Xuyên","Thôn Tam Lộng, X. Hương Sơn, H. Bình Xuyên, Tỉnh Vĩnh Phúc",0.0,0.0,
+FLC,"82410-LC PTO TDP Nam, P. Vĩnh Yên","Tổ Dân Phố Nam, P. Tích Sơn, TP. Vĩnh Yên, Tỉnh Vĩnh Phúc",0.0,0.0,
 FLC,"82425-LC TTH TDP An Lổ, P. Phong Thái","Tổ Dân phố An Lổ, Phường Phong An, Thị Xã Phong Điền, Thành Phố Huế",0.0,0.0,
 FLC,"82426-LC QNI 14 Nguyễn Tự Tân, X. Bình Sơn","14 Nguyễn Tự Tân, TT. Châu Ổ, H. Bình Sơn, Tỉnh Quảng Ngãi",0.0,0.0,
 FLC,"82427-LC NAN Xóm Chí Thành, X. Quỳnh Anh","Xóm Chí Thành, X. Quỳnh Bảng, H. Quỳnh Lưu, Tỉnh Nghệ An",0.0,0.0,
@@ -2370,3 +2371,4 @@ FLC,"82458-LC QNI Thôn Nam Bình, X. Bình Sơn","Thôn Nam Bình, X. Bình Ngu
 FLC,"82464-LC CTO A16-12, Đường 1A, P. Cái Răng","A16-12, Đường 1A, P. Thường Thạnh, Q. Cái Răng, Tỉnh Cần Thơ",0.0,0.0,
 FLC,"82465-LC LĐG 50 Lang Biang, P. Lang Biang-Đà Lạt","50 Lang Biang, TT. Lạc Dương, H. Lạc Dương, Tỉnh Lâm Đồng",0.0,0.0,
 FLC,"82466-LC DLK 59 Nguyễn Thái Bình, P. Tân Lập","59 Nguyễn Thái Bình, X. Hòa Thắng, TP. Buôn Ma Thuột, Tỉnh Đắk Lắk",0.0,0.0,
+FLC,"82467-LC TNH 29A Đường DT824, X. Lương Hòa","29A Đường DT824, X. Lương Hòa, H. Bến Lức, Tỉnh Long An",0.0,0.0,
