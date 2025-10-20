@@ -179,6 +179,9 @@ PMC,HNPMC1686_231 Đường Trần Huy Liệu,"231 Đường Trần Huy Liệu, 
 PMC,HNPMC1687_Số 9-Villa D The Manor,"Số 9-Villa D The Manor, Phường Mỹ Đình 1, Quận Nam Từ Liêm, Thành phố Hà Nội",21.0144770872,105.776054808
 PMC,HNPMC1688_Số 32 Đường Ngô Thì Nhậm,"Số 32 Đường Ngô Thì Nhậm, Phường Hà Cầu, Quận Hà Đông, Thành phố Hà Nội",20.9690834945,105.7687388819
 PMC,HNPMC1690_685 Đường Hoàng Hoa Thám,"685 Đường Hoàng Hoa Thám, Phường Ngọc Hà, , Thành phố Hà Nội",21.0474192053,105.807637632
+PMC,HNPMC1703_LK16-1 Khu tái định cư Ngô Thì Nhậm,"LK16-1 Khu tái định cư Ngô Thì Nhậm,  Phường Hà Đông, , Thành phố Hà Nội",20.9661904427,105.7657427865
+PMC,HNPMC1706_Số 81 Phố Thái Thịnh,"Số 81 Phố Thái Thịnh, Phường Đống Đa, , Thành phố Hà Nội",21.0105148303,105.8184862681
+PMC,HNPMC1713_Số 47 Phố Núi Trúc,"Số 47 Phố Núi Trúc, Phường Ngọc Hà, , Thành phố Hà Nội",21.030233,105.822205
 PMC,HNPMC233_233 - 233A phố Đặng Tiến Đông,"233 - 233A phố Đặng Tiến Đông, Phường Trung Liệt, Quận Đống Đa, Thành phố Hà Nội",21.0152243,105.8203045
 PMC,HNPMC236_96 - 98 Khâm Thiên,"96 - 98 Khâm Thiên, Phường Khâm Thiên, Quận Đống Đa, Thành phố Hà Nội",21.0190874,105.8375841
 PMC,HNPMC249_108 Tầng 1,"108 Tầng 1, Phường La Khê, Quận Hà Đông, Thành phố Hà Nội",20.97432,105.763578
@@ -620,8 +623,9 @@ PMC,SGPMC242_193 Thạch Lam,"193 Thạch Lam, Phường Phú Thạnh, Quận T�
 PMC,SGPMC243_69C Khu phố Hòa Long,"69C Khu phố Hòa Long, Phường Lái Thiêu, Thị xã Thuận An, Tỉnh Bình Dương",10.8851187834,106.7041064511
 PMC,SGPMC244_199 Tân Sơn Nhì,"199 Tân Sơn Nhì, Phường Tân Sơn Nhì, Quận Tân Phú, Thành phố Hồ Chí Minh",10.7989124,106.6322696
 PMC,SGPMC245_Số 43 đường Tỉnh lộ 8,"Số 43 đường Tỉnh lộ 8, Xã Tân Thạnh Tây, Huyện Củ Chi, Thành phố Hồ Chí Minh",10.9835529,106.5745691
-PMC,SGPMC246_44 Quốc Hương,"44 Quốc Hương, Phường Thảo Điền, Quận 2, Thành phố Hồ Chí Minh",10.8068829,106.7310193
+PMC,SGPMC247_966-968 đường 30/4,"966-968 đường 30/4, Phường 11, Thành phố Vũng Tàu, Tỉnh Bà Rịa - Vũng Tàu",10.409132,107.132943
 PMC,SGPMC248_Số 02 Nguyễn Văn Dung,"Số 02 Nguyễn Văn Dung, Phường 6, Quận Gò Vấp, Thành phố Hồ Chí Minh",10.8477143,106.6787604
+PMC,SGPMC246_44 Quốc Hương,"44 Quốc Hương, Phường Thảo Điền, Quận 2, Thành phố Hồ Chí Minh",10.8068829,106.7310193
 PMC,SGPMC250_131 Thành Thái,"131 Thành Thái, Phường 14, Quận 10, Thành phố Hồ Chí Minh",10.7744601,106.6642686
 PMC,SGPMC251_18 Gò Dưa,"18 Gò Dưa, Phường Tam Bình, Quận Thủ Đức, Thành phố Hồ Chí Minh",10.8668694,106.7281758
 PMC,SGPMC253_622A Kha Vạn Cân,"622A Kha Vạn Cân, Phường Linh Đông, Quận Thủ Đức, Thành phố Hồ Chí Minh",10.8409700894,106.7458969223
