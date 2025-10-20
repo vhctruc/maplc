@@ -183,7 +183,6 @@ TGDÐ,AK1_CTH_BTH - Bình Thuỷ,"Lê Hồng Phong, Phường Bình Thủy, Thà
 TGDÐ,AK1_CTH_CDO - Cờ Đỏ,"Ấp Thới Thuận, Xã Cờ Đỏ, Thành phố Cần Thơ, Việt Nam",10.09384,105.429966
 TGDÐ,AK1_CTH_CRA - KDC Phú An,"Khu dân cư Phú An (Lô số 20), Khu Đô Thị Mới Nam Sông Hậu, Phường Hưng Phú, Thành phố Cần Thơ, Việt Nam",10.004169,105.8068607
 TGDÐ,AK1_CTH_NKI - Nguyễn Văn Linh (Hub),"311 Nguyễn Văn Linh, Phường Tân An, Thành phố Cần Thơ, Việt Nam",10.028727,105.753961
-TGDÐ,AK1_CTH_PLO - Hai Bà Trưng,"Phường Phú Lợi, Thành phố Cần Thơ, Việt Nam",9.6045517,105.9746775
 TGDÐ,AK1_CTH_VTH - Thị trấn Vĩnh Thạnh,"Ấp Qui Lân 5, Xã Vĩnh Thạnh, Thành phố Cần Thơ, Việt Nam",10.2309201,105.3961111
 TGDÐ,AK1_DLA_BHO - 01 Phạm Ngũ Lão,"Số 01 Phạm Ngũ Lão, Phường Buôn Hồ, Tỉnh Đắk Lắk, Việt Nam",12.917072,108.2644489
 TGDÐ,AK1_DLA_BHO - 66 Trần Hưng Đạo,"66 Trần Hưng Đạo, tổ dân phố 06, Phường Buôn Hồ, Tỉnh Đắk Lắk, Việt Nam",12.9175725,108.2672029
@@ -341,9 +340,10 @@ TGDÐ,AK1_QNG_QNG - Nghĩa Chánh,"Phường Cẩm Thành, Tỉnh Quảng Ngãi,
 TGDÐ,AK1_QNG_TNG - Thị trấn Sông Vệ,"TDP Sông Vệ, Xã Vệ Giang, Tỉnh Quảng Ngãi, Việt Nam",15.043875,108.850297
 TGDÐ,AK1_STR_CLD - Cù Lao Dung,"Ấp Chợ, Xã An Thạnh, Thành phố Cần Thơ, Việt Nam",9.6674217,106.152772
 TGDÐ,AK1_STR_MTU - Huỳnh Hữu Nghĩa,"Đường Hùng Vương, Ấp Nội Ô, Xã Mỹ Tú, Thành phố Cần Thơ, Việt Nam",9.6365036,105.8097486
+TGDÐ,AK1_STR_NNA - 76 Mai Thanh Thế,"76 Mai Thanh Thế, Khóm 1, Phường Ngã Năm, Thành phố Cần Thơ, Việt Nam",9.5631331,105.5959454
+TGDÐ,AK1_CTH_PLO - Hai Bà Trưng,"Phường Phú Lợi, Thành phố Cần Thơ, Việt Nam",9.6045517,105.9746775
 TGDÐ,AK1_STR_STR - Hai Bà Trưng,"Phường Phú Lợi, Thành phố Cần Thơ, Việt Nam",9.6045517,105.9746775
 TGDÐ,AK1_STR_TTR - Phú Lộc (QL1A),"Quốc Lộ 1A, Ấp 2 (QL1A), Xã Phú Lộc, Thành phố Cần Thơ, Việt Nam",9.4307219,105.7476652
-TGDÐ,AK1_STR_NNA - 76 Mai Thanh Thế,"76 Mai Thanh Thế, Khóm 1, Phường Ngã Năm, Thành phố Cần Thơ, Việt Nam",9.5631331,105.5959454
 TGDÐ,AK1_TGI_CBE - Cái Bè,"Số 201A Trương Công Định, Khu 2, Xã Cái Bè, Tỉnh Đồng Tháp, Việt Nam",10.3340353,106.0323683
 TGDÐ,AK1_TGI_CLA -  Cai Lậy,"Khu 1, Phường Cai Lậy, Tỉnh Đồng Tháp, Việt Nam",10.4108458,106.120166
 TGDÐ,AK1_TGI_CTH - Tân Hương,"Ấp Tân Thuận, Xã Tân Hương, Tỉnh Đồng Tháp, Việt Nam",10.4755235,106.3419724
