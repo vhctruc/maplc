@@ -60,6 +60,7 @@ PMC,DNPMC1669_Số 122 Đường Trần Hưng Đạo,"Số 122 Đường Trần 
 PMC,DNPMC1694_59 Nguyễn Thị Minh Khai,"59 Nguyễn Thị Minh Khai, Phường Nha Trang, , Tỉnh Khánh Hòa",12.2381545208,109.191691287
 PMC,DNPMC1699_Số 371 Đường Quang Trung,"Số 371 Đường Quang Trung, Phường Cẩm Thành, , Tỉnh Quảng Ngãi",15.1232477479,108.8036354248
 PMC,DNPMC1608_76 Lê Văn Hiến,"76 Lê Văn Hiến, Phường Khuê Mỹ, Quận Ngũ Hành Sơn, Thành phố Đà Nẵng",16.0348758102,108.2445570455
+PMC,DNPMC1707_Số 126 Đường Ngũ Hành Sơn,"Số 126 Đường Ngũ Hành Sơn, Phường Ngũ Hành Sơn, , Thành phố Đà Nẵng",16.0494879453,108.2379074577
 PMC,DNPMC278_249 Trần Cao Vân,"249 Trần Cao Vân, Phường Xuân Hà, Quận Thanh Khê, Thành phố Đà Nẵng",16.0712492,108.2001541
 PMC,DNPMC291_293 Nguyễn Văn Linh,"293 Nguyễn Văn Linh, Phường Thạc Gián, Quận Thanh Khê, Thành phố Đà Nẵng",16.0594995,108.2095306
 PMC,DNPMC296_131A Lý Thái Tổ,"131A Lý Thái Tổ, Phường Thạc Gián, Quận Thanh Khê, Thành phố Đà Nẵng",16.0661607,108.2066458
@@ -178,10 +179,10 @@ PMC,HNPMC1686_231 Đường Trần Huy Liệu,"231 Đường Trần Huy Liệu, 
 PMC,HNPMC1687_Số 9-Villa D The Manor,"Số 9-Villa D The Manor, Phường Mỹ Đình 1, Quận Nam Từ Liêm, Thành phố Hà Nội",21.0144770872,105.776054808
 PMC,HNPMC1688_Số 32 Đường Ngô Thì Nhậm,"Số 32 Đường Ngô Thì Nhậm, Phường Hà Cầu, Quận Hà Đông, Thành phố Hà Nội",20.9690834945,105.7687388819
 PMC,HNPMC1690_685 Đường Hoàng Hoa Thám,"685 Đường Hoàng Hoa Thám, Phường Ngọc Hà, , Thành phố Hà Nội",21.0474192053,105.807637632
-PMC,HNPMC1613_BT10-VT12 Khu nhà ở Xa La,"BT10-VT12 Khu nhà ở Xa La, Phường Phúc La, Quận Hà Đông, Thành phố Hà Nội",20.9618079895,105.7951746696
 PMC,HNPMC1703_LK16-1 Khu tái định cư Ngô Thì Nhậm,"LK16-1 Khu tái định cư Ngô Thì Nhậm,  Phường Hà Đông, , Thành phố Hà Nội",20.9661904427,105.7657427865
 PMC,HNPMC1706_Số 81 Phố Thái Thịnh,"Số 81 Phố Thái Thịnh, Phường Đống Đa, , Thành phố Hà Nội",21.0105148303,105.8184862681
 PMC,HNPMC1713_Số 47 Phố Núi Trúc,"Số 47 Phố Núi Trúc, Phường Ngọc Hà, , Thành phố Hà Nội",21.030233,105.822205
+PMC,HNPMC1613_BT10-VT12 Khu nhà ở Xa La,"BT10-VT12 Khu nhà ở Xa La, Phường Phúc La, Quận Hà Đông, Thành phố Hà Nội",20.9618079895,105.7951746696
 PMC,HNPMC233_233 - 233A phố Đặng Tiến Đông,"233 - 233A phố Đặng Tiến Đông, Phường Trung Liệt, Quận Đống Đa, Thành phố Hà Nội",21.0152243,105.8203045
 PMC,HNPMC236_96 - 98 Khâm Thiên,"96 - 98 Khâm Thiên, Phường Khâm Thiên, Quận Đống Đa, Thành phố Hà Nội",21.0190874,105.8375841
 PMC,HNPMC249_108 Tầng 1,"108 Tầng 1, Phường La Khê, Quận Hà Đông, Thành phố Hà Nội",20.97432,105.763578
@@ -517,17 +518,16 @@ PMC,SGPMC1610_Shop 10 Số nhà C01.01 Cao ốc TM và CC Âu Cơ,"Shop 10 Số 
 PMC,SGPMC1611_561 Đường QL14,"561 Đường QL14, Phường Tân Bình, Thị xã Đồng Xoài, Tỉnh Bình Phước",11.5362295329,106.8964663185
 PMC,SGPMC1612_35 Trần Hưng Đạo,"35 Trần Hưng Đạo, Thị trấn Ba Tri, Huyện Ba Tri, Tỉnh Bến Tre",10.0417988562,106.5937030563
 PMC,SGPMC1614_F229,"F229, Phường Thống Nhất, Thành phố Biên Hòa, Tỉnh Đồng Nai",10.9474003002,106.8288740751
-PMC,SGPMC1615_188B-188B1 Đoàn Hoàng Minh,"188B-188B1 Đoàn Hoàng Minh, Phường 5, Thành phố Bến Tre, Tỉnh Bến Tre",10.2369665651,106.3690889377
 PMC,SGPMC1617_1.02 T1,"1.02 T1, Phường Long Bình, Quận 9, Thành phố Hồ Chí Minh",10.844183,106.836296
 PMC,SGPMC1618_CH số GB.01.08,"CH số GB.01.08, Phường Nguyễn An Ninh, Thành phố Vũng Tàu, Tỉnh Bà Rịa - Vũng Tàu",10.3760340726,107.1127987753
 PMC,SGPMC1619_20-LK3A,"20-LK3A, Phường Thạnh Xuân, Quận 12, Thành phố Hồ Chí Minh",10.8657728767,106.6645479054
+PMC,SGPMC1615_188B-188B1 Đoàn Hoàng Minh,"188B-188B1 Đoàn Hoàng Minh, Phường 5, Thành phố Bến Tre, Tỉnh Bến Tre",10.2369665651,106.3690889377
+PMC,SGPMC162_81 Lê Quốc Trinh,"81 Lê Quốc Trinh, Phường Phú Thọ Hòa, Quận Tân Phú, Thành phố Hồ Chí Minh",10.7867432,106.6233997
 PMC,SGPMC1621_CH số 31 Đường Nội khu,"CH số 31 Đường Nội khu, Phường Tân Phú, Quận 7, Thành phố Hồ Chí Minh",10.7239028879,106.7279109328
 PMC,SGPMC1622_25 Nguyễn Huệ,"25 Nguyễn Huệ, Phường 2, Thị xã Gò Công, Tỉnh Tiền Giang",10.3601911711,106.6785428554
 PMC,SGPMC1624_173 Lê Hồng Phong,"173 Lê Hồng Phong, Phường Phú Trinh, Thành phố Phan Thiết, Tỉnh Bình Thuận",10.9362510452,108.1035940402
 PMC,SGPMC1625_447A/23,"447A/23, Phường Bình Khánh, Thành phố Long Xuyên, Tỉnh An Giang",10.3927629,105.4271963
 PMC,SGPMC1626_CH A0.04,"CH A0.04, Phường Cát Lái, Quận 2, Thành phố Hồ Chí Minh",10.7707156103,106.7875615771
-PMC,SGPMC162_81 Lê Quốc Trinh,"81 Lê Quốc Trinh, Phường Phú Thọ Hòa, Quận Tân Phú, Thành phố Hồ Chí Minh",10.7867432,106.6233997
-PMC,SGPMC163_33 Bình Phú,"33 Bình Phú, Phường 10, Quận 6, Thành phố Hồ Chí Minh",10.7406314,106.6294759
 PMC,SGPMC1630_70 Cây Keo,"70 Cây Keo, Phường Hiệp Tân, Quận Tân Phú, Thành phố Hồ Chí Minh",10.7715118412,106.6294498624
 PMC,SGPMC1631_1191 CMT8,"1191 CMT8, Phường Hiệp Ninh, Thành phố Tây Ninh, Tỉnh Tây Ninh",11.3050769304,106.1292938417
 PMC,SGPMC1632_CH S1.0.04,"CH S1.0.04, Phường Sơn Kỳ, Quận Tân Phú, Thành phố Hồ Chí Minh",10.8038378516,106.6170420299
@@ -540,6 +540,8 @@ PMC,SGPMC1645_818 Hậu Giang,"818 Hậu Giang, Phường 12, Quận 6, Thành p
 PMC,SGPMC1646_1.01,"1.01, Phường Long Bình, Quận 9, Thành phố Hồ Chí Minh",10.845071951,106.8367531131
 PMC,SGPMC1647_06 Đường 3 tháng 2,"06 Đường 3 tháng 2, Phường 1, Thành phố Đà Lạt, Tỉnh Lâm Đồng",11.9428477809,108.4355482646
 PMC,SGPMC1648_566 Lê Đức Thọ,"566 Lê Đức Thọ, Phường 17, Quận Gò Vấp, Thành phố Hồ Chí Minh",10.8440496396,106.6737310104
+PMC,SGPMC163_33 Bình Phú,"33 Bình Phú, Phường 10, Quận 6, Thành phố Hồ Chí Minh",10.7406314,106.6294759
+PMC,SGPMC165_33B Xuân Thủy,"33B Xuân Thủy, Phường Thảo Điền, Quận 2, Thành phố Hồ Chí Minh",10.80282,106.729477
 PMC,SGPMC1650_Số D.1.04,"Số D.1.04, Xã Phước Kiển, Huyện Nhà Bè, Thành phố Hồ Chí Minh",10.7226712362,106.7042705462
 PMC,SGPMC1655_240/35F Nguyễn Văn Luông,"240/35F Nguyễn Văn Luông, Phường 11, Quận 6, Thành phố Hồ Chí Minh",10.7458569281,106.6369805095
 PMC,SGPMC1656_358 Lũy Bán Bích,"358 Lũy Bán Bích, Phường Hòa Thạnh, Quận Tân Phú, Thành phố Hồ Chí Minh",10.7756218771,106.6335403476
@@ -549,22 +551,21 @@ PMC,SGPMC1663_77 Trần Đại Nghĩa,"77 Trần Đại Nghĩa, Phường 4, Th�
 PMC,SGPMC1665_C18,"C18, Phường Hoà Phú, Thành phố Thủ Dầu Một, Tỉnh Bình Dương",11.0465862,106.6784788
 PMC,SGPMC1666_257 Nguyễn Trung Trực,"257 Nguyễn Trung Trực, Phường Vĩnh Bảo, Thành phố Rạch Giá, Tỉnh Kiên Giang",10.0005273,105.0898117
 PMC,SGPMC1668_Lô B01-02 Lâm Quang Ky,"Lô B01-02 Lâm Quang Ky, Phường An Hòa, Thành phố Rạch Giá, Tỉnh Kiên Giang",9.9771919,105.0989597
-PMC,SGPMC165_33B Xuân Thủy,"33B Xuân Thủy, Phường Thảo Điền, Quận 2, Thành phố Hồ Chí Minh",10.80282,106.729477
-PMC,SGPMC167_LK-01 CC 93 Lê Lợi,"LK-01 CC 93 Lê Lợi, Phường Thắng Nhì, Thành phố Vũng Tàu, Tỉnh Bà Rịa - Vũng Tàu",10.3615134,107.0752056
 PMC,SGPMC1671_147 Đường 2 Tháng 9,"147 Đường 2 Tháng 9, Phường 8, Thành phố Vũng Tàu, Tỉnh Bà Rịa - Vũng Tàu",10.3587998106,107.0904118549
 PMC,SGPMC1674_70 Bến Vân Đồn,"70 Bến Vân Đồn, Phường 13, Quận 4, Thành phố Hồ Chí Minh",10.7651879488,106.7017678545
 PMC,SGPMC1675_15 Bis khu phố Bình Hòa,"15 Bis khu phố Bình Hòa, Phường Lái Thiêu, Thị xã Thuận An, Tỉnh Bình Dương",10.9155581193,106.70825229
 PMC,SGPMC1678_664 Đường Ba Tháng Hai,"664 Đường Ba Tháng Hai, Phường 14, Quận 10, Thành phố Hồ Chí Minh",10.7647497777,106.6614483783
+PMC,SGPMC167_LK-01 CC 93 Lê Lợi,"LK-01 CC 93 Lê Lợi, Phường Thắng Nhì, Thành phố Vũng Tàu, Tỉnh Bà Rịa - Vũng Tàu",10.3615134,107.0752056
+PMC,SGPMC168_16/13 Nguyễn Văn Hưởng,"16/13 Nguyễn Văn Hưởng, Phường Thảo Điền, Quận 2, Thành phố Hồ Chí Minh",10.8039638892,106.7271271444
 PMC,SGPMC1683_444 Lý Thường Kiệt,"444 Lý Thường Kiệt, Phường 07, Quận Tân Bình, Thành phố Hồ Chí Minh",10.785589,106.6540102
 PMC,SGPMC1689_270 Lý Thái Tổ,"270 Lý Thái Tổ, Phường Bàn Cờ, , Thành phố Hồ Chí Minh",10.7672448487,106.6763783059
-PMC,SGPMC168_16/13 Nguyễn Văn Hưởng,"16/13 Nguyễn Văn Hưởng, Phường Thảo Điền, Quận 2, Thành phố Hồ Chí Minh",10.8039638892,106.7271271444
-PMC,SGPMC169_PA 116 DIC Phoenix,"PA 116 DIC Phoenix, Phường Nguyễn An Ninh, Thành phố Vũng Tàu, Tỉnh Bà Rịa - Vũng Tàu",10.3756067,107.1111019
 PMC,SGPMC1691_67 Bình Thới,"67 Bình Thới, Phường Phú Thọ, Quận 11, Thành phố Hồ Chí Minh",10.7676126772,106.6497892339
 PMC,SGPMC1693_41C Phan Huy Ích,"41C Phan Huy Ích, Phường Tân Sơn, , Thành phố Hồ Chí Minh",10.825556,106.6307133
 PMC,SGPMC1695_137 Bình Long,"137 Bình Long, Phường Bình Trị Đông, , Thành phố Hồ Chí Minh",10.7797505751,106.6202511816
 PMC,SGPMC1698_187 Tên Lửa,"187 Tên Lửa, Phường An Lạc, , Thành phố Hồ Chí Minh",10.7481253342,106.6118706577
-PMC,SGPMC1704_106 Hoàng Hoa Thám,"106 Hoàng Hoa Thám, Phường Bảy Hiền, , Thành phố Hồ Chí Minh",10.7996271,106.6472485
+PMC,SGPMC169_PA 116 DIC Phoenix,"PA 116 DIC Phoenix, Phường Nguyễn An Ninh, Thành phố Vũng Tàu, Tỉnh Bà Rịa - Vũng Tàu",10.3756067,107.1111019
 PMC,SGPMC170_01 Đường số 24,"01 Đường số 24, Phường Cát Lái, Quận 2, Thành phố Hồ Chí Minh",10.7776259115,106.7687208179
+PMC,SGPMC1704_106 Hoàng Hoa Thám,"106 Hoàng Hoa Thám, Phường Bảy Hiền, , Thành phố Hồ Chí Minh",10.7996271,106.6472485
 PMC,SGPMC171_20/1 Đường số 1,"20/1 Đường số 1, Phường Bình Hưng Hoà A, Quận Bình Tân, Thành phố Hồ Chí Minh",10.7802425,106.61919615
 PMC,SGPMC172_546A-546B Nguyễn Văn Công,"546A-546B Nguyễn Văn Công, Phường 03, Quận Gò Vấp, Thành phố Hồ Chí Minh",10.816056,106.676219
 PMC,SGPMC173_60 Lê Văn Chí,"60 Lê Văn Chí, Phường Linh Trung, Quận Thủ Đức, Thành phố Hồ Chí Minh",10.8607754,106.778963
@@ -997,5 +998,5 @@ PMC,SGPMC996_45 Phan Chu Trinh,"45 Phan Chu Trinh, Phường Thắng Lợi, Thà
 PMC,SGPMC999_148 Trương Quyền,"148 Trương Quyền, Phường 1, Thành phố Tây Ninh, Tỉnh Tây Ninh",11.3106468605,106.0862497205
 PMC,TCV_136 Hai Bà Trưng,"136 Hai Bà Trưng, Phường Đa Kao, Quận 1, Thành phố Hồ Chí Minh",10.784133,106.697043
 PMC,TDN_Số 10 Thảo Điền,"Số 10 Thảo Điền, Phường Thảo Điền, Quận 2, Thành phố Hồ Chí Minh",10.802437,106.738164
-PMC,VTBHUB513_2A Đinh Tiên Hoàng,"2A Đinh Tiên Hoàng, Phường Lộc Thọ, Thành phố Nha Trang, Tỉnh Khánh Hòa",12.2477743,109.1921206
 PMC,VTBHUB140_51 Đường số 4 nối dài,"51 Đường số 4 nối dài, Phường An Lạc, Quận Bình Tân, Thành phố Hồ Chí Minh",10.7206976,106.6167442
+PMC,VTBHUB513_2A Đinh Tiên Hoàng,"2A Đinh Tiên Hoàng, Phường Lộc Thọ, Thành phố Nha Trang, Tỉnh Khánh Hòa",12.2477743,109.1921206
