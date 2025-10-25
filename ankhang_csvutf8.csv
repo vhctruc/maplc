@@ -76,6 +76,7 @@ TGDÐ,AK_HCM_BTA - 80 Bình Trị Đông,"80 Bình Trị Đông, Phường Bìn
 TGDÐ,AK_HCM_GVA - 1470 Lê Đức Thọ,"1470 Lê Đức Thọ, Phường An Hội Tây, Thành phố Hồ Chí Minh, Việt Nam",10.858574,106.6524752
 TGDÐ,AK_HCM_GVA - 18 Phan Huy Ích,"221 Phan Huy Ích, Phường An Hội Tây, Thành phố Hồ Chí Minh, Việt Nam",10.8344186,106.6347183
 TGDÐ,AK_HCM_GVA - 80 Nguyễn Văn Khối,"80 Nguyễn Văn Khối (Ngay Bách hóa XANH cách Công viên Làng Hoa 300m), Phường Thông Tây Hội, Thành phố Hồ Chí Minh, Việt Nam",10.842235,106.659078
+TGDÐ,AK_HCM_HMO - 98/1A Lê Lợi (OFF),"98/1A Lê Lợi, Ấp Dân Thắng 2 (Ngay Bách hóa XANH Cách Ngã Tư Song Hành-Lê Lợi 250m), Xã Xuân Thới Sơn, Thành phố Hồ Chí Minh, Việt Nam",10.893685,106.586456
 TGDÐ,AK_HCM_NBE - 895 Nguyễn Văn Tạo,"895 Nguyễn Văn Tạo, Ấp 1, Xã Hiệp Phước, Thành phố Hồ Chí Minh, Việt Nam",10.6325786,106.7358041
 TGDÐ,AK_HCM_PNH - 223 Nguyễn Trọng Tuyển,"223 Nguyễn Trọng Tuyển (Ngay Bách hóa XANH Góc Ngã 4 Nguyễn Trọng Tuyển-Đường Ray Xe Lửa), Phường Phú Nhuận, Thành phố Hồ Chí Minh, Việt Nam",10.797598,106.674779
 TGDÐ,AK_HCM_Q07 - 184 Lâm Văn Bền,"52 Đường số 51, Khu phố 4 (Ngay Bách hóa XANH Ngã Tư Lâm Văn Bền - Đường số 51), Phường Tân Hưng, Thành phố Hồ Chí Minh, Việt Nam",10.7412446,106.7157943
@@ -353,9 +354,6 @@ TGDÐ,AK1_TGI_MTH - 43/13A-B Đinh Bộ Lĩnh,"43/13A - 43/13B Đinh Bộ Lĩnh,
 TGDÐ,AK1_TNI_BCA - Chợ Bến Cầu,"Khu phố 1, Xã Bến Cầu, Tỉnh Tây Ninh, Việt Nam",11.108626,106.180046
 TGDÐ,AK1_TNI_TBI - Tân Biên,"Khu phố 2, Xã Tân Biên, Tỉnh Tây Ninh, Việt Nam",11.544738,106.003844
 TGDÐ,AK1_TNI_TDI - Hiệp An,"Phường Thanh Điền, Tỉnh Tây Ninh, Việt Nam",11.2943965,106.1142981
-TGDÐ,AK_HCM_HMO - 98/1A Lê Lợi (OFF),"98/1A Lê Lợi, Ấp Dân Thắng 2 (Ngay Bách hóa XANH Cách Ngã Tư Song Hành-Lê Lợi 250m), Xã Xuân Thới Sơn, Thành phố Hồ Chí Minh, Việt Nam",10.893685,106.586456
-TGDÐ,AK1_CTH_PLO - Hai Bà Trưng,"Phường Phú Lợi, Thành phố Cần Thơ, Việt Nam",9.6045517,105.9746775
-TGDÐ,AK1_TNI_THO - Nguyễn Trung Trực,"Đường Nguyễn Trung Trực, Khu Phố 3, Xã Thạnh Hóa, Tỉnh Tây Ninh, Việt Nam",10.657819,106.181836
 TGDÐ,AK1_TNI_THO - Thạnh Hóa,"Đường Nguyễn Trung Trực, Khu Phố 3, Xã Thạnh Hóa, Tỉnh Tây Ninh, Việt Nam",10.657819,106.181836
 TGDÐ,AK1_TVI_CKE - Thị Trấn Cầu Kè,"Khóm 6, Xã Cầu Kè, Tỉnh Vĩnh Long, Việt Nam",9.869339,106.055756
 TGDÐ,AK1_TVI_CLO - Càng Long,"Khóm 1, Xã Càng Long, Tỉnh Vĩnh Long, Việt Nam",9.998268,106.2054087
@@ -366,3 +364,5 @@ TGDÐ,AK1_VLO_LHO - Long Hồ,"Khóm 1, Xã Long Hồ, Tỉnh Vĩnh Long, Việt
 TGDÐ,AK1_VLO_MTH - Cái Nhum (Mang Thít),"Khóm 1, Xã Cái Nhum, Tỉnh Vĩnh Long, Việt Nam",10.1744792,106.1089649
 TGDÐ,AK1_VLO_VLI - 158A Nam Kỳ Khởi Nghĩa,"158A Nam Kỳ Khởi Nghĩa, Khóm 2, Xã Trung Thành, Tỉnh Vĩnh Long, Việt Nam",10.095344,106.185732
 TGDÐ,AK1_VLO_VLO - 110B Trưng Nữ Vương,"110B Trưng Nữ Vương, Phường Long Châu, Tỉnh Vĩnh Long, Việt Nam",10.2517331,105.9726153
+TGDÐ,AK1_CTH_PLO - Hai Bà Trưng,"Phường Phú Lợi, Thành phố Cần Thơ, Việt Nam",9.6045517,105.9746775
+TGDÐ,AK1_TNI_THO - Nguyễn Trung Trực,"Đường Nguyễn Trung Trực, Khu Phố 3, Xã Thạnh Hóa, Tỉnh Tây Ninh, Việt Nam",10.657819,106.181836
