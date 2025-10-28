@@ -53,13 +53,13 @@ PMC,DNPMC1603_315 Nguyễn Công Phương,"315 Nguyễn Công Phương, Phườn
 PMC,DNPMC1606_26C Cao Bá Quát,"26C Cao Bá Quát, Phường Phước Tân, Thành phố Nha Trang, Tỉnh Khánh Hòa",12.2421601,109.1826605
 PMC,DNPMC1608_76 Lê Văn Hiến,"76 Lê Văn Hiến, Phường Khuê Mỹ, Quận Ngũ Hành Sơn, Thành phố Đà Nẵng",16.0348758102,108.2445570455
 PMC,DNPMC1620_Ki ốt số 8 (T.01),"Ki ốt số 8 (T.01), Phường Vĩnh Phước, Thành phố Nha Trang, Tỉnh Khánh Hòa",12.2740262957,109.2019397728
-PMC,DNPMC1627_74 Lê Lợi,"74 Lê Lợi, Phường Phú Hội, Thành phố Huế, Tỉnh Thừa Thiên Huế",16.4704493,107.5944295
 PMC,DNPMC1633_30 Lê Văn Thứ,"30 Lê Văn Thứ, Phường Mân Thái, Quận Sơn Trà, Thành phố Đà Nẵng",16.0852013366,108.2426329144
 PMC,DNPMC1637_120 Hồ Nghinh,"120 Hồ Nghinh, Phường An Hải Bắc, Quận Sơn Trà, Thành phố Đà Nẵng",16.0738573712,108.2430127613
 PMC,DNPMC1658_551 Đường Trần Hưng Đạo,"551 Đường Trần Hưng Đạo, Phường Lê Hồng Phong, Thành phố Quy Nhơn, Tỉnh Bình Định",13.7792241699,109.2253813147
 PMC,DNPMC1669_Số 122 Đường Trần Hưng Đạo,"Số 122 Đường Trần Hưng Đạo, Phường Chánh Lộ, Thành phố Quảng Ngãi, Tỉnh Quảng Ngãi",15.1191135196,108.8022583111
 PMC,DNPMC1694_59 Nguyễn Thị Minh Khai,"59 Nguyễn Thị Minh Khai, Phường Nha Trang, , Tỉnh Khánh Hòa",12.2381545208,109.191691287
 PMC,DNPMC1699_Số 371 Đường Quang Trung,"Số 371 Đường Quang Trung, Phường Cẩm Thành, , Tỉnh Quảng Ngãi",15.1232477479,108.8036354248
+PMC,DNPMC1627_74 Lê Lợi,"74 Lê Lợi, Phường Phú Hội, Thành phố Huế, Tỉnh Thừa Thiên Huế",16.4704493,107.5944295
 PMC,DNPMC1707_Số 126 Đường Ngũ Hành Sơn,"Số 126 Đường Ngũ Hành Sơn, Phường Ngũ Hành Sơn, , Thành phố Đà Nẵng",16.0494879453,108.2379074577
 PMC,DNPMC278_249 Trần Cao Vân,"249 Trần Cao Vân, Phường Xuân Hà, Quận Thanh Khê, Thành phố Đà Nẵng",16.0712492,108.2001541
 PMC,DNPMC291_293 Nguyễn Văn Linh,"293 Nguyễn Văn Linh, Phường Thạc Gián, Quận Thanh Khê, Thành phố Đà Nẵng",16.0594995,108.2095306
@@ -184,6 +184,7 @@ PMC,HNPMC1703_LK16-1 Khu tái định cư Ngô Thì Nhậm,"LK16-1 Khu tái đ�
 PMC,HNPMC1706_Số 81 Phố Thái Thịnh,"Số 81 Phố Thái Thịnh, Phường Đống Đa, , Thành phố Hà Nội",21.0105148303,105.8184862681
 PMC,HNPMC1713_Số 47 Phố Núi Trúc,"Số 47 Phố Núi Trúc, Phường Ngọc Hà, , Thành phố Hà Nội",21.030233,105.822205
 PMC,HNPMC1700_Ô HD09-SP.BH-20 thuộc khối công trình CCKO-02-SP.A tại lô đất CCKO-02 (HD09-SP) Dự án Khu đô thị Gia,"Ô HD09-SP.BH-20 thuộc khối công trình CCKO-02-SP.A tại lô đất CCKO-02 (HD09-SP) Dự án Khu đô thị Gia, xã Gia Lâm, , Thành phố Hà Nội",21.0013778484,105.9423065603
+PMC,HNPMC1716_Ki ốt 24,"Ki ốt 24, Phường Hoàng Liệt, , Thành phố Hà Nội",20.964594,105.826059
 PMC,HNPMC233_233 - 233A phố Đặng Tiến Đông,"233 - 233A phố Đặng Tiến Đông, Phường Trung Liệt, Quận Đống Đa, Thành phố Hà Nội",21.0152243,105.8203045
 PMC,HNPMC236_96 - 98 Khâm Thiên,"96 - 98 Khâm Thiên, Phường Khâm Thiên, Quận Đống Đa, Thành phố Hà Nội",21.0190874,105.8375841
 PMC,HNPMC249_108 Tầng 1,"108 Tầng 1, Phường La Khê, Quận Hà Đông, Thành phố Hà Nội",20.97432,105.763578
@@ -418,7 +419,6 @@ PMC,SGPMC1148_113 Cao Văn Lầu,"113 Cao Văn Lầu, Phường 5, Thành phố 
 PMC,SGPMC1151_238 Chợ Lớn,"238 Chợ Lớn, Phường 11, Quận 6, Thành phố Hồ Chí Minh",10.7448192,106.6291261
 PMC,SGPMC1152_035 Quốc Lộ 91,"035 Quốc Lộ 91, Thị trấn Cái Dầu, Huyện Châu Phú, Tỉnh An Giang",10.5688242,105.2432184
 PMC,SGPMC1153_24 Hưng Đạo Vương,"24 Hưng Đạo Vương, Phường 1, Thành phố Vĩnh Long, Tỉnh Vĩnh Long",10.2535056106,105.973694946
-PMC,HNPMC1716_Ki ốt 24,"Ki ốt 24, Phường Hoàng Liệt, , Thành phố Hà Nội",20.964594,105.826059
 PMC,SGPMC1158_51 Nguyễn Hữu Cảnh,"51 Nguyễn Hữu Cảnh, Phường Châu Phú A, Thành phố Châu Đốc, Tỉnh An Giang",10.710245266,105.1186348071
 PMC,SGPMC116_51 Trần Tấn,"51 Trần Tấn, Phường Tân Sơn Nhì, Quận Tân Phú, Thành phố Hồ Chí Minh",10.7967817,106.6343502
 PMC,SGPMC1162_64/6F đường Trần Phú,"64/6F đường Trần Phú, Phường 4, Thành phố Vĩnh Long, Tỉnh Vĩnh Long",10.2314701444,105.9872295522
