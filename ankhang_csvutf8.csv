@@ -140,14 +140,13 @@ TGDÐ,AK_TVI_TCU - 297 Đường 3/2 (Trà Cú),"(Ngay Bách hóa XANH cách ch�
 TGDÐ,AK_VLO_VLO - 62 Trần Đại Nghĩa,"62 Trần Đại Nghĩa (Ngay Bách hóa XANH Ngã Tư Trần Đại Nghĩa-Nguyễn Văn Thiệt), Phường Phước Hậu, Tỉnh Vĩnh Long, Việt Nam",10.2465021,105.9790617
 TGDÐ,AK_VLO_VLO - 64/7H Phó Cơ Điều,"Số 64/7H Phó Cơ Điều (Ngay Bách hóa XANH vòng xoay Phạm Thái Bường), Phường Phước Hậu, Tỉnh Vĩnh Long, Việt Nam",10.231675,105.98689
 TGDÐ,AK1_AGI_APH - An Phú,"41 Nguyễn Hữu Cảnh, Xã An Phú, Tỉnh An Giang, Việt Nam",10.8138641,105.0909306
+TGDÐ,AK_HCM_HMO - 98/1A Lê Lợi (OFF),"98/1A Lê Lợi, Ấp Dân Thắng 2 (Ngay Bách hóa XANH Cách Ngã Tư Song Hành-Lê Lợi 250m), Xã Xuân Thới Sơn, Thành phố Hồ Chí Minh, Việt Nam",10.893685,106.586456
+TGDÐ,AK1_AGI_BSO - Chợ Vàm Rầy,"1052 QL80, Ấp Thuận Hòa, Xã Bình Sơn, Tỉnh An Giang, Việt Nam",9.9874953,105.1575897
 TGDÐ,AK1_AGI_CMO - Thị Trấn Chợ Mới,"TT Chợ Mới, Xã Chợ Mới, Tỉnh An Giang, Việt Nam",10.5502721,105.4039508
 TGDÐ,AK1_AGI_CPH - Thị Trấn Cái Dầu (Hub),"Thị trấn Cái Dầu, Xã Châu Phú, Tỉnh An Giang, Việt Nam",10.5710821,105.2414188
 TGDÐ,AK1_AGI_CTH - An Châu,"Ấp Hoà Long 1, Xã An Châu, Tỉnh An Giang, Việt Nam",10.4433579,105.3876397
 TGDÐ,AK1_AGI_CTH - Quốc Lộ 91,"Đường Quốc lộ 91, ấp Phú Hòa 1, Xã Bình Hòa, Tỉnh An Giang, Việt Nam",10.463298,105.342539
 TGDÐ,AK1_AGI_CTH - Vĩnh Bình (Châu Thành),"Xã Vĩnh An, Tỉnh An Giang, Việt Nam",10.4426732,105.1723496
-TGDÐ,AK_HCM_HMO - 98/1A Lê Lợi (OFF),"98/1A Lê Lợi, Ấp Dân Thắng 2 (Ngay Bách hóa XANH Cách Ngã Tư Song Hành-Lê Lợi 250m), Xã Xuân Thới Sơn, Thành phố Hồ Chí Minh, Việt Nam",10.893685,106.586456
-TGDÐ,AK1_AGI_BSO - Chợ Vàm Rầy,"1052 QL80, Ấp Thuận Hòa, Xã Bình Sơn, Tỉnh An Giang, Việt Nam",9.9874953,105.1575897
-TGDÐ,AK1_AGI_GQU - Chợ Sóc Ven,"Số nhà 335, tổ 6, ấp An Trung, Xã Gò Quao, Tỉnh An Giang, Việt Nam",9.772863,105.3154781
 TGDÐ,AK1_AGI_PTA - Thị Trấn Phú Mỹ,"Thị trấn Phú Mỹ, Xã Phú Tân, Tỉnh An Giang, Việt Nam",10.597577,105.352803
 TGDÐ,AK1_AGI_TBI - Hữu Nghị,"449 Đường Hữu Nghị, Phường Tịnh Biên, Tỉnh An Giang, Việt Nam",10.603925,104.945747
 TGDÐ,AK1_AGI_TCH - 257 Nguyễn Tri Phương,"257 Nguyễn Tri Phương, khóm Long Thạnh D, Phường Tân Châu, Tỉnh An Giang, Việt Nam",10.7963338,105.2377498
@@ -186,6 +185,8 @@ TGDÐ,AK1_CTH_BTH - Bình Thuỷ,"Lê Hồng Phong, Phường Bình Thủy, Thà
 TGDÐ,AK1_CTH_CDO - Cờ Đỏ,"Ấp Thới Thuận, Xã Cờ Đỏ, Thành phố Cần Thơ, Việt Nam",10.09384,105.429966
 TGDÐ,AK1_CTH_CRA - KDC Phú An,"Khu dân cư Phú An (Lô số 20), Khu Đô Thị Mới Nam Sông Hậu, Phường Hưng Phú, Thành phố Cần Thơ, Việt Nam",10.004169,105.8068607
 TGDÐ,AK1_CTH_NKI - Nguyễn Văn Linh (Hub),"311 Nguyễn Văn Linh, Phường Tân An, Thành phố Cần Thơ, Việt Nam",10.028727,105.753961
+TGDÐ,AK1_AGI_GQU - Chợ Sóc Ven,"Số nhà 335, tổ 6, ấp An Trung, Xã Gò Quao, Tỉnh An Giang, Việt Nam",9.772863,105.3154781
+TGDÐ,AK1_CTH_THO - Chợ Bảy Ngàn,"DT 931B, Xã Tân Hoà, Thành phố Cần Thơ, Việt Nam",9.8845783,105.5850154
 TGDÐ,AK1_CTH_VTH - Thị trấn Vĩnh Thạnh,"Ấp Qui Lân 5, Xã Vĩnh Thạnh, Thành phố Cần Thơ, Việt Nam",10.2309201,105.3961111
 TGDÐ,AK1_DLA_BHO - 01 Phạm Ngũ Lão,"Số 01 Phạm Ngũ Lão, Phường Buôn Hồ, Tỉnh Đắk Lắk, Việt Nam",12.917072,108.2644489
 TGDÐ,AK1_DLA_BHO - 66 Trần Hưng Đạo,"66 Trần Hưng Đạo, tổ dân phố 06, Phường Buôn Hồ, Tỉnh Đắk Lắk, Việt Nam",12.9175725,108.2672029
@@ -237,6 +238,8 @@ TGDÐ,AK1_DTH_THO - Sa Rài,"Khóm 1, Xã Tân Hồng, Tỉnh Đồng Tháp, Vi�
 TGDÐ,AK1_DTH_TMU - Chợ Tháp Mười,"Khóm 4, Xã Tháp Mười, Tỉnh Đồng Tháp, Việt Nam",10.5191671,105.8439556
 TGDÐ,AK1_DTH_TNO - Tràm Chim (Hub),"Thị trấn Tràm Chim, Xã Tràm Chim, Tỉnh Đồng Tháp, Việt Nam",10.671417,105.5584998
 TGDÐ,AK1_GLA_AKH - An Phú,"Tổ dân phố 07, Phường An Khê, Tỉnh Gia Lai, Việt Nam",13.9546953,108.6644894
+TGDÐ,AK1_DNA_HKH - 97 Tô Hiệu,"97 Tô Hiệu, Phường Hòa Khánh, Thành phố Đà Nẵng, Việt Nam",16.06012,108.1673776
+TGDÐ,AK1_GLA_CPR - 481 Hùng Vương,"481 Hùng Vương, Xã Chư Prông, Tỉnh Gia Lai, Việt Nam",13.75694,107.880379
 TGDÐ,AK1_GLA_CSE - 904B Hùng Vương,"904B Hùng Vương, Xã Chư Sê, Tỉnh Gia Lai, Việt Nam",13.69233,108.077817
 TGDÐ,AK1_GLA_DHO - 147 Hoàng Văn Thụ,"147 Hoàng Văn Thụ, Phường Diên Hồng, Tỉnh Gia Lai, Việt Nam",13.979672,107.997084
 TGDÐ,AK1_GLA_PLK - 609 Lê Đại Hành,"Tổ 6, Phường Thống Nhất, Tỉnh Gia Lai, Việt Nam",14.030846,107.988932
@@ -259,11 +262,10 @@ TGDÐ,AK1_HCM_DTI - 62 Thống Nhất,"62 Thống Nhất, Ấp Cây Vừng, Xã 
 TGDÐ,AK1_HCM_GVA - 117 Thống Nhất,"117 Thống Nhất, Phường Thông Tây Hội, Thành phố Hồ Chí Minh, Việt Nam",10.8336831,106.6640193
 TGDÐ,AK1_HCM_GVA - 52 Nguyễn Văn Nghi (Hub),"52 - 54 Nguyễn Văn Nghi, Phường An Nhơn, Thành phố Hồ Chí Minh, Việt Nam",10.822464,106.6884646
 TGDÐ,AK1_HCM_HMO - 135/7C ấp Tân Thới 2,"135/7C Lê Lợi, Ấp Tân Thới 2, Xã Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",10.8937844,106.5866913
-TGDÐ,AK1_CTH_THO - Chợ Bảy Ngàn,"DT 931B, Xã Tân Hoà, Thành phố Cần Thơ, Việt Nam",9.8845783,105.5850154
-TGDÐ,AK1_DNA_HKH - 97 Tô Hiệu,"97 Tô Hiệu, Phường Hòa Khánh, Thành phố Đà Nẵng, Việt Nam",16.06012,108.1673776
-TGDÐ,AK1_GLA_CPR - 481 Hùng Vương,"481 Hùng Vương, Xã Chư Prông, Tỉnh Gia Lai, Việt Nam",13.75694,107.880379
-TGDÐ,AK1_HCM_HMO - 135/7C Tân Thới 2,"135/7C Lê Lợi, Ấp Tân Thới 2, Xã Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",10.8937844,106.5866913
 TGDÐ,AK1_HCM_KHH - 72 Tôn Đản,"72 Tôn Đản, Phường Xóm Chiếu, Thành phố Hồ Chí Minh, Việt Nam",10.7607502,106.7072762
+TGDÐ,AK1_HCM_HTR - Chợ Bà Tô,"Quầy A2, Chợ Bà Tô, đường Quốc Lộ 55, Xã Hồ Tràm, Thành phố Hồ Chí Minh, Việt Nam",10.5354385,107.4010663
+TGDÐ,AK1_HCM_HMO - 135/7C Tân Thới 2,"135/7C Lê Lợi, Ấp Tân Thới 2, Xã Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",10.8937844,106.5866913
+TGDÐ,AK1_HCM_LHA - 420 Võ Thị Sáu,"442 Võ Thị Sáu, ấp Phước Lộc, Xã Long Hải, Thành phố Hồ Chí Minh, Việt Nam",10.4076434,107.220896
 TGDÐ,AK1_HCM_LHA - Phước Lộc,"442 Võ Thịu Sáu, ấp Phước Lộc, Xã Long Hải, Thành phố Hồ Chí Minh, Việt Nam",10.4076434,107.220896
 TGDÐ,AK1_HCM_Q01 - 14 Nguyễn Cảnh Chân,"TK26/13-14 Nguyễn Cảnh Chân, Phường Cầu Ông Lãnh, Thành phố Hồ Chí Minh, Việt Nam",10.7588489,106.6881784
 TGDÐ,AK1_HCM_Q03 - 101 Vườn Chuối (Hub),"101 Vườn Chuối, Phường Bàn Cờ, Thành phố Hồ Chí Minh, Việt Nam",10.7741561,106.6827634
@@ -337,8 +339,6 @@ TGDÐ,AK1_LDO_BLO -  144 Nguyễn Công Trứ,"144 Nguyễn Công Trứ, Phườ
 TGDÐ,AK1_LDO_DDU - Đơn Dương,"QL27, Xã Đơn Dương , Tỉnh Lâm Đồng, Việt Nam",11.7605233,108.4841824
 TGDÐ,AK1_LDO_DLA - 07 Hoàng Văn Thụ,"07 Hoàng Văn Thụ, Phường Xuân Hương - Đà Lạt, Tỉnh Lâm Đồng, Việt Nam",11.939584,108.425965
 TGDÐ,AK1_LDO_DTE - Thị Trấn Đạ Tẻh,"Tổ dân phố 2a, Xã Đạ Tẻh, Tỉnh Lâm Đồng, Việt Nam",11.5046694,107.4871483
-TGDÐ,AK1_HCM_HTR - Chợ Bà Tô,"Quầy A2, Chợ Bà Tô, đường Quốc Lộ 55, Xã Hồ Tràm, Thành phố Hồ Chí Minh, Việt Nam",10.5354385,107.4010663
-TGDÐ,AK1_HCM_LHA - 420 Võ Thị Sáu,"442 Võ Thịu Sáu, ấp Phước Lộc, Xã Long Hải, Thành phố Hồ Chí Minh, Việt Nam",10.4076434,107.220896
 TGDÐ,AK1_HCM_NDU - 456 Tỉnh Lộ 7,"456 Tỉnh Lộ 7, Ấp Trung Hoà, Xã Nhuận Đức, Thành phố Hồ Chí Minh, Việt Nam",11.0468278,106.4553528
 TGDÐ,AK1_LDO_DTR - Đức Trọng,"484 Trần Phú, Xã Đức Trọng, Tỉnh Lâm Đồng, Việt Nam",11.7302093,108.3720163
 TGDÐ,AK1_NTH_PRA - 317 Thống Nhất,"317 Thống Nhất, Phường Phan Rang, Tỉnh Khánh Hòa, Việt Nam",11.570308,108.991363
@@ -366,20 +366,20 @@ TGDÐ,AK1_TNI_TBI - Tân Biên,"Khu phố 2, Xã Tân Biên, Tỉnh Tây Ninh, V
 TGDÐ,AK1_TNI_TDI - Hiệp An,"Phường Thanh Điền, Tỉnh Tây Ninh, Việt Nam",11.2943965,106.1142981
 TGDÐ,AK1_TNI_THO - Thạnh Hóa,"Đường Nguyễn Trung Trực, Khu Phố 3, Xã Thạnh Hóa, Tỉnh Tây Ninh, Việt Nam",10.657819,106.181836
 TGDÐ,AK1_TNI_DHO - Chợ Đức Hòa,"Khu vực 2, Xã Đức Hòa, Tỉnh Tây Ninh",10.8188123,106.45401
-TGDÐ,AK1_CTH_PLO - Hai Bà Trưng,"Phường Phú Lợi, Thành phố Cần Thơ, Việt Nam",9.6045517,105.9746775
-TGDÐ,AK1_TNI_THO - Nguyễn Trung Trực,"Đường Nguyễn Trung Trực, Khu Phố 3, Xã Thạnh Hóa, Tỉnh Tây Ninh, Việt Nam",10.657819,106.181836
 TGDÐ,AK1_TNI_TMI -  Chợ Bàu Đồn,"Ấp 7, Xã Truông Mít, Tỉnh Tây Ninh",11.1712855,106.3127266
-TGDÐ,AK1_TNI_TTH - Thủ Khoa Thừa,"Đường Thủ Khoa Thừa, Ấp Cầu Xây, Xã Thủ Thừa, Tỉnh Tây Ninh, Việt Nam",10.6043734,106.4050319
 TGDÐ,AK1_TVI_CKE - Thị Trấn Cầu Kè,"Khóm 6, Xã Cầu Kè, Tỉnh Vĩnh Long, Việt Nam",9.869339,106.055756
 TGDÐ,AK1_TVI_CLO - Càng Long,"Khóm 1, Xã Càng Long, Tỉnh Vĩnh Long, Việt Nam",9.998268,106.2054087
 TGDÐ,AK1_TVI_CNG - Cầu Ngang,"Xã Cầu Ngang, Tỉnh Vĩnh Long, Việt Nam",9.796736,106.452168
 TGDÐ,AK1_TVI_TCA - Tiểu Cần,"Khóm 1, Xã Tiểu Cần, Tỉnh Vĩnh Long, Việt Nam",9.812103,106.189213
 TGDÐ,AK1_TVI_TVI - 76 Nguyễn Thị Minh Khai,"76 Nguyễn Thị Minh Khai, khóm 1, Phường Trà Vinh, Tỉnh Vĩnh Long, Việt Nam",9.934066,106.335661
+TGDÐ,AK1_TNI_TTH - Thủ Khoa Thừa,"Đường Thủ Khoa Thừa, Ấp Cầu Xây, Xã Thủ Thừa, Tỉnh Tây Ninh, Việt Nam",10.6043734,106.4050319
+TGDÐ,AK1_VLO_CVO - Bình Minh,"Phường Cái Vồn, Tỉnh Vĩnh Long, Việt Nam",10.0708909,105.8227619
 TGDÐ,AK1_VLO_LHO - Long Hồ,"Khóm 1, Xã Long Hồ, Tỉnh Vĩnh Long, Việt Nam",10.1924616,106.0114803
 TGDÐ,AK1_VLO_MTH - Cái Nhum (Mang Thít),"Khóm 1, Xã Cái Nhum, Tỉnh Vĩnh Long, Việt Nam",10.1744792,106.1089649
-TGDÐ,AK1_VLO_CVO - Bình Minh,"Phường Cái Vồn, Tỉnh Vĩnh Long, Việt Nam",10.0708909,105.8227619
 TGDÐ,AK1_VLO_MLO - Mỹ Long,"Khóm 2, Xã Mỹ Long, Tỉnh Vĩnh Long, Việt Nam",9.8100194,106.5084154
 TGDÐ,AK1_VLO_THA - Tân Hào,"Ấp 1, Xã Tân Hào, Tỉnh Vĩnh Long, Việt Nam",10.139107,106.465695
-TGDÐ,AK1_VLO_TTH - Thành Thới,"Xã Thành Thới, Tỉnh Vĩnh Long, Việt Nam",10.0686226,106.3638773
 TGDÐ,AK1_VLO_VLI - 158A Nam Kỳ Khởi Nghĩa,"158A Nam Kỳ Khởi Nghĩa, Khóm 2, Xã Trung Thành, Tỉnh Vĩnh Long, Việt Nam",10.095344,106.185732
 TGDÐ,AK1_VLO_VLO - 110B Trưng Nữ Vương,"110B Trưng Nữ Vương, Phường Long Châu, Tỉnh Vĩnh Long, Việt Nam",10.2517331,105.9726153
+TGDÐ,AK1_VLO_TTH - Thành Thới,"Xã Thành Thới, Tỉnh Vĩnh Long, Việt Nam",10.0686226,106.3638773
+TGDÐ,AK1_CTH_PLO - Hai Bà Trưng,"Phường Phú Lợi, Thành phố Cần Thơ, Việt Nam",9.6045517,105.9746775
+TGDÐ,AK1_TNI_THO - Nguyễn Trung Trực,"Đường Nguyễn Trung Trực, Khu Phố 3, Xã Thạnh Hóa, Tỉnh Tây Ninh, Việt Nam",10.657819,106.181836
