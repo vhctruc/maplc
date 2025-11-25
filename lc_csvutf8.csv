@@ -2349,7 +2349,7 @@ FLC,"82409-LC PTO Thôn Tam Lộng, X. Bình Xuyên","Thôn Tam Lộng, X. Hươ
 FLC,"82410-LC PTO TDP Nam, P. Vĩnh Yên","Tổ Dân Phố Nam, P. Tích Sơn, TP. Vĩnh Yên, Tỉnh Vĩnh Phúc",0.0,0.0,
 FLC,"82411-LC HYN Ngã Tư Ba Hàng, X. Tân Hưng","Ngã Tư Ba Hàng, X. Thủ Sỹ, H. Tiên Lữ, Tỉnh Hưng Yên",0.0,0.0,
 FLC,"82412-LC HNI 43 Nguyễn Chí Thanh, P. Giảng Võ","43 Nguyễn Chí Thanh, P. Ngọc Khánh, Q. Ba Đình, TP. Hà Nội",21.0263333,105.8126944,Bệnh viện; Chợ; Ðối thủ; Trường học; UBND Phường/Xã
-FLC,"82413-LC HYN 498-500 Lê Quý Đôn, P. Trần Lãm","498-500 Lê Quý Đôn, Phường Trần Lãm, Thành Phố Thái Bình, Tỉnh Thái Bình",0.0,0.0,
+FLC,"82413-LC HYN 498-500 Lê Quý Đôn, P. Trần Lãm","498-500 Lê Quý Đôn, Phường Trần Lãm, Thành Phố Thái Bình, Tỉnh Thái Bình",20.438722,106.350417,Bệnh viện; Chợ; Ðối thủ; Trường học
 FLC,"82414-LC HPG 464 Nguyễn Trãi, P. Chu Văn An","464 Nguyễn Trãi, Phường Sao Đỏ, Thành Phố Chí Linh, Tỉnh Hải Dương",0.0,0.0,
 FLC,"82415-LC BNH 107-109 Nguyễn Văn Cừ, X. Gia Bình","107-109 Nguyễn Văn Cừ, X. Xuân Lai, Huyện Gia Bình, Tỉnh Bắc Ninh",21.053013,106.175934,Chợ; Ðối thủ; Phòng khám / TYT; Trường học; UBND Phường/Xã
 FLC,"82416-LC BNH TDP Vân Cốc 3, P. Nếnh","Tổ Dân Phố Vân Cốc 3, P. Nếnh, TX. Việt Yên, Tỉnh Bắc Giang",0.0,0.0,
@@ -2378,7 +2378,7 @@ FLC,"82438-LC KHA 2 Đường 16/7, P. Ninh Hòa","2 Đường 16/7, P. Ninh Hi�
 FLC,"82439-LC KHA 2 Phương Câu, P. Nha Trang","Số 2 đường Phương Câu, Phường Phương Sài, Thành Phố Nha Trang, Tỉnh Khánh Hòa",12.252543,109.191667,Bệnh viện; Chợ; Ðối thủ; Phòng khám / TYT; Trường học
 FLC,"82440-LC HNI Kiot B6.2, Chung Cư B6, KĐT Mỹ Đình 1","Kiot B6.2 (40m), Chung Cư B6, KĐT Mỹ Đình 1, P. Cầu Diễn, Q. Nam Từ Liêm, TP. Hà Nội",0.0,0.0,
 FLC,"82441-LC HPG 35 Quyết Thắng, P. Nguyễn Trãi","35 Quyết Thắng, P. Bến Tắm, TP. Chí Linh, Tỉnh Hải Dương",0.0,0.0,
-FLC,"82442-LC PTO 101 Hoàng Diệu, X. Tam Hồng","101 Hoàng Diệu, Thị Trấn Tam Hồng, Huyện Yên Lạc, Tỉnh Vĩnh Phúc",0.0,0.0,
+FLC,"82442-LC PTO 101 Hoàng Diệu, X. Tam Hồng","101 Hoàng Diệu, Thị Trấn Tam Hồng, Huyện Yên Lạc, Tỉnh Vĩnh Phúc",21.223758,105.568221,Chợ; Ðối thủ; Phòng khám / TYT; Trường học; UBND Phường/Xã
 FLC,"82443-LC HNI Thôn Đạo Tú, X. Ứng Thiên","Thôn Đạo Tú, Xã Quảng Phú Cầu, Huyện Ứng Hòa, Thành Phố Hà Nội",0.0,0.0,
 FLC,"82444-LC TNN 925 Đường 3/2, P. Tích Lương","925 Đường 3/2, P. Phú Xá, TP. Thái Nguyên, Tỉnh Thái Nguyên",0.0,0.0,
 FLC,"82445-LC NBH Xóm 4, X. Hải Hưng","Xóm 4, X. Hải Hưng, H. Hải Hậu, Tỉnh Nam Định",0.0,0.0,
@@ -2411,8 +2411,8 @@ FLC,"82480-LC HCM 102 Thạnh Lộc 19, P. An Phú Đông","102 Thạnh Lộc 19
 FLC,"82481-LC DTP 267 Quốc Lộ 1A, X. Cái Bè","267 Quốc lộ 1A, X. Hòa Khánh, H. Cái Bè, Tỉnh Tiền Giang",10.361274,105.985504,Chợ; Ðối thủ; Phòng khám / TYT
 FLC,"82482-LC LĐG 265 Đường DT725, X. Đinh Văn Lâm Hà","265 Đường DT725, TT. Đinh Văn, H. Lâm Hà, Tỉnh Lâm Đồng",11.776139,108.289786,Chợ
 FLC,"82483-LC AGG 1024 Quốc Lộ 80, X. Bình Sơn","1024 Quốc Lộ 80, Xã Bình Sơn, Huyện Hòn Đất, Tỉnh Kiên Giang",10.257964,104.819458,Chợ
-FLC,"82493-LC HCM 397 Đường 30/4, P. Thủ Dầu Một","397 Đường 30/4, Phường Phú Thọ, Thành Phố Thủ Dầu Một, Tỉnh Bình Dương",10.962559,106.666588,Chợ; Phòng khám / TYT; Trường học
-FLC,"82494-LC HCM 259 Đường 750, X. An Long","259 Đường 750, Xã Tân Long, Huyện Phú Giáo, Tỉnh Bình Dương",11.328811,106.674157,Chợ; Trường học
-FLC,"82495-LC AGG 62 Thành Thái, P. Bình Đức","62 Thành Thái, Phường Bình Khánh, Thành Phố Long Xuyên, Tỉnh An Giang",10.39082,105.42243,Ðối thủ; Phòng khám / TYT; Trường học; UBND Phường/Xã
+FLC,"82493-LC HCM 397 Đường 30/4, P. Thủ Dầu Một","397 Đường 30/4, Phường Phú Thọ, Thành Phố Thủ Dầu Một, Tỉnh Bình Dương",0.0,0.0,
+FLC,"82494-LC HCM 259 Đường 750, X. An Long","259 Đường 750, Xã Tân Long, Huyện Phú Giáo, Tỉnh Bình Dương",0.0,0.0,
+FLC,"82495-LC AGG 62 Thành Thái, P. Bình Đức","62 Thành Thái, Phường Bình Khánh, Thành Phố Long Xuyên, Tỉnh An Giang",0.0,0.0,
 FLC,"82496-LC DNI 291 Hùng Vương, X. Xuân Lộc","291 Hùng Vương, Thị Trấn Gia Ray, Huyện Xuân Lộc, Tỉnh Đồng Nai",0.0,0.0,
 FLC,"82497-LC TNH 74B Quốc Lộ 62, X. Mỹ An","74B Quốc Lộ 62, X. Mỹ An, H. Thủ Thừa, Tỉnh Long An",0.0,0.0,
