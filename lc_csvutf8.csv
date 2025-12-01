@@ -2410,10 +2410,10 @@ FLC,"82480-LC HCM 102 Thạnh Lộc 19, P. An Phú Đông","102 Thạnh Lộc 19
 FLC,"82481-LC DTP 267 Quốc Lộ 1A, X. Cái Bè","267 Quốc lộ 1A, X. Hòa Khánh, H. Cái Bè, Tỉnh Tiền Giang",10.361274,105.985504,Chợ; Ðối thủ; Phòng khám / TYT
 FLC,"82482-LC LĐG 265 Đường DT725, X. Đinh Văn Lâm Hà","265 Đường DT725, TT. Đinh Văn, H. Lâm Hà, Tỉnh Lâm Đồng",11.776139,108.289786,Chợ
 FLC,"82483-LC AGG 1024 Quốc Lộ 80, X. Bình Sơn","1024 Quốc Lộ 80, Xã Bình Sơn, Huyện Hòn Đất, Tỉnh Kiên Giang",10.257964,104.819458,Chợ
-FLC,"82493-LC HCM 397 Đường 30/4, P. Thủ Dầu Một","397 Đường 30/4, Phường Phú Thọ, Thành Phố Thủ Dầu Một, Tỉnh Bình Dương",0.0,0.0,
-FLC,"82494-LC HCM 259 Đường 750, X. An Long","259 Đường 750, Xã Tân Long, Huyện Phú Giáo, Tỉnh Bình Dương",0.0,0.0,
-FLC,"82495-LC AGG 62 Thành Thái, P. Bình Đức","62 Thành Thái, Phường Bình Khánh, Thành Phố Long Xuyên, Tỉnh An Giang",0.0,0.0,
-FLC,"82496-LC DNI 291 Hùng Vương, X. Xuân Lộc","291 Hùng Vương, Thị Trấn Gia Ray, Huyện Xuân Lộc, Tỉnh Đồng Nai",10.92761,107.40241,Chợ; Ðối thủ; Trường học; UBND Phường/Xã
-FLC,"82497-LC TNH 74B Quốc Lộ 62, X. Mỹ An","74B Quốc Lộ 62, X. Mỹ An, H. Thủ Thừa, Tỉnh Long An",10.58743,106.3427,Chợ; UBND Phường/Xã
+FLC,"82493-LC HCM 397 Đường 30/4, P. Thủ Dầu Một","397 Đường 30/4, Phường Phú Thọ, Thành Phố Thủ Dầu Một, Tỉnh Bình Dương",10.962559,106.666588,Chợ; Phòng khám / TYT; Trường học
+FLC,"82494-LC HCM 259 Đường 750, X. An Long","259 Đường 750, Xã Tân Long, Huyện Phú Giáo, Tỉnh Bình Dương",11.328811,106.674157,Chợ; Trường học
+FLC,"82495-LC AGG 62 Thành Thái, P. Bình Đức","62 Thành Thái, Phường Bình Khánh, Thành Phố Long Xuyên, Tỉnh An Giang",10.39082,105.42243,Ðối thủ; Phòng khám / TYT; Trường học; UBND Phường/Xã
+FLC,"82496-LC DNI 291 Hùng Vương, X. Xuân Lộc","291 Hùng Vương, Thị Trấn Gia Ray, Huyện Xuân Lộc, Tỉnh Đồng Nai",0.0,0.0,
+FLC,"82497-LC TNH 74B Quốc Lộ 62, X. Mỹ An","74B Quốc Lộ 62, X. Mỹ An, H. Thủ Thừa, Tỉnh Long An",0.0,0.0,
 FLC,"82498-LC KHA Thôn Quảng Hội, X. Vạn Thắng","Thôn Quảng Hội, X. Vạn Thắng, H. Vạn Ninh, Tỉnh Khánh Hòa",0.0,0.0,
 FLC,"82499-LC KHA QL1A, Thôn Lạc An, X. Bắc Ninh Hòa","Quốc Lộ 1A, Thôn Lạc An, X. Ninh Thọ, TX. Ninh Hòa, Tỉnh Khánh Hòa",0.0,0.0,
