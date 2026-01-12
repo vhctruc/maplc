@@ -1,18 +1,18 @@
 MARKER_ID,SHOP_NAME,SHOP_ADDRESS,LATITUDE,LONGITUDE
 UPHARMA,Nhà thuốc số 127 - Xã Ba Gia - Tỉnh Quảng Ngãi,Xã Ba Gia - Tỉnh Quảng Ngãi,15.172556,108.665889
 UPHARMA,Nhà thuốc số 59 - 20/4 Đông B - Đông Hoà - HCM,"20/4 Khu Phố Đông B, Phường Đông Hòa, HCM",10.901378631591797,106.77644348144531
-UPHARMA,Nhà thuốc số 66 - 229 Lưu Nhân Chú - Gia Sàng - Thái Nguyên,"Số 229 Lưu Nhân Chú, Gia Sàng, Tỉnh Thái Nguyên ( Ngã 4 chợ khu nam )",21.546628952026367,105.87947082519531
+UPHARMA,"Nhà thuốc số 101 - 135 Võ Thị Sáu, Vĩnh Trường, Nha Trang, Khánh Hòa","135 Võ Thị Sáu, Vĩnh Trường, Nha Trang, Khánh Hòa",12.206125272715033,109.20312743895488
 UPHARMA,Nhà thuốc số 62 -Mạc Thái Tổ - Kiến Thụy - Hải Phòng,"Thửa đất số 969.3-3.2, tờ bản đồ số 1 thôn Xuân La, Mạc Thái Tổ,H. Kiến Thụy, TP. Hải Phòng",20.746952056884766,106.66352844238281
+UPHARMA,Nhà thuốc số 66 - 229 Lưu Nhân Chú - Gia Sàng - Thái Nguyên,"Số 229 Lưu Nhân Chú, Gia Sàng, Tỉnh Thái Nguyên ( Ngã 4 chợ khu nam )",21.546628952026367,105.87947082519531
 UPHARMA,"Nhà thuốc số 94 - 200 Hoàng Minh Thảo, Lê Chân, HP","200 Hoàng Minh Thảo, Lê Chân, HP",106.6753132,20.842811
 UPHARMA,"Nhà thuốc số 98 - 49 Trần Hưng Đạo,  Đồng Hới, tỉnh Quảng Trị","49 Trần Hưng Đạo, Đồng Hới, Quảng Trị",17.47004378271139,106.61702112385517
-UPHARMA,"Nhà thuốc số 101 - 135 Võ Thị Sáu, Vĩnh Trường, Nha Trang, Khánh Hòa","135 Võ Thị Sáu, Vĩnh Trường, Nha Trang, Khánh Hòa",12.206125272715033,109.20312743895488
 UPHARMA,Nhà thuốc số 104 - 83 TDP Số 5 - Hải Tiến - Ninh Bình,83 TDP Số 5 - Hải Tiến - Ninh Bình,20.12391156133723,106.27633948026377
 UPHARMA,Nhà thuốc số 108 - cổng chợ Mai Trang - Vinh Lộc - Nghệ An,"Cổng chợ Mai Trang, xóm Khánh Trang, P.Vinh Lộc, Nghệ An",18.749400759364782,105.73372278506879
-UPHARMA,Nhà thuốc số 89 -  Văn Tân - Hoàng Liệt  - Hà Nội,"Văn Tân,Hoàng Liệt, Hà Nội",20.96330321905212,105.82406531787142
 UPHARMA,Nhà thuốc số 29 - 33 Tôn Thất Tùng - Trường Vinh - NA,33 Tôn Thất Tùng  P.Trường Vinh T.Nghệ An,18.68280029296875,105.70172882080078
 UPHARMA,Nhà thuốc số 65 - C27 Cái Dăm - Thượng Mai - Bãi Cháy  - QN,"C27 đường Cái Dăm, Thượng Mai, Bãi Cháy, Quảng Ninh",20.957992553710938,107.02324676513672
-UPHARMA,"Nhà thuốc số 120 - Thôn 3, Xã Phú Vinh, Thành phố Huế","Thôn 3, Xã Phú Vinh, Thành phố Huế",16.435588010295067,107.78282289237129
+UPHARMA,Nhà thuốc số 89 -  Văn Tân - Hoàng Liệt  - Hà Nội,"Văn Tân,Hoàng Liệt, Hà Nội",20.96330321905212,105.82406531787142
 UPHARMA,Nhà thuốc số 117 - 147 Diên Hồng - Quy Nhơn -  Gia Lai,"147 Diên Hồng, phường Quy Nhơn, tỉnh Gia Lai",13.76523145467821,109.2201386595012
+UPHARMA,"Nhà thuốc số 120 - Thôn 3, Xã Phú Vinh, Thành phố Huế","Thôn 3, Xã Phú Vinh, Thành phố Huế",16.435588010295067,107.78282289237129
 UPHARMA,Nhà thuốc số 32 - 150 Trần Hoàn - Hải An - Hải Phòng,Số 150 Trần Hoàn P.Hải An TP.Hải Phòng,20.835752487182617,106.72433471679688
 UPHARMA,Nhà thuốc số 36 - 40 Đỗ Đăng Tuyển (khu 7) - Đà Nẵng,40 Đỗ Đăng Tuyển X.Đại Lộc TP.Đà Nẵng,15.880468103875133,108.12063893255304
 UPHARMA,Nhà thuốc số 43 - 1 Vũ Lăng - An Khê - ĐN,1 Vũ Lăng P.An Khê TP.Đà Nẵng,16.026885986328125,108.18887329101562
@@ -21,33 +21,33 @@ UPHARMA,Nhà Thuốc số 86 -18 Trần Phú - Quy Nhơn - Gia Lai,18 Trần Ph�
 UPHARMA,Nhà thuốc số 49 - 11 Trung Kiên - Định Hóa - Thái Nguyên,11 Trung Kiên - H.Định Hóa - T.Thái Nguyên,21.9119815826416,105.64492797851562
 UPHARMA,Nhà thuốc số 53 - 72 Kim Đồng - Khối 19 - Thành Vinh  - NA,"72 Kim Đồng , Khối 19 , Thành Vinh , NA",18.679500579833984,105.6801
 UPHARMA,"Nhà thuốc số 92 - 87 Lê Quốc Uy, phường Kiến An, TP. Hải Phòng","87 Lê Quốc Uy, phường Kiến An, TP. Hải Phòng",106.6270231,20.816497
+UPHARMA,"Nhà thuốc số 114 - Số nhà 48 Trương Định, tổ 20, phường Nghĩa Lộ, tỉnh Quảng Ngãi","Số nhà 48 Trương Định, tổ 20, phường Nghĩa Lộ, tỉnh Quảng Ngãi",15.126103379426484,108.78634844693102
 UPHARMA,Nhà thuốc số 125 -  Lô 1/2 KĐT Vinaconex - Nguyễn Tất Thành -Vĩnh Phúc - Phú Thọ,"Lô 1/2 KĐT Vinaconex, đường Nguyễn Tất Thành, phường Vĩnh Phúc, tỉnh Phú Thọ",21.32072582160678,105.59567453472607
 UPHARMA,Nhà thuốc số 40 - 537B Núi Thành - Hoà Cường - Đà Nẵng,537B Núi Thành P.Hòa Cường  TP.Đà Nẵng,16.032756805419922,108.2228406
 UPHARMA,Nhà thuốc số 46 - Khu phố chợ Túy Loan - Hòa Vang - ĐN,Khu phố chợ Túy Loan X..Hòa Vang TP.Đà Nẵng,15.9907,108.1407
 UPHARMA,Nhà thuốc số 76 - Ngã Ba Trịnh Xá - Thiên Hương - Hải Phòng,"Ngã Ba Trịnh Xá , Thiên Hương, Hải Phòng",20.92265604268161,106.6433606423283
 UPHARMA,Nhà Thuốc số 77 - TDP Thái An - Phú Lương- Thái Nguyên,"554 TDP Thái An , Phú Lương , Tỉnh Thái Nguyên ( Ngã 3 TT.Đu)",21.72844549818002,105.70527500000001
-UPHARMA,"Nhà thuốc số 114 - Số nhà 48 Trương Định, tổ 20, phường Nghĩa Lộ, tỉnh Quảng Ngãi","Số nhà 48 Trương Định, tổ 20, phường Nghĩa Lộ, tỉnh Quảng Ngãi",15.126103379426484,108.78634844693102
 UPHARMA,Nhà thuốc số 118 - 331 Đường Nguyễn Văn Linh - Phường Lê Thanh Nghị - Thành phố Hải Phòng,"331 Đường Nguyễn Văn Linh, Phường Lê Thanh Nghị, Thành phố Hải Phòng",20.934178969038502,106.31584001349539
 UPHARMA,Nhà thuốc số 34 - 209 Phan Chu Trinh - Thành Vinh - NA,"209 Phan Chu Trinh,  P.Thành.Vinh T.Nghệ An",18.674793243408203,105.67335510253906
 UPHARMA,Nhà thuốc số 47-Trần Hưng Đạo - Khu 2 - Võ Cường - BN,Đ.Trần Hưng Đạo Khu 2 P.Võ Cường TP.BN,21.1765266778189,106.075047705436
 UPHARMA,Nhà Thuốc số 73 - Ngã 4 Chợ Nghè - Hoa Lộc - Thanh Hoá,"Ngã 4 Chợ Nghè, Xã Hoa Lộc,Tỉnh Thanh Hoá",19.927997401539137,105.92727212066728
 UPHARMA,Nhà thuốc số 107 - 202 Lê Viết Thuật - Vinh Lộc - Nghệ An,"202 Lê Viết Thuật, Phường Vinh Lộc, Tỉnh Nghệ An, Việt Nam",18.69740071436741,105.7052129053937
 UPHARMA,Nhà thuốc số 15 - 67 Nguyễn Tất Thành- Hội An - ĐN,"Số 67 Nguyễn Tất Thành, P Hội An, TP Đà Nẵng",15.885900433267665,108.32129643008305
-UPHARMA,Nhà thuốc số 7 - 56 Tống Duy Tân - Hạc Thành - Thanh Hóa,"56 Tống Duy Tân , Hạc Thành , Thanh Hoá",19.803112030029297,105.78345489501953
 UPHARMA,Nhà thuốc số 38 - 362 Hùng Vương - Tam Kỳ - Đà Nẵng,"Số 362 , Đường Hùng Vương , P.Tam Kỳ, TP.Đà Nẵng",15.559204381935734,108.48839478405795
+UPHARMA,Nhà thuốc số 7 - 56 Tống Duy Tân - Hạc Thành - Thanh Hóa,"56 Tống Duy Tân , Hạc Thành , Thanh Hoá",19.803112030029297,105.78345489501953
 UPHARMA,Nhà thuốc số 75 - 168 Hải Thượng Lãn Ông - Thành Sen - Hà Tĩnh,168 Hải Thượng Lãn Ông - P.Thành Sen - HT,18.34452215341346,105.89935279104635
-UPHARMA,Nhà thuốc số 85 - Cầu Ca - Kha Sơn - Thái Nguyên,"Ngã tư Cầu Ca,Kha Sơn, Thái Nguyên",21.4176547,105.9840658
 UPHARMA,Nhà thuốc số 70 - 86 Phan Bội Châu- Nha Trang - Khánh Hoà,"Số 86 Phan Bội Châu, Phường  Nha Trang, Tỉnh Khánh Hòa",12.25284075378016,109.19170358679484
-UPHARMA,"Nhà thuốc số 103 - 350A Trần Hưng  Đạo, phường Quy Nhơn, tỉnh Gia Lai","350A Trần Hưng  Đạo, phường Quy Nhơn, tỉnh Gia Lai",13.778186,109.227281
+UPHARMA,Nhà thuốc số 85 - Cầu Ca - Kha Sơn - Thái Nguyên,"Ngã tư Cầu Ca,Kha Sơn, Thái Nguyên",21.4176547,105.9840658
 UPHARMA,Nhà thuốc số 44 - 77 Khu 3 Thôn Trung Lăng Tây - Tiên Lãng - Hải Phòng,"73 Khu 3 Thôn Trung Lăng Tây, X.Tiên Lãng TP.Hải Phòng",20.726497650146484,106.5559310913086
+UPHARMA,"Nhà thuốc số 103 - 350A Trần Hưng  Đạo, phường Quy Nhơn, tỉnh Gia Lai","350A Trần Hưng  Đạo, phường Quy Nhơn, tỉnh Gia Lai",13.778186,109.227281
+UPHARMA,Nhà thuốc số 61 -218 Trần Hưng Đạo - Phụ Dực - Hưng Yên,"218 Trần Hưng Đạo, Phụ Dực, Hưng Yên",20.648473739624023,106.42194366455078
 UPHARMA,Nhà thuốc số 63 - 61 La Giang - Phố 5  - Đức Thọ - HT,"Số 61 Đường La Giang , Tổ Dân Phố số 5 , Xã Đức Thọ , Tỉnh Hà Tĩnh",18.539146433611865,105.58889876879749
 UPHARMA,"Nhà thuốc số 88 - An Phú, Đại Bản, Hồng Bàng, Hải Phòng","An Phú, Đại Bản, Hồng Bàng, Hải Phòng",106.5651779,20.917286
 UPHARMA,Nhà thuốc số 1 - 356A Giải Phóng - Hà Nội,"356A Giải Phóng ,P.Phương Liệt ,TP.Hà Nội",20.986801147460938,105.8407211303711
-UPHARMA,Nhà thuốc số 61 -218 Trần Hưng Đạo - Phụ Dực - Hưng Yên,"218 Trần Hưng Đạo, Phụ Dực, Hưng Yên",20.648473739624023,106.42194366455078
 UPHARMA,Nhà thuốc số 102 - 236 Lương Ngọc Quyến - Phan Đình Phùng - Thái Nguyên,"236 Lương Ngọc Quyến, Phường Phan Đình Phùng, Tỉnh Thái Nguyên",21.592617473053195,105.82556233527043
-UPHARMA,"Nhà thuốc số 116 - 73B Hùng Vương, phường Nam Đông Hà, tỉnh Quảng Trị","73B Hùng Vương, phường Nam Đông Hà, tỉnh Quảng Trị, Việt Nam",16.811759264856537,107.10225701349536
 UPHARMA,Nhà thuốc số 25 - 170 Lê Đình Lý - Thanh Khê - Đà Nẵng,170 Lê Đình Lý P.Thanh Khê TP.Đà Nẵng,16.052749633789062,108.21040344238281
 UPHARMA,Nhà thuốc số 90 - 452/18 Lê Hồng Phong - Nam Nha Trang - KH,"sỐ 452/18 Lê Hồng Phong , Nam Nha Trang . T.Khánh Hoà",12.217459532483968,109.18776487033199
+UPHARMA,"Nhà thuốc số 116 - 73B Hùng Vương, phường Nam Đông Hà, tỉnh Quảng Trị","73B Hùng Vương, phường Nam Đông Hà, tỉnh Quảng Trị, Việt Nam",16.811759264856537,107.10225701349536
 UPHARMA,Nhà thuốc số 115 - 87 Phan Bá Vành - Hưng Yên,87 Phan Bá Vành - Hưng Yên,20.439196559779347,106.33797769999998
 UPHARMA,"Nhà thuốc số 130 - Thôn 1/5, Xã Vĩnh Bảo, Thành phố Hải Phòng","Thôn 1/5, Xã Vĩnh Bảo, Thành phố Hải Phòng",20.688784935328474,106.48166598497684
 UPHARMA,Nhà thuốc số 135 - 01 Quang Trung - Bắc Giang - Bắc Ninh,01 Quang Trung - Bắc Giang - Bắc Ninh,21.27678493994648,106.19014762698684
@@ -56,44 +56,44 @@ UPHARMA,Nhà thuốc số 4 - 231 Miếu Hai Xã - Lê Chân - Hải Phòng,"229
 UPHARMA,Nhà thuốc số 58 - 4/5 Đồng An 1 - P.Bình Hòa - HCM,"4/5 Khu phố Đồng An 1, Phường Bình Hòa, TP HCM",10.895828247070312,106.71859741210938
 UPHARMA,Nhà Thuốc số 79 - 60 Đường A1 - KĐT Vĩnh Điềm Trung - Tây Nha Trang - Khánh Hoà,"60 Đường A1, khu đô thị Vĩnh Điềm Trung, Tây Nha Trang, Khánh Hoà",12.257443346319944,109.1672191803245
 UPHARMA,Nhà thuốc số 83 - 216 Tiểu La - Thăng Bình - ĐN,"216 Tiểu La,  Thăng Bình, ĐN",15.73891487970558,108.35274229092836
-UPHARMA,"Nhà thuốc số 133 - 42 Nguyễn Công Trứ, phường Thuận Hóa, thành phố Huế","42 Nguyễn Công Trứ, Thuận Hóa, thành phố Huế",16.43556385820011,107.78281439551473
 UPHARMA,"Nhà thuốc số 110 - Đường tỉnh lộ 624, thôn Đại An Đông 1, xã Nghĩa Hành, tỉnh Quảng Ngãi","Đường tỉnh lộ 624, thôn Đại An Đông 1, xã Nghĩa Hành, tỉnh Quảng Ngãi",15.077728716305392,108.78022245754829
+UPHARMA,"Nhà thuốc số 133 - 42 Nguyễn Công Trứ, phường Thuận Hóa, thành phố Huế","42 Nguyễn Công Trứ, Thuận Hóa, thành phố Huế",16.43556385820011,107.78281439551473
 UPHARMA,Nhà thuốc số 54 - 42 Phạm Đình Toái -  Vinh Phú - NA,"42 Phạm Đình Tóai P. Vinh Phú, Nghệ An",18.6945,105.6801
 UPHARMA,Nhà thuốc số 26 - 57 An Dương Vương - P.Trường Vinh  - NA,57 An Dương Vương  P.Trường Vinh T.Nghệ An,18.668243408203125,105.69719696044922
-UPHARMA,"Nhà thuốc số 95 - 513 Ung Văn Thiêm, Long Xuyên, tỉnh An Giang","513 Ung Văn Thiêm, Long Xuyên, tỉnh An Giang",105.4360833,10.3707778
 UPHARMA,Nhà thuốc số 55 - 172 Nguyễn Du - Trường Vinh - Nghệ An,"Số 172 Nguyễn Du, Trường Vinh, Nghệ An",18.6564,105.6972
 UPHARMA,Nhà thuốc số 72 - 281 Trần Phú - Phú Hữu - Phú Hoà -  An Giang,"281 Trần Phú, Ấp Phú Hữu , Phú Hoà , T. An Giang",10.358150470893275,105.37512820185054
 UPHARMA,"Nhà thuốc số 87 - 387 Nguyễn Văn Cừ, Thành Vinh, NA","387 Nguyễn Văn Cừ, Thành Vinh, Tỉnh Nghệ An",18.686386391754525,105.68121969293053
 UPHARMA,Nhà thuốc số 93 - 8 Lương Định Của - Tây Nha Trang - KH,"8 Lương Định Của, Tây Nha Trang, Khánh Hoà",12.2541468730198,109.17277369177454
 UPHARMA,"Nhà thuốc số 129 - 307 đường 1/9 khối 3A, Đại Đồng, Nghệ An","Số 307 đường 1/9 khối 3A, phường Đại Đồng, tỉnh Nghệ An",18.780221062302115,105.33437817116449
-UPHARMA,Nhà thuốc số 52 - TDP số 2  - Phú Bình - Thái Nguyên,TDP 2  X.Phú Bình T.Thái Nguyên  ( Cạnh UBND huyện ),21.459901809692383,105.97879028320312
+UPHARMA,"Nhà thuốc số 95 - 513 Ung Văn Thiêm, Long Xuyên, tỉnh An Giang","513 Ung Văn Thiêm, Long Xuyên, tỉnh An Giang",105.4360833,10.3707778
 UPHARMA,Nhà thuốc số 45 - 61 Nguyễn Trường Tộ - Thành Vinh - NA,61 Nguyễn Trường Tộ P.Thành Vinh T.Nghệ An,18.68197250366211,105.66161346435547
+UPHARMA,Nhà thuốc số 52 - TDP số 2  - Phú Bình - Thái Nguyên,TDP 2  X.Phú Bình T.Thái Nguyên  ( Cạnh UBND huyện ),21.459901809692383,105.97879028320312
 UPHARMA,Nhà thuốc số 60 -159 Đ.Ga Thái Nguyên - Phan Đình Phùng - Thái Nguyên,"159 Đ.Ga Thái Nguyên, Phan Đình Phùng,Thái Nguyên",21.587078094482422,105.82452392578125
 UPHARMA,"Nhà thuốc số 96 - 288 Bà triệu, Triệu Sơn, Triệu Sơn, TH","288 Bà triệu, Triệu Sơn, Triệu Sơn, TH",19.81761598912744,105.59439453615698
 UPHARMA,Nhà thuốc số 105 - Đạo Cường - Ninh Cường - Ninh Bình,"Đạo Cường , Ninh Cường , Ninh Bình",20.199243953718813,106.20579241094484
 UPHARMA,"Nhà thuốc số 124 - 157 Lê Lợi, phường Đồng Hới, tỉnh Quảng Trị","157 Lê Lợi, phường Đồng Hới, tỉnh Quảng Trị",17.455623191234466,106.62056741349537
-UPHARMA,"Nhà thuốc số 126 - 102 đường Hải Thượng Lãn Ông, Thành Sen, Hà Tĩnh","102 đường Hải Thượng Lãn Ông, Thành Sen, Hà Tĩnh",18.34377602138189,105.89647317716279
 UPHARMA,Nhà thuốc số 5 - 112 Tô Hiệu - Cẩm Phả - QN,"112 Tổ Hiệu , Cẩm Phả , Quảng Ninh",21.0069,107.2699
+UPHARMA,"Nhà thuốc số 126 - 102 đường Hải Thượng Lãn Ông, Thành Sen, Hà Tĩnh","102 đường Hải Thượng Lãn Ông, Thành Sen, Hà Tĩnh",18.34377602138189,105.89647317716279
 UPHARMA,"Nhà thuốc số 81 - S.179 Đ. 1/9, Khối 5A, TT Dùng - Đại Đồng- Nghệ An","Số 179 đường 1/9, khối 5A, Đại Đồng , Tỉnh Nghệ An",18.775085,105.339017
 UPHARMA,"Nhà thuốc số 84 - TĐ401, BDD5 -  Ninh Châu - Quảng Trị","Thửa đất 401, Tờ bản đồ số 5, Ninh Châu, Tỉnh Quảng Bình",17.36547678442926,106.67622717360345
 UPHARMA,Nhà thuốc số 9 - 12 Tố Hữu  - Hậu Lộc - Thanh Hóa,"12 Tố Hữu , Hậu Lộc , Thanh Hoá",19.91629981994629,105.88289642333984
 UPHARMA,Nhà thuốc số 106 - 1208 Mỹ Khánh - Phú Lương - Thái Nguyên,"1208 Mỹ Khánh , Phú Lương , Thái Nguyên",21.689626656605714,105.73182047933112
-UPHARMA,"Nhà thuốc số 112 - 167 đường Xuân Diệu, phường Thành Sen, tỉnh Hà Tĩnh","167 đường Xuân Diệu, phường Thành Sen, tỉnh Hà Tĩnh",18.347372090990003,105.89608553689571
 UPHARMA,"Nhà thuốc số 119 - 290 Phan Bội Châu, Phường Thuận Hoá, Thành phố Huế","290 Phan Bội Châu, Phường Thuận Hoá, Thành phố Huế",16.4426424158941,107.58324955724454
 UPHARMA,Nhà thuốc số 12 - Yên Hạnh 2 - Nga Sơn - Thanh Hóa,"Ngã 5 Hạnh  , Nga Sơn , Thanh Hoá",19.99445531816614,105.96550416201394
+UPHARMA,"Nhà thuốc số 112 - 167 đường Xuân Diệu, phường Thành Sen, tỉnh Hà Tĩnh","167 đường Xuân Diệu, phường Thành Sen, tỉnh Hà Tĩnh",18.347372090990003,105.89608553689571
+UPHARMA,Nhà thuốc số 131 - 453 Trường Chinh - Bãi Giếng Nam - Cam Lâm - KH,453 Trường Chinh - Bãi Giếng Nam - Cam Lâm - KH,12.053944,109.161138
 UPHARMA,"Nhà thuốc số 134 - Xóm Tuần A, Quỳnh Tam, Nghệ An","Xóm Tuần A, xã Quỳnh Tam, Tỉnh Nghệ An, Việt Nam",19.211816705785154,105.54192836874779
-UPHARMA,Nhà thuốc số 22 - 410 Hoàng Diệu - Đà Nẵng,410 Hoàng Diệu P.Hoà Cường TP.Đà Nẵng,16.05494499206543,108.21727752685547
 UPHARMA,Nhà thuốc số 39 - 55 Hoàng Diệu - Hội An - Đà Nẵng,"55 Hoàng Diệu, P.Hội An ,TP.Đà Nẵng",15.876601941942528,108.333144033687
 UPHARMA,Nhà thuốc số 69 - Ngọ Dương - An Phong - Hải Phòng,"tờ bản đồ số 36 , Ngọ Dương , An Phòng , Hải Phòng",20.880877651952932,106.55396529322515
 UPHARMA,Nhà thuốc số 74 - TL941- Vĩnh Lộc - Vĩnh An -  An Giang,"TL941, ấp Vĩnh Lộc, Vĩnh An, Tỉnh An Giang",4.442889369161778,105.17185281349245
 UPHARMA,Nhà thuốc số 91 - 81 Hùng Vương - Hoàn Lão - Quảng Trị,"81 Hùng Vương , Hoàn Lão , Quảng Trị",17.582744706269338,106.53566571580622
 UPHARMA,Nhà thuốc số 99 - 305 Nguyễn Huệ - Quy Nhơn - Gia Lai,,13.7665202,109.2261774
-UPHARMA,Nhà thuốc số 131 - 453 Trường Chinh - Bãi Giếng Nam - Cam Lâm - KH,453 Trường Chinh - Bãi Giếng Nam - Cam Lâm - KH,12.053944,109.161138
+UPHARMA,Nhà thuốc số 22 - 410 Hoàng Diệu - Đà Nẵng,410 Hoàng Diệu P.Hoà Cường TP.Đà Nẵng,16.05494499206543,108.21727752685547
 UPHARMA,Nhà thuốc số 10 - 194 Thái Thị Bôi - Đà Nẵng,194 Thái Thị Bôi P.Thanh Khê TP.Đà Nẵng,16.068531036376953,108.1960678100586
 UPHARMA,Nhà thuốc số 123 - 350 đường CMT8 - Phường Phan Đình Phùng - Thái Nguyên,"SN350 Đường CMT8, P.Phan Đình Phùng, Tỉnh Thái Nguyên (Ngã 5 Hoàng Ngân)",21.584941776372077,105.84785054233024
 UPHARMA,"Nhà thuốc số 111 - 558 Quang Trung, Phường Cẩm Thành, Tỉnh Quảng Ngãi","558 Quang Trung, Phường Cẩm Thành, Tỉnh Quảng Ngãi",15.119201392271265,108.80581875577678
 UPHARMA,Nhà thuốc số 128 - 221 đường Trần Văn Trà - Xã Tịnh Khê - Tính Quảng Ngãi,221 đường Trần Văn Trà - Xã Tịnh Khê - Tính Quảng Ngãi,15.15720605312855,108.84313543395663
-UPHARMA,"Nhà thuốc số 97 - 44 Nguyễn Lương Bằng, Liên Chiều, ĐN","44 Nguyễn Lương Bằng,  Liên Chiều, ĐN",108.1500847,16.0728435
 UPHARMA,Nhà thuốc số 68 - Ngã 3 Quán Chủng - An Khánh - Hải Phòng,"Ngã Ba Quán Chủng Thôn Tiến Lập, An Khánh, Hải Phòng",20.764625549316406,106.60159301757812
+UPHARMA,"Nhà thuốc số 97 - 44 Nguyễn Lương Bằng, Liên Chiều, ĐN","44 Nguyễn Lương Bằng,  Liên Chiều, ĐN",108.1500847,16.0728435
 UPHARMA,"Nhà thuốc số 109 - 34 Hoàng Diệu, Nha Trang, Khánh Hoà","34 Hoàng Diệu, Nha Trang, Khánh Hoà",12.220684206409306,109.20008035439609
 UPHARMA,"Nhà thuốc số 113 - 101 Nguyễn Du, xã Tiên Điền, tỉnh Hà Tĩnh","101 Nguyễn Du, xã Tiên Điền, tỉnh Hà Tĩnh",18.66269906164828,105.76025924392107
