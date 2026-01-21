@@ -186,10 +186,10 @@ TGDÐ,AK1_CTH_BTH - Bình Thuỷ,"Lê Hồng Phong, Phường Bình Thủy, Thà
 TGDÐ,AK1_CTH_CDO - Cờ Đỏ,"Ấp Thới Thuận, Xã Cờ Đỏ, Thành phố Cần Thơ, Việt Nam",10.09384,105.429966,2022-08-25
 TGDÐ,AK1_CTH_CKH - 148 Trần Việt Châu,"148 Trần Việt Châu, Phường Cái Khế, Thành phố Cần Thơ, Việt Nam",10.0495355,105.7740051,2026-01-27
 TGDÐ,AK1_CTH_CRA - KDC Phú An,"Khu dân cư Phú An (Lô số 20), Khu Đô Thị Mới Nam Sông Hậu, Phường Hưng Phú, Thành phố Cần Thơ, Việt Nam",10.004169,105.8068607,2022-07-25
-TGDÐ,AK1_CTH_MXU - 1A Đường DT-934,"1A DT934, Phường Mỹ Xuyên, Thành phố Cần Thơ, Việt Nam",9.559846,105.990812,2026-01-23
+TGDÐ,AK1_CTH_MXU - 1A Đường DT-934,"1A DT934, Phường Mỹ Xuyên, Thành phố Cần Thơ, Việt Nam",9.559846,105.990812,2026-01-31
 TGDÐ,AK1_CTH_NKI - Nguyễn Văn Linh,"311 Nguyễn Văn Linh, Phường Tân An, Thành phố Cần Thơ, Việt Nam",10.028727,105.753961,2022-04-15
 TGDÐ,AK1_CTH_THO - Chợ Bảy Ngàn,"DT 931B, Xã Tân Hoà, Thành phố Cần Thơ, Việt Nam",9.8845783,105.5850154,2025-11-22
-TGDÐ,AK1_CTH_TNH - Trung Nhứt,"Phường Trung Nhứt, Thành phố Cần Thơ, Việt Nam",10.2051348,105.5043194,2026-01-25
+TGDÐ,AK1_CTH_TNH - Trung Nhứt,"Phường Trung Nhứt, Thành phố Cần Thơ, Việt Nam",10.2051348,105.5043194,2026-02-01
 TGDÐ,AK1_CTH_VTH - Thị trấn Vĩnh Thạnh,"Ấp Qui Lân 5, Xã Vĩnh Thạnh, Thành phố Cần Thơ, Việt Nam",10.2309201,105.3961111,2022-06-25
 TGDÐ,AK1_DLA_BHO - 01 Phạm Ngũ Lão,"Số 01 Phạm Ngũ Lão, Phường Buôn Hồ, Tỉnh Đắk Lắk, Việt Nam",12.917072,108.2644489,2022-04-23
 TGDÐ,AK1_DLA_BHO - 66 Trần Hưng Đạo,"66 Trần Hưng Đạo, tổ dân phố 06, Phường Buôn Hồ, Tỉnh Đắk Lắk, Việt Nam",12.9175725,108.2672029,2022-04-16
@@ -316,7 +316,7 @@ TGDÐ,AK1_HCM_TPH - 148 Tây Thạnh,"148 Tây Thạnh, Phường Tây Thạnh, 
 TGDÐ,AK1_HCM_TPH - 20 Bờ Bao Tân Thắng,"20 Bờ Bao Tân Thắng, Phường Tân Sơn Nhì, Thành phố Hồ Chí Minh, Việt Nam",10.8066518,106.6217047,2023-05-20
 TGDÐ,AK1_HCM_TPH - 28 Trịnh Đình Thảo,"28 Trịnh Đình Thảo, Phường Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",10.7750138,106.635053,2019-03-02
 TGDÐ,AK1_HCM_TPH - 61 Nguyễn Đỗ Cung,"61 Nguyễn Đỗ Cung, Phường Tây Thạnh, Thành phố Hồ Chí Minh, Việt Nam",10.8078456,106.6291341,2022-09-12
-TGDÐ,AK1_HCM_TTH - 363 Nguyễn Văn Khối,"363 Nguyễn Văn Khối, Phường Thông Tây Hội, Thành phố Hồ Chí Minh, Việt Nam",10.8435398,106.6492027,2026-01-24
+TGDÐ,AK1_HCM_TTH - 363 Nguyễn Văn Khối,"363 Nguyễn Văn Khối, Phường Thông Tây Hội, Thành phố Hồ Chí Minh, Việt Nam",10.8435398,106.6492027,2026-02-01
 TGDÐ,AK1_KGI_ABI - Thị trấn Thứ Ba,"Tổ 5, Khu phố 2, Xã An Biên, Tỉnh An Giang, Việt Nam",9.8137063,105.0608145,2025-10-06
 TGDÐ,AK1_KGI_CTH - Minh Lương,"Đường Quốc Lộ 61, Tổ 12, Khu phố Minh An, Xã Châu Thành, Tỉnh An Giang, Việt Nam",9.904122,105.1596943,2022-05-22
 TGDÐ,AK1_KGI_GRI - Bến Nhứt,"Ấp Đồng Tràm, Xã Long Thạnh, Tỉnh An Giang, Việt Nam",9.8527536,105.238567,2025-09-06
@@ -362,7 +362,7 @@ TGDÐ,AK1_LDO_DLI - 922 Hùng Vương,"Khu 4, xã Di Linh, tỉnh Lâm Đồng, 
 TGDÐ,AK1_LDO_DTE - Thị Trấn Đạ Tẻh,"Tổ dân phố 2a, Xã Đạ Tẻh, Tỉnh Lâm Đồng, Việt Nam",11.5046694,107.4871483,2022-08-28
 TGDÐ,AK1_LDO_DTR - Đức Trọng,"484 Trần Phú, Xã Đức Trọng, Tỉnh Lâm Đồng, Việt Nam",11.7302093,108.3720163,2025-12-27
 TGDÐ,AK1_LDO_KNO - 155 Nguyễn Tất Thành,"155 Nguyễn Tất Thành, Xã Krông Nô, Tỉnh Lâm Đồng, Việt Nam",12.4640551,107.861518,2026-01-18
-TGDÐ,AK1_LDO_LHU - 33 Hải Thượng Lãn Ông,"Khu phố 4, số 33 Hải Thượng Lãn Ông, thị trấn Liên Hương, xã Liên Hương, tỉnh Lâm Đồng, Việt Nam",11.2251594,108.7296764,2026-01-24
+TGDÐ,AK1_LDO_LHU - 33 Hải Thượng Lãn Ông,"Khu phố 4, số 33 Hải Thượng Lãn Ông, thị trấn Liên Hương, xã Liên Hương, tỉnh Lâm Đồng, Việt Nam",11.2251594,108.7296764,2026-01-31
 TGDÐ,AK1_LDO_PHO - 100 Lê Lợi,"Số 100 đường Lê Lợi, Phường Phước Hội, Tỉnh Lâm Đồng, Việt Nam",10.6620553,107.7742243,2026-01-31
 TGDÐ,AK1_NTH_PRA - 317 Thống Nhất,"317 Thống Nhất, Phường Phan Rang, Tỉnh Khánh Hòa, Việt Nam",11.570308,108.991363,2022-06-11
 TGDÐ,AK1_NTH_PRA - 486 Thống Nhất,"486 - 488 Thống Nhất, Phường Phan Rang, Tỉnh Khánh Hòa, Việt Nam",11.5628382,108.9902615,2022-07-04
@@ -403,9 +403,9 @@ TGDÐ,AK1_VLO_CVO - Bình Minh,"Phường Cái Vồn, Tỉnh Vĩnh Long, Việt 
 TGDÐ,AK1_VLO_LHO - Long Hồ,"Khóm 1, Xã Long Hồ, Tỉnh Vĩnh Long, Việt Nam",10.1924616,106.0114803,2022-08-30
 TGDÐ,AK1_VLO_MLO - Mỹ Long,"Khóm 2, Xã Mỹ Long, Tỉnh Vĩnh Long, Việt Nam",9.8100194,106.5084154,2025-11-15
 TGDÐ,AK1_VLO_MTH - Cái Nhum (Mang Thít),"Khóm 1, Xã Cái Nhum, Tỉnh Vĩnh Long, Việt Nam",10.1744792,106.1089649,2022-08-30
-TGDÐ,AK1_VLO_TBI - Thành Bình,"Ấp Chợ Xếp, Xã Tân Thành Bình, Tỉnh Vĩnh Long, Việt Nam",10.2026828,106.3280617,2026-01-23
+TGDÐ,AK1_VLO_TBI - Thành Bình,"Ấp Chợ Xếp, Xã Tân Thành Bình, Tỉnh Vĩnh Long, Việt Nam",10.2026828,106.3280617,2026-01-30
 TGDÐ,AK1_VLO_THA - Tân Hào,"Ấp 1, Xã Tân Hào, Tỉnh Vĩnh Long, Việt Nam",10.139107,106.465695,2026-01-10
 TGDÐ,AK1_VLO_TTH - Thành Thới,"Xã Thành Thới, Tỉnh Vĩnh Long, Việt Nam",10.0686226,106.3638773,2025-12-07
-TGDÐ,AK1_VLO_VKI - Vinh Kim,"Ấp Chà Và, Xã Vinh Kim, Tỉnh Vĩnh Long, Việt Nam",9.852858,106.443502,2026-01-24
+TGDÐ,AK1_VLO_VKI - Vinh Kim,"Ấp Chà Và, Xã Vinh Kim, Tỉnh Vĩnh Long, Việt Nam",9.852858,106.443502,2026-01-31
 TGDÐ,AK1_VLO_VLI - 158A Nam Kỳ Khởi Nghĩa,"158A Nam Kỳ Khởi Nghĩa, Khóm 2, Xã Trung Thành, Tỉnh Vĩnh Long, Việt Nam",10.095344,106.185732,2022-06-17
 TGDÐ,AK1_VLO_VLO - 110B Trưng Nữ Vương,"110B Trưng Nữ Vương, Phường Long Châu, Tỉnh Vĩnh Long, Việt Nam",10.2517331,105.9726153,2022-08-13
