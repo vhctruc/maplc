@@ -2492,7 +2492,7 @@ FLC,"82566-LC HPG 159 Trung Lăng, X. Tiên Lãng","159 Trung Lăng, TT. Tiên L
 FLC,"82567-LC HPG Lô 106.1 Nguyễn Văn Linh, P. Lê Thanh Nghị","106.1 Nguyễn Văn Linh, P. Tân Bình, TP. Hải Dương, Tỉnh Hải Dương",0.0,0.0,
 FLC,"82568-LC QNH 86B Thống Nhất, X. Tiên Yên","86B Thống Nhất, TT. Tiên Yên, H. Tiên Yên, Tỉnh Quảng Ninh",21.3300403561393,107.398495785036,Chợ; Ðối thủ; Phòng khám / TYT; Trường học
 FLC,"82569-LC THA TDP Huệ Nghiêm, P. Nam Sầm Sơn","TDP Huệ Nghiêm, X. Quảng Hùng, TP. Sầm Sơn, Tỉnh Thanh Hóa",19.712623,105.841704,Chợ; Ðối thủ; Trường học
-FLC,"82570-LC LCU Bản Cầu Phà, X. Pa Tần","Bản Cầu Phà, Xã Trung Chải, Huyện Nậm Nhùn, Tỉnh Lai Châu",0.0,0.0,
+FLC,"82570-LC LCU Bản Cầu Phà, X. Pa Tần","Bản Cầu Phà, Xã Trung Chải, Huyện Nậm Nhùn, Tỉnh Lai Châu",22.466868,103.197611,Chợ; UBND Phường/Xã
 FLC,"82571-LC BNH TDP 284, P. Đa Mai","Tổ Dân Phố 284, P. Đa Mai, TP. Bắc Giang, Tỉnh Bắc Giang",0.0,0.0,
 FLC,"82572-LC HPG Thôn Cẩm Văn, X. An Quang","Thôn Cẩm Văn, X. Quốc Tuấn, H. An Lão, TP. Hải Phòng",0.0,0.0,
 FLC,"82573-LC LCI Thôn 5 Cổ Phúc, X. Trấn Yên","Thôn 5 Cổ Phúc, X. Báo Đáp, H. Trấn Yên, Tỉnh Yên Bái",0.0,0.0,
@@ -2503,6 +2503,7 @@ FLC,"82578-LC QTI TDP Phú Thượng, P. Đồng Hới","TDP Phú Thượng, P. 
 FLC,"82579-LC CTO 119 Nguyễn Trọng Quyền, X. Trung Hưng","119 Nguyễn Trọng Quyền, X. Trung Thạnh, H. Cờ Đỏ, TP. Cần Thơ",10.212494,105.519707,Phòng khám / TYT; Trường học
 FLC,"82580-LC TNH 45 Nguyễn Trung Trực, X. Tân Trụ","45 Nguyễn Trung Trực, TT. Tân Trụ, H. Tân Trụ, Tỉnh Long An",0.0,0.0,
 FLC,"82581-LC DNI 305 Quốc Lộ 51, P. Tam Phước","305 Quốc Lộ 51, P. Tam Phước, TP. Biên Hòa, Tỉnh Đồng Nai",0.0,0.0,
+FLC,"82582-LC HCM 325 Phạm Ngọc Thạch, P. Phú Lợi","325 Phạm Ngọc Thạch, P. Hiệp Thành, TP. Thủ Dầu Một, Tỉnh Bình Dương",0.0,0.0,
 FLC,"82583-LC LĐG 2 Phạm Ngọc Thạch, P. Cam Ly-Đà Lạt","2 Phạm Ngọc Thạch, P. 6, TP. Đà Lạt, Tỉnh Lâm Đồng",0.0,0.0,
 FLC,"82594-LC NBH Thôn 15 Yên Định, X. Hải Hậu","Thôn 15 Yên Định, TT. Yên Định, H. Hải Hậu, Tỉnh Nam Định",0.0,0.0,
 FLC,"82595-LC HYN TDP Ô Mễ 2, P. Thái Bình","Tổ Dân Phố Ô Mễ 2, X. Tân Phong, H. Vũ Thư, Tỉnh Thái Bình",0.0,0.0,
